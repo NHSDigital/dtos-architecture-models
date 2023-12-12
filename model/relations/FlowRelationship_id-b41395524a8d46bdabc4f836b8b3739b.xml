@@ -1,12 +1,12 @@
-<archimate:ServingRelationship
+<archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Send Cohort"
-    id="id-55cb80d4a5874f88a11146f6efe56dcf">
+    id="id-b41395524a8d46bdabc4f836b8b3739b">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-dab8781fd4684146809927e8b40d1676.xml#id-dab8781fd4684146809927e8b40d1676"/>
   <target
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-53c3b092e0d44afa9e7adcb15d401769.xml#id-53c3b092e0d44afa9e7adcb15d401769"/>
-</archimate:ServingRelationship>
+</archimate:FlowRelationship>

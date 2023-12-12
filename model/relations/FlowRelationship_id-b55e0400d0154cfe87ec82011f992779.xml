@@ -1,12 +1,12 @@
-<archimate:ServingRelationship
+<archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Send Completed Episodes"
-    id="id-ba78d005f04d4e5481e7205aa8272e2b">
+    id="id-b55e0400d0154cfe87ec82011f992779">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-37e0b84507a1417eb1cabf02388d085a.xml#id-37e0b84507a1417eb1cabf02388d085a"/>
   <target
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-d3d4525596bd4d798985d4c1804524c4.xml#id-d3d4525596bd4d798985d4c1804524c4"/>
-</archimate:ServingRelationship>
+</archimate:FlowRelationship>
