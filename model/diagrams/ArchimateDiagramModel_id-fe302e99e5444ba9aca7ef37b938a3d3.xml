@@ -552,7 +552,7 @@
       </sourceConnections>
       <bounds
           x="25"
-          y="288"
+          y="300"
           width="204"
           height="252"/>
       <children
@@ -591,13 +591,18 @@
             id="id-24a9721535ac44ad9acf3caa8880a9bf"
             source="id-2952321954dd41089fafc38065931817"
             target="id-a892cb38707944eebf6a51c7b4f760a2">
+          <bendpoints
+              startX="287"
+              startY="-6"
+              endX="-312"
+              endY="180"/>
           <archimateRelationship
               xsi:type="archimate:FlowRelationship"
               href="FlowRelationship_id-cdd0d43235ca484c8ba8f87d9227c41f.xml#id-cdd0d43235ca484c8ba8f87d9227c41f"/>
         </sourceConnections>
         <bounds
-            x="12"
-            y="36"
+            x="24"
+            y="72"
             width="169"
             height="157"/>
         <children
@@ -706,10 +711,10 @@
           source="id-3f29df26852b4d3dbbe61027c867a058"
           target="id-5221e50c94054201b2aa202a7fad67be">
         <bendpoints
-            startX="-432"
-            startY="-156"
-            endX="252"
-            endY="127"/>
+            startX="-420"
+            startY="-228"
+            endX="264"
+            endY="54"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-c932e3f238d04cb78a380f848d701419.xml#id-c932e3f238d04cb78a380f848d701419"/>
@@ -732,7 +737,7 @@
       id="id-a45849530ede4a2ba2c8d799a178d206">
     <bounds
         x="1356"
-        y="348"
+        y="288"
         width="312"
         height="181"/>
     <children
@@ -787,8 +792,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e953f0a902b640c6be494836fceccd62">
     <bounds
-        x="1704"
-        y="336"
+        x="1740"
+        y="288"
         width="276"
         height="181"/>
     <children
@@ -796,8 +801,8 @@
         id="id-2b3d9eb45e9145da9c545b5baa9ba49c"
         targetConnections="id-0ec5f42334284322a084260d02845fc9">
       <bounds
-          x="48"
-          y="36"
+          x="60"
+          y="72"
           width="156"
           height="73"/>
       <archimateElement
@@ -979,6 +984,11 @@
             id="id-9817f15d5878464eae5537799ef537a0"
             source="id-ba7972f95028491eb1dd11b3b76e08d5"
             target="id-5221e50c94054201b2aa202a7fad67be">
+          <bendpoints
+              startX="-248"
+              startY="138"
+              endX="276"
+              endY="-42"/>
           <archimateRelationship
               xsi:type="archimate:FlowRelationship"
               href="FlowRelationship_id-2938f4525d544826a546c1f5f1213b14.xml#id-2938f4525d544826a546c1f5f1213b14"/>
