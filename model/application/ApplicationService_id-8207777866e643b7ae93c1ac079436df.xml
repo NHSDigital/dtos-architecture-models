@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send DES Cohort"
+    id="id-8207777866e643b7ae93c1ac079436df">
+  <properties
+      key="Release Number"
+      value="0"/>
+</archimate:ApplicationService>
