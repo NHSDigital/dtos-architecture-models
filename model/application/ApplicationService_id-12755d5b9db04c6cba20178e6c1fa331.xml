@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manage Eligibility Rules"
-    id="id-12755d5b9db04c6cba20178e6c1fa331"/>
+    id="id-12755d5b9db04c6cba20178e6c1fa331">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:ApplicationService>

@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Recieve Completed Episodes"
-    id="id-c692bdd9c1a74eac87ec7b247d35aa43"/>
+    id="id-c692bdd9c1a74eac87ec7b247d35aa43">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:ApplicationService>

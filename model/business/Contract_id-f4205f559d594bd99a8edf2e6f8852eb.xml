@@ -1,4 +1,8 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Eligibility Rules"
-    id="id-f4205f559d594bd99a8edf2e6f8852eb"/>
+    id="id-f4205f559d594bd99a8edf2e6f8852eb">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:Contract>

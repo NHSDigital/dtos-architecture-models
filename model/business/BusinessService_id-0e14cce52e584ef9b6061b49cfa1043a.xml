@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Data Analytics Service (ScAS)"
-    id="id-0e14cce52e584ef9b6061b49cfa1043a"/>
+    id="id-0e14cce52e584ef9b6061b49cfa1043a">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:BusinessService>

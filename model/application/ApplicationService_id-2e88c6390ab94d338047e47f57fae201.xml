@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Get Participant"
-    id="id-2e88c6390ab94d338047e47f57fae201"/>
+    id="id-2e88c6390ab94d338047e47f57fae201">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:ApplicationService>

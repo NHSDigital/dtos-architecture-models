@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Outbound Transition Services"
-    id="id-d92236a6cc2249f9bfe70ac4c7e9737f"/>
+    id="id-d92236a6cc2249f9bfe70ac4c7e9737f">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:ApplicationService>

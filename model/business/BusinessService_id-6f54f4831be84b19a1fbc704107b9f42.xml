@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Screening Data Platform Buisness Rules (ScBR)"
-    id="id-6f54f4831be84b19a1fbc704107b9f42"/>
+    name="Screening Data Platform Business Rules (ScBR)"
+    id="id-6f54f4831be84b19a1fbc704107b9f42">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:BusinessService>

@@ -1,8 +1,8 @@
-<archimate:ApplicationService
+<archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DPSe"
-    id="id-1b2af84dd3fe41db8e67489219c56d4c">
+    name="Invitation Rules"
+    id="id-f76597e169a146fa92e563f3de044afd">
   <properties
       key="Created in Release"
       value="Release 0"/>
-</archimate:ApplicationService>
+</archimate:Contract>

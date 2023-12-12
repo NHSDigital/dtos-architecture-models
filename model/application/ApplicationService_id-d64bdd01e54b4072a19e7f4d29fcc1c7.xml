@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Participant Summary Portal"
-    id="id-d64bdd01e54b4072a19e7f4d29fcc1c7"/>
+    id="id-d64bdd01e54b4072a19e7f4d29fcc1c7">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:ApplicationService>

@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Breast Screening Information Service"
-    id="id-beb118ad69c04b61ae49710c593e7f44"/>
+    id="id-beb118ad69c04b61ae49710c593e7f44">
+  <properties
+      key="Third Party Systems"
+      value="True"/>
+</archimate:ApplicationService>

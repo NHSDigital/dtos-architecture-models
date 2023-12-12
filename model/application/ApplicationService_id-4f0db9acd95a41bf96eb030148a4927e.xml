@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CaaS Application "
-    id="id-4f0db9acd95a41bf96eb030148a4927e"/>
+    id="id-4f0db9acd95a41bf96eb030148a4927e">
+  <properties
+      key="Third Party Systems"
+      value="True"/>
+</archimate:ApplicationService>

@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Ingestion Services"
-    id="id-3a8ac5007d5645389d297b34ac051e4a"/>
+    id="id-3a8ac5007d5645389d297b34ac051e4a">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:ApplicationService>

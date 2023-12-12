@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scvreeening Core Services (ScCS)"
-    id="id-f92702b02a5f4861b42fdf8f78300ab8"/>
+    id="id-f92702b02a5f4861b42fdf8f78300ab8">
+  <properties
+      key="Created in Release"
+      value="Release 0"/>
+</archimate:BusinessService>
