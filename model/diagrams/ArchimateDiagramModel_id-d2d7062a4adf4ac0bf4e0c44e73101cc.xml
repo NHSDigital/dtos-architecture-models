@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Main - Release 0 Teams"
+    name="Main - Release 0 Teams (Deprecated)"
     id="id-d2d7062a4adf4ac0bf4e0c44e73101cc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -121,7 +121,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e006b96e389b45c98b54d04e5a1be335"
-      targetConnections="id-d86bbd23035f47e280ab95319fe72f59">
+      targetConnections="id-d86bbd23035f47e280ab95319fe72f59 id-4629b4905966430dab1e133a9cf3813b id-f132027b307f49d4a21fbabaf1ad0d50">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-91256da83454403e81bef6bb999c2bc0"
@@ -157,7 +157,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4629b4905966430dab1e133a9cf3813b"
         source="id-464c7e6b241e40de9d392686d665aa7a"
-        target="id-f47ded95405f4e2bbf59145c77e22e1e">
+        target="id-e006b96e389b45c98b54d04e5a1be335">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-f4f5ee7bae494883b1258543e2d8671d.xml#id-f4f5ee7bae494883b1258543e2d8671d"/>
@@ -373,8 +373,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f47ded95405f4e2bbf59145c77e22e1e"
-      targetConnections="id-4629b4905966430dab1e133a9cf3813b">
+      id="id-f47ded95405f4e2bbf59145c77e22e1e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3b3288125358457cafd74eb7f7928e65"
@@ -436,7 +435,7 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f132027b307f49d4a21fbabaf1ad0d50"
         source="id-51bfae4c7bb6441181ee8d6fa4c053f8"
-        target="id-0f121be268a34c82bd2b4e7f9ea03229">
+        target="id-e006b96e389b45c98b54d04e5a1be335">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8a153fb3a0a14da5b852629bce017904.xml#id-8a153fb3a0a14da5b852629bce017904"/>
@@ -509,8 +508,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0f121be268a34c82bd2b4e7f9ea03229"
-      targetConnections="id-f132027b307f49d4a21fbabaf1ad0d50">
+      id="id-0f121be268a34c82bd2b4e7f9ea03229">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c37413cdd04741369892dbdf3966825f"

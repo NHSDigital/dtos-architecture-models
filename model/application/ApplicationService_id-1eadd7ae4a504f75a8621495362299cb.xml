@@ -1,7 +1,7 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Rules Mangement Service"
-    id="id-d3f7ec580a4949f79f0604b9dfc16853">
+    name="Get Other Participant  Details"
+    id="id-1eadd7ae4a504f75a8621495362299cb">
   <properties
       key="Created in Release"
       value="Release 0"/>

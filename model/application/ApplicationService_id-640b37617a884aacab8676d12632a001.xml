@@ -1,7 +1,7 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Rules Mangement Service"
-    id="id-d3f7ec580a4949f79f0604b9dfc16853">
+    name="CaaS Integration Service (copy)"
+    id="id-640b37617a884aacab8676d12632a001">
   <properties
       key="Created in Release"
       value="Release 0"/>

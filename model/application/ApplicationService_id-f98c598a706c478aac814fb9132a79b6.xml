@@ -1,7 +1,7 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Rules Mangement Service"
-    id="id-d3f7ec580a4949f79f0604b9dfc16853">
+    name="Manage Eligibility Rules (copy)"
+    id="id-f98c598a706c478aac814fb9132a79b6">
   <properties
       key="Created in Release"
       value="Release 0"/>

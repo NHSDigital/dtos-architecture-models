@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Use Eligibility Rules"
+    id="id-385ddd0e388e4208ac3a28491febd336">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-f98c598a706c478aac814fb9132a79b6.xml#id-f98c598a706c478aac814fb9132a79b6"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-b313857062164368b425f0dcac981c58.xml#id-b313857062164368b425f0dcac981c58"/>
+</archimate:FlowRelationship>
