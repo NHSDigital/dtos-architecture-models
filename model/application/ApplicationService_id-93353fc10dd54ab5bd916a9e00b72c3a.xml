@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Caas - Get Eligible DES Cohort"
+    name="CaaS Integration: Get Eligible DES Cohort"
     id="id-93353fc10dd54ab5bd916a9e00b72c3a">
   <properties
       key="Release Number"

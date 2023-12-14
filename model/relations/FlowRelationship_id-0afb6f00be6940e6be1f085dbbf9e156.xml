@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Screening History"
     id="id-0afb6f00be6940e6be1f085dbbf9e156">
   <source
       xsi:type="archimate:ApplicationService"
