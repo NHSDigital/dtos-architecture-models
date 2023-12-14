@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Main - Release 0"
     id="id-1cf9126f6f8e4dd5b834303c33f5db98"
-    viewpoint="product">
+    viewpoint="information_structure">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9176619f336548c48f86ce662f2dcd2a"
