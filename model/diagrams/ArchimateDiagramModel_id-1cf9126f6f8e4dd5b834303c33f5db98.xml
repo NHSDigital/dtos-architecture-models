@@ -776,19 +776,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2c962a74e8094b0ba481ca4462f16b98"
-      textAlignment="1">
-    <bounds
-        x="48"
-        y="1560"
-        width="400"
-        height="140"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-c8713acc85e7419ab9662231d3b8b5e0.xml#id-c8713acc85e7419ab9662231d3b8b5e0"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1a549b7b78174e24881dee131968669d"
       targetConnections="id-aeb64f80d0ea471a88659cc5bbcb397d id-c0734a12636a44599c2a0c089a7d74c9">
     <sourceConnections
