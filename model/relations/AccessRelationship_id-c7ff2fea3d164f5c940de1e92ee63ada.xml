@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Eligibility Rules"
     id="id-c7ff2fea3d164f5c940de1e92ee63ada">
   <source
       xsi:type="archimate:ApplicationService"

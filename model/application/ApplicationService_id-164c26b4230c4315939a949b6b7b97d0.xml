@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Caas - Get Eligible Breast Cohort (copy)"
-    id="id-164c26b4230c4315939a949b6b7b97d0">
-  <properties
-      key="Created in Release"
-      value="Release 0"/>
-</archimate:ApplicationService>

@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Send Participant Lists"
-    id="id-26454d1193be44c4bd5774e3f7aac805">
+    name="Other Participant Data"
+    id="id-c2052d33d91443a7866acc70ece8fd47">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-4f0db9acd95a41bf96eb030148a4927e.xml#id-4f0db9acd95a41bf96eb030148a4927e"/>
   <target
       xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-b10b04a5a1cc4261a6f1f9a1853dee83.xml#id-b10b04a5a1cc4261a6f1f9a1853dee83"/>
+      href="ApplicationService_id-1eadd7ae4a504f75a8621495362299cb.xml#id-1eadd7ae4a504f75a8621495362299cb"/>
 </archimate:FlowRelationship>

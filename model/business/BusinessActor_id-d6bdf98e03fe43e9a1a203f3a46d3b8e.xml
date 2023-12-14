@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cluster Team"
-    id="id-d6bdf98e03fe43e9a1a203f3a46d3b8e"/>
+    id="id-d6bdf98e03fe43e9a1a203f3a46d3b8e">
+  <properties
+      key="URL"
+      value="https://nhsd-confluence.digital.nhs.uk/pages/viewpage.action?pageId=740957975"/>
+</archimate:BusinessActor>
