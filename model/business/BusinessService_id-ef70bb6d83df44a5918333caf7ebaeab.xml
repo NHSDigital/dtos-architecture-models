@@ -1,8 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Diabetic Eye Service"
-    id="id-ef70bb6d83df44a5918333caf7ebaeab">
-  <properties
-      key="Third Party Systems"
-      value="True"/>
-</archimate:BusinessService>
