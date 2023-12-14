@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C - Participant Management"
+    id="EAID_545FEEF5_05F7_485a_9C30_0628302455AC">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="IN"/>
+</archimate:Capability>

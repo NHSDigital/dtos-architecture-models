@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E2 - Manage Appointments"
+    id="EAID_07735C1A_0F74_4080_A8BF_B083EBB1EE22">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="IN"/>
+</archimate:Capability>

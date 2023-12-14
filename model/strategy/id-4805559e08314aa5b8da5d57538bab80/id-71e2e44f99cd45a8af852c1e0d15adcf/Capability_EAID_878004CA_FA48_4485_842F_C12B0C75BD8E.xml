@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B31 - Manage Locations"
+    id="EAID_878004CA_FA48_4485_842F_C12B0C75BD8E">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="IN"/>
+</archimate:Capability>

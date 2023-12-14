@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G21 - Communicate with GP"
+    id="EAID_04BAD771_DE34_4ee0_BD99_7830F78D1CFC">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="In By Inference"/>
+</archimate:Capability>

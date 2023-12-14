@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F2 - Screening Process Management"
+    id="EAID_7E640FC7_AD7B_4155_8AA7_2701C5F55117">
+  <properties
+      key="Platform"
+      value="SEM"/>
+  <properties
+      key="PBC SCOPE"
+      value="Moderate Risk"/>
+</archimate:Capability>

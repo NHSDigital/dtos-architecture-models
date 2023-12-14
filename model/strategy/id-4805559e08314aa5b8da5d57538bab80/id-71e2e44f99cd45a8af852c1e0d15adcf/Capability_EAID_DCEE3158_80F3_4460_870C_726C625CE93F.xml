@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G32 - Manage Incident"
+    id="EAID_DCEE3158_80F3_4460_870C_726C625CE93F">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="In By Inference"/>
+</archimate:Capability>

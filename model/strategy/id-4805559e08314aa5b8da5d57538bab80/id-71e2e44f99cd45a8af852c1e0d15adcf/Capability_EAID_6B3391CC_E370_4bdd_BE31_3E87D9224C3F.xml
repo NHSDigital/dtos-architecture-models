@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F34 - Terminate Post-Screening Pathway"
+    id="EAID_6B3391CC_E370_4bdd_BE31_3E87D9224C3F">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="In By Inference"/>
+</archimate:Capability>

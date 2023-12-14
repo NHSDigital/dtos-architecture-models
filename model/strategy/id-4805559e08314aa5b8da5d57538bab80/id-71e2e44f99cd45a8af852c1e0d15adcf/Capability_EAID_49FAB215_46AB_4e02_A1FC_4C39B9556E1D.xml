@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C32 - Manage Preferred locations"
+    id="EAID_49FAB215_46AB_4e02_A1FC_4C39B9556E1D">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="IN"/>
+</archimate:Capability>

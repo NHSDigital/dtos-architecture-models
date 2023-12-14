@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E4 - Subject Access Requests"
+    id="EAID_5568EAEC_C953_430a_8270_693671F445DB">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="In by Inference"/>
+</archimate:Capability>

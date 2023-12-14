@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F24 - Verify Screening Results"
+    id="EAID_F3B6DEF1_6058_4a36_BBEF_AAA19ED6B992">
+  <properties
+      key="Platform"
+      value="SEM"/>
+  <properties
+      key="PBC SCOPE"
+      value="Moderate Risk"/>
+</archimate:Capability>

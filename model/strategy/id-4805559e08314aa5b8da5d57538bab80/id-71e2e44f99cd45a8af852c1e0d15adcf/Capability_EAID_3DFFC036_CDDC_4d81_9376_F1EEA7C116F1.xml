@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F23 - Analyse Screening Results"
+    id="EAID_3DFFC036_CDDC_4d81_9376_F1EEA7C116F1">
+  <properties
+      key="Platform"
+      value="SEM"/>
+  <properties
+      key="PBC SCOPE"
+      value="Moderate Risk"/>
+</archimate:Capability>

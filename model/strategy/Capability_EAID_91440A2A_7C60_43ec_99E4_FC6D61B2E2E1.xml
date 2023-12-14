@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B4 - Management Information"
+    id="EAID_91440A2A_7C60_43ec_99E4_FC6D61B2E2E1">
+  <properties
+      key="Platform"
+      value="DPSE"/>
+  <properties
+      key="PBC SCOPE"
+      value="OUT"/>
+</archimate:Capability>

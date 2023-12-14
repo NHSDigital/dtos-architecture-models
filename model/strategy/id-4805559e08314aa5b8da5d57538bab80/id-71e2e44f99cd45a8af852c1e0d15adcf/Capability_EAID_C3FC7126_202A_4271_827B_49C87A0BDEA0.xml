@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F31 - Receive Screening Results"
+    id="EAID_C3FC7126_202A_4271_827B_49C87A0BDEA0">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="In By Inference"/>
+</archimate:Capability>

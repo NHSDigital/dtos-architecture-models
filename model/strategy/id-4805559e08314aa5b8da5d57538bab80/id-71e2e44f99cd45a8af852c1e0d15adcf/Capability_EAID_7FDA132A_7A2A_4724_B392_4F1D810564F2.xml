@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G31 - Detect and Open Incident"
+    id="EAID_7FDA132A_7A2A_4724_B392_4F1D810564F2">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="In By Inference"/>
+</archimate:Capability>

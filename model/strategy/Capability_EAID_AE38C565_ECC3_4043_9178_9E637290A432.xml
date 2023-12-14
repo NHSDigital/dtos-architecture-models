@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="F - Execute Screening Pathway"
+    id="EAID_AE38C565_ECC3_4043_9178_9E637290A432">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="IN"/>
+</archimate:Capability>

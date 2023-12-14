@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G12 - Conduct Investigation"
+    id="EAID_8ABB22FD_A5F0_4474_A927_29DAA31418F4">
+  <properties
+      key="Platform"
+      value="SEM"/>
+  <properties
+      key="PBC SCOPE"
+      value="In By Inference"/>
+</archimate:Capability>

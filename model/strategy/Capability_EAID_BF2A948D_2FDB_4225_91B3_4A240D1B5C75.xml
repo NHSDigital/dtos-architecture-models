@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E3 - Update my details"
+    id="EAID_BF2A948D_2FDB_4225_91B3_4A240D1B5C75">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="OUT"/>
+</archimate:Capability>

@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A3 - Business Intelligence"
+    id="EAID_EC8B91E7_8F3B_42b8_B523_324A5C22B032">
+  <properties
+      key="Platform"
+      value="DPSE"/>
+  <properties
+      key="PBC SCOPE"
+      value="In By Inference"/>
+</archimate:Capability>

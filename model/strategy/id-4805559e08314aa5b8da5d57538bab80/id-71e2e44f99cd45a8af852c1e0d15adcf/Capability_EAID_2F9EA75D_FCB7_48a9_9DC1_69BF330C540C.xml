@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D32 - Measure and Monitor Pathway"
+    id="EAID_2F9EA75D_FCB7_48a9_9DC1_69BF330C540C">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="IN"/>
+</archimate:Capability>

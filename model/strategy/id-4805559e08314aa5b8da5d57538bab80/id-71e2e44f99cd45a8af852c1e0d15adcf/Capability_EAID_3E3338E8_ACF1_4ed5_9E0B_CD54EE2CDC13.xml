@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D13 - Adapt Pre-screening Pathway"
+    id="EAID_3E3338E8_ACF1_4ed5_9E0B_CD54EE2CDC13">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="IN"/>
+</archimate:Capability>

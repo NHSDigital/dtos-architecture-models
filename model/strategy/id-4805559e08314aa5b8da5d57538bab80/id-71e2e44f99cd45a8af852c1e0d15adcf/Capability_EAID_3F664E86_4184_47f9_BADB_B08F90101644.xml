@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D42 - Reject Referral"
+    id="EAID_3F664E86_4184_47f9_BADB_B08F90101644">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="Moderate Risk"/>
+</archimate:Capability>

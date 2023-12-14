@@ -1,0 +1,12 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D12 - Measure and Monitor Pathway"
+    id="EAID_6D8310FF_466F_4059_89C4_E81F79E995ED"
+    documentation="Checks and balances">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="IN"/>
+</archimate:Capability>

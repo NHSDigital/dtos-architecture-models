@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B42 - Execute Operational Reports"
+    id="EAID_4444477E_B163_4b6a_A365_E1C92F4B39A3">
+  <properties
+      key="Platform"
+      value="DPSE"/>
+  <properties
+      key="PBC SCOPE"
+      value="OUT"/>
+</archimate:Capability>

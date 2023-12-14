@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G11 - Register Attendance"
+    id="EAID_5FBF367C_156C_4fd3_88AF_F7F7664E0048">
+  <properties
+      key="Platform"
+      value="SEM"/>
+  <properties
+      key="PBC SCOPE"
+      value="In By Inference"/>
+</archimate:Capability>

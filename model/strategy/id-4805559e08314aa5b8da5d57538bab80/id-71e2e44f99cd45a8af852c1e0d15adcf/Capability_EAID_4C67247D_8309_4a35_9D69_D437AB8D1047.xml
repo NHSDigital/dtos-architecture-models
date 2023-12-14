@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B13 - Pay Service Provider"
+    id="EAID_4C67247D_8309_4a35_9D69_D437AB8D1047">
+  <properties
+      key="Platform"
+      value="Not Defined"/>
+  <properties
+      key="PBC SCOPE"
+      value="OUT"/>
+</archimate:Capability>

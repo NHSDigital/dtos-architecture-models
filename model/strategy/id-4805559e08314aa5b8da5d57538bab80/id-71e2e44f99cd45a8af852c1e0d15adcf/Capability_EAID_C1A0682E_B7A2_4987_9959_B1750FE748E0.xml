@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B12 - Monitor Providers SLA"
+    id="EAID_C1A0682E_B7A2_4987_9959_B1750FE748E0">
+  <properties
+      key="Platform"
+      value="Not Defined"/>
+  <properties
+      key="PBC SCOPE"
+      value="OUT"/>
+</archimate:Capability>

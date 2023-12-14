@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="A33 - Make Intelligence Available"
+    id="EAID_97C30F6F_256B_4f38_90FC_296709530EF8">
+  <properties
+      key="Platform"
+      value="DPSE"/>
+  <properties
+      key="PBC SCOPE"
+      value="In By Inference"/>
+</archimate:Capability>

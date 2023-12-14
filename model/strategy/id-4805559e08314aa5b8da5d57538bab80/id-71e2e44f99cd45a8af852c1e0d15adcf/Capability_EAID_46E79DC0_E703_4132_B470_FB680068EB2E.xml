@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B41 - Define Operational Reports"
+    id="EAID_46E79DC0_E703_4132_B470_FB680068EB2E">
+  <properties
+      key="Platform"
+      value="DPSE"/>
+  <properties
+      key="PBC SCOPE"
+      value="OUT"/>
+</archimate:Capability>

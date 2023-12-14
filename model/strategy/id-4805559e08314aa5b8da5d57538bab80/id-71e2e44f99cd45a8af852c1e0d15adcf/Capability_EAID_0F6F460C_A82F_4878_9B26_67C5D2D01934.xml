@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D41 - Accept referral"
+    id="EAID_0F6F460C_A82F_4878_9B26_67C5D2D01934">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="Moderate Risk"/>
+</archimate:Capability>

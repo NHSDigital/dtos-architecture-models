@@ -1,0 +1,11 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D11 - Create Pre-screening Pathway"
+    id="EAID_78C1C960_C4DF_4646_8A2A_6FDBBD5D7BD3">
+  <properties
+      key="Platform"
+      value="CRM"/>
+  <properties
+      key="PBC SCOPE"
+      value="IN"/>
+</archimate:Capability>
