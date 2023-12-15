@@ -1,4 +1,6 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Participant Management Service"
-    id="id-4c90088cc1e741428b8783273050ff3a"/>
+    id="id-4c90088cc1e741428b8783273050ff3a">
+  <properties/>
+</archimate:BusinessService>
