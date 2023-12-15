@@ -1,0 +1,8 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Breast Screening Product"
+    id="id-f5a30530acfd40978a0e0c876bda7f84">
+  <properties
+      key="Third Party Systems"
+      value="True"/>
+</archimate:Product>

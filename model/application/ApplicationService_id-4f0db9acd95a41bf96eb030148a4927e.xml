@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CaaS Application "
+    name="Cohorting as a Service Application "
     id="id-4f0db9acd95a41bf96eb030148a4927e">
   <properties
       key="Third Party Systems"

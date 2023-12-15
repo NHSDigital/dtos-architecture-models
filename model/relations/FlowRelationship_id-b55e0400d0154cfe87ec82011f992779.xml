@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Send Completed Episodes"
+    name="Send Completed Breast Screening Episodes"
     id="id-b55e0400d0154cfe87ec82011f992779">
   <source
       xsi:type="archimate:ApplicationService"

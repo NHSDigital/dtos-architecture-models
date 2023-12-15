@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DPS Integration Services"
-    id="id-bdf6c8b459ee46838ca72f08e36ab738">
+    name="DPS Integration Service"
+    id="id-bdf6c8b459ee46838ca72f08e36ab738"
+    documentation="https://nhsd-confluence.digital.nhs.uk/display/DTS/DPSe+Integration+Service">
   <properties
       key="Created in Release"
       value="Release 0"/>

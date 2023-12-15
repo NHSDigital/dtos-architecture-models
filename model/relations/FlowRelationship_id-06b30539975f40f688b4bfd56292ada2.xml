@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Send Completed Episodes"
+    name="Send Completed DES Episodes"
     id="id-06b30539975f40f688b4bfd56292ada2">
   <source
       xsi:type="archimate:ApplicationService"
