@@ -1,8 +1,8 @@
-<archimate:BusinessService
+<archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cohorting as a Service (NHSE)"
-    id="id-774ddb9ffe364ffc8f8959705b721a0f">
+    id="id-6fba3b1519b248909fbf623c6d9412a5">
   <properties
       key="Third Party Systems"
       value="True"/>
-</archimate:BusinessService>
+</archimate:Product>

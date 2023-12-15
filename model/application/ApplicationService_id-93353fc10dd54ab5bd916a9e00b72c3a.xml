@@ -1,8 +1,7 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CaaS Integration: Get Eligible DES Cohort"
-    id="id-93353fc10dd54ab5bd916a9e00b72c3a"
-    documentation="https://nhsd-confluence.digital.nhs.uk/display/DTS/CaaS+Integration%3A+Get+Eligible+DES+Cohort">
+    id="id-93353fc10dd54ab5bd916a9e00b72c3a">
   <properties
       key="Release Number"
       value="0"/>

@@ -12,8 +12,8 @@
         width="159"
         height="121"/>
     <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-774ddb9ffe364ffc8f8959705b721a0f.xml#id-774ddb9ffe364ffc8f8959705b721a0f"/>
+        xsi:type="archimate:Product"
+        href="Product_id-6fba3b1519b248909fbf623c6d9412a5.xml#id-6fba3b1519b248909fbf623c6d9412a5"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
