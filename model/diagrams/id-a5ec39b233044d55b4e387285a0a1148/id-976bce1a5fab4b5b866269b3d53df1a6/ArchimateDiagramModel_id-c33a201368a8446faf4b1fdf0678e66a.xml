@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="0. Participant Management Full View"
-    id="id-c33a201368a8446faf4b1fdf0678e66a">
+    id="id-c33a201368a8446faf4b1fdf0678e66a"
+    viewpoint="implementation_migration">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b900da9309564d55a52ef432bb9c1561">
@@ -727,8 +728,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-aa04095523db42afad7eb9103bc08a22">
     <bounds
-        x="12"
-        y="696"
+        x="24"
+        y="780"
         width="120"
         height="55"/>
     <referencedModel
