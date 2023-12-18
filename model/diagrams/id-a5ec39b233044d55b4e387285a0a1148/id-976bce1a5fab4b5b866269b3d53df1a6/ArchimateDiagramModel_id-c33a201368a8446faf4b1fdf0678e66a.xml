@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="0. Participant Management Full View"
     id="id-c33a201368a8446faf4b1fdf0678e66a"
-    viewpoint="implementation_migration">
+    viewpoint="product">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b900da9309564d55a52ef432bb9c1561">
@@ -723,17 +723,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-a0eb93bd7fe6492fad296ce7cf6f7b82.xml#id-a0eb93bd7fe6492fad296ce7cf6f7b82"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-aa04095523db42afad7eb9103bc08a22">
-    <bounds
-        x="24"
-        y="780"
-        width="120"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-be943a4c6b75469cb30835e79cebb208.xml#id-be943a4c6b75469cb30835e79cebb208"/>
   </children>
 </archimate:ArchimateDiagramModel>
