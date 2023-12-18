@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Local Business Events"
+    id="id-42a7ca6c7da147a9a90359721972b8aa">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ac89fe4582424fb9a9b8de21978b5847">
+    <bounds
+        x="84"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-627667ec10c649b6941c07d982e022e5.xml#id-627667ec10c649b6941c07d982e022e5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a8d6172384524a4e8da04863b42608a3">
+    <bounds
+        x="252"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-94b4e74e90ed44febaff795bf1533faa.xml#id-94b4e74e90ed44febaff795bf1533faa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4c75b970b85d4a409bbbb3b617be2cfc">
+    <bounds
+        x="408"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-8bfd32a8cad34e94a2256bfb2a7e34c8.xml#id-8bfd32a8cad34e94a2256bfb2a7e34c8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

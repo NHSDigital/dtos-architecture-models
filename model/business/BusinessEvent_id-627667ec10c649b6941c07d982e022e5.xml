@@ -1,0 +1,7 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Episode Created"
+    id="id-627667ec10c649b6941c07d982e022e5">
+  <profiles
+      href="folder.xml#id-ce75cf892cc84495bdfc1d110cf2168f"/>
+</archimate:BusinessEvent>
