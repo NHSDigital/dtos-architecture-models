@@ -184,12 +184,12 @@
             href="BusinessService_id-9b4f6b5c76b947dfad2e33a108154997.xml#id-9b4f6b5c76b947dfad2e33a108154997"/>
       </children>
       <archimateElement
-          xsi:type="archimate:BusinessService"
-          href="BusinessService_id-4c90088cc1e741428b8783273050ff3a.xml#id-4c90088cc1e741428b8783273050ff3a"/>
+          xsi:type="archimate:Product"
+          href="Product_id-5c605b40dcba432b802c951b4bc2feb8.xml#id-5c605b40dcba432b802c951b4bc2feb8"/>
     </children>
     <archimateElement
-        xsi:type="archimate:Product"
-        href="Product_id-d52cf2cf1b1c462cb3509fbead63cde0.xml#id-d52cf2cf1b1c462cb3509fbead63cde0"/>
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-7d0ed0a28ec24c9296e5ca690c553515.xml#id-7d0ed0a28ec24c9296e5ca690c553515"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

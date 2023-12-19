@@ -2,4 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Initial DToS Archi Model"
     id="id-922ce2a9de704e079cb244852013c4e3"
-    version="5.0.0"/>
+    version="5.0.0">
+  <profiles
+      name="Release 0 Event"
+      id="id-ce75cf892cc84495bdfc1d110cf2168f"
+      conceptType="BusinessEvent"/>
+</archimate:ArchimateModel>
