@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Main - Release 0 Applications"
-    id="id-fe302e99e5444ba9aca7ef37b938a3d3">
+    id="id-fe302e99e5444ba9aca7ef37b938a3d3"
+    viewpoint="value_stream">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2a096fe57afc4e12a05c0b08c9770133"
