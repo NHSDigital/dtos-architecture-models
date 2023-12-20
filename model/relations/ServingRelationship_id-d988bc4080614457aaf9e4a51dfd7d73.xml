@@ -5,8 +5,8 @@
     id="id-d988bc4080614457aaf9e4a51dfd7d73">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-cd3f70bbd2924ca3b66c7204367fb1f0.xml#id-cd3f70bbd2924ca3b66c7204367fb1f0"/>
+      href="ApplicationComponent_id-5ce557d177db4aeeba25ca93636f8732.xml#id-5ce557d177db4aeeba25ca93636f8732"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-33f77c051d114c879ad1f471614b3c09.xml#id-33f77c051d114c879ad1f471614b3c09"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-99b34d8c186c4b75ac57a9be65b1a3c2.xml#id-99b34d8c186c4b75ac57a9be65b1a3c2"/>
 </archimate:ServingRelationship>
