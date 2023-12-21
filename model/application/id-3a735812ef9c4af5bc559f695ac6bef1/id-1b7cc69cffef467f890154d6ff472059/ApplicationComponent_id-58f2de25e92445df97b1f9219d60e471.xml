@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TPP"
+    id="id-58f2de25e92445df97b1f9219d60e471">
+  <profiles
+      href="folder.xml#id-55e64b0da11a47c5b4609fb0be7e850a"/>
+</archimate:ApplicationComponent>

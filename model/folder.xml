@@ -7,4 +7,8 @@
       name="Release 0 Event"
       id="id-ce75cf892cc84495bdfc1d110cf2168f"
       conceptType="BusinessEvent"/>
+  <profiles
+      name="External System"
+      id="id-55e64b0da11a47c5b4609fb0be7e850a"
+      conceptType="ApplicationComponent"/>
 </archimate:ArchimateModel>
