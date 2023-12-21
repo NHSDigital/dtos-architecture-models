@@ -543,7 +543,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-8d82eb3a5d604529a13185e22dd97253"
       textAlignment="1"
-      content="Define what medical fields are required IN DToS to assist with Incident resolution">
+      content="Define what medical fields are required in DToS to assist with Incident resolution">
     <sourceConnections
         id="id-5155769d2fce4927a28deead271465c1"
         source="id-8d82eb3a5d604529a13185e22dd97253"
