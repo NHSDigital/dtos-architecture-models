@@ -45,7 +45,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-63ae03e5d8fc4a6984fb680dd0961302"
-      targetConnections="id-94f790e476db498a976e6f00da4e7c61 id-593e5fdbfcbb45b18e00a98e0170e01d id-8ebb467e8cab48c89e667247c435e8dd">
+      targetConnections="id-94f790e476db498a976e6f00da4e7c61 id-593e5fdbfcbb45b18e00a98e0170e01d id-8ebb467e8cab48c89e667247c435e8dd"
+      font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-930cdc81319e4e42b4cbdac077da42a6"
@@ -351,7 +352,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-d6a9fa9eb60d4cb4902d035983f4180f"
       textAlignment="1"
-      content="A PRODUCT is supported by a collaboration of TECHNICAL SERVICES">
+      content="A PRODUCT is supported by a collaboration of TECHNICAL SERVICES (abstract)">
     <sourceConnections
         id="id-94f790e476db498a976e6f00da4e7c61"
         source="id-d6a9fa9eb60d4cb4902d035983f4180f"
