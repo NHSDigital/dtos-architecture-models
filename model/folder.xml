@@ -11,4 +11,8 @@
       name="External System"
       id="id-55e64b0da11a47c5b4609fb0be7e850a"
       conceptType="ApplicationComponent"/>
+  <profiles
+      name="Abstract System"
+      id="id-0181b9672a7b426bb6dedd000d956114"
+      conceptType="ApplicationComponent"/>
 </archimate:ArchimateModel>
