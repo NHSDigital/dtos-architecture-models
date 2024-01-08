@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Augmented Screening Pathway"
+    name="Screening Pathway &amp; Delivery Squads"
     id="id-aeeecb936a2e4ec587629e639f258d3a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
