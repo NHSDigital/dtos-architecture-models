@@ -765,12 +765,12 @@
             startX="7"
             startY="283"
             endX="547"
-            endY="295"/>
+            endY="283"/>
         <bendpoints
-            startX="-545"
+            startX="-557"
             startY="283"
-            endX="-5"
-            endY="295"/>
+            endX="-17"
+            endY="283"/>
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-c5570850bff84b8db8afaefe8ae34436.xml#id-c5570850bff84b8db8afaefe8ae34436"/>
