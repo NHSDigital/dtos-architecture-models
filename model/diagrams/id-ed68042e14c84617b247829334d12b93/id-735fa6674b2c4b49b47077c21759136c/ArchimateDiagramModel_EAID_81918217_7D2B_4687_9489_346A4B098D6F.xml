@@ -128,7 +128,7 @@
       </sourceConnections>
       <bounds
           x="10"
-          y="444"
+          y="432"
           width="210"
           height="140"/>
       <children
@@ -1798,7 +1798,7 @@
         targetConnections="id-bfcfa1888f3b4e14adc608656b43b402">
       <bounds
           x="20"
-          y="732"
+          y="744"
           width="190"
           height="40"/>
       <archimateElement
