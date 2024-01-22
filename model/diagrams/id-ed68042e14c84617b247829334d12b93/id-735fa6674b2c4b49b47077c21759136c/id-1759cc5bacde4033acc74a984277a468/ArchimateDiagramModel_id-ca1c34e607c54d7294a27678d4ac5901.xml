@@ -148,8 +148,8 @@
           source="id-0b3ff0cf8c4743cf97655cde95fd71c1"
           target="id-55014602eb524b499f00ca25503d4a88">
         <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-cc48ca148a554f518a5c0bcebec91428.xml#id-cc48ca148a554f518a5c0bcebec91428"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-44b942f265c5419a970f7a4f7b0365d6.xml#id-44b942f265c5419a970f7a4f7b0365d6"/>
       </sourceConnections>
       <bounds
           x="384"
@@ -259,8 +259,8 @@
             width="132"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ValueStream"
-            href="ValueStream_id-32ff154741934b57b46a07c0bffe2812.xml#id-32ff154741934b57b46a07c0bffe2812"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-e5b4a628bb894ddb9c7a41919e8e1b9c.xml#id-e5b4a628bb894ddb9c7a41919e8e1b9c"/>
       </children>
       <archimateElement
           xsi:type="archimate:ValueStream"
