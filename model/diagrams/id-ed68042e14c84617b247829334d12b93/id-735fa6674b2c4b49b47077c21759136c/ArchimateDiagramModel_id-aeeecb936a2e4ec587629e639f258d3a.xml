@@ -95,15 +95,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6a0ff2f5125d4972a620c95ab43bc27b"
         targetConnections="id-9bff45b687394cf3b42103c5b9e8d3a1 id-235d6f0024d3434bb2a160bca76451f1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-52ab6ba9fa4f4c1f96268baba63dbb3f"
-          source="id-6a0ff2f5125d4972a620c95ab43bc27b"
-          target="id-fabf3f19e38d410fafae27c19e0ef641">
-        <archimateRelationship
-            xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_id-59fd55bfca544e4894aa0f8912b6262e.xml#id-59fd55bfca544e4894aa0f8912b6262e"/>
-      </sourceConnections>
       <bounds
           x="444"
           y="72"
@@ -116,7 +107,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fabf3f19e38d410fafae27c19e0ef641"
-        targetConnections="id-52ab6ba9fa4f4c1f96268baba63dbb3f id-2015509aaf50410c8674a395011cd846 id-5ab4fc9c7063493289b3c55ca2a7e08e">
+        targetConnections="id-2015509aaf50410c8674a395011cd846 id-5ab4fc9c7063493289b3c55ca2a7e08e">
       <bounds
           x="624"
           y="72"
@@ -151,15 +142,6 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-60de157c18244963ad7448deb5c97a5a.xml#id-60de157c18244963ad7448deb5c97a5a"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b114364ae8dc4c3690570fb1b65b5aca"
-        source="id-44278bb4702643cb8c8551c5fcb0f162"
-        target="id-5719095e74444f7abf058358eb14d966">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-8273125467f84805bbeafdd0da470165.xml#id-8273125467f84805bbeafdd0da470165"/>
     </sourceConnections>
     <bounds
         x="204"
@@ -242,8 +224,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5719095e74444f7abf058358eb14d966"
-      targetConnections="id-b114364ae8dc4c3690570fb1b65b5aca">
+      id="id-5719095e74444f7abf058358eb14d966">
     <bounds
         x="276"
         y="420"
