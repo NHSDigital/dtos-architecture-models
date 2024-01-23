@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hierarchy"
-    id="id-a3e9bd52f628417384ad1ba8bc0636cf">
+    id="id-a3e9bd52f628417384ad1ba8bc0636cf"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-28407bc6f29b48c79ed8687481ee6537"
