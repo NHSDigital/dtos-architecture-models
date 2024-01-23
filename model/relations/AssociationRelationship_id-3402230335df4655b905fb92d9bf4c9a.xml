@@ -6,6 +6,6 @@
       xsi:type="archimate:ValueStream"
       href="ValueStream_id-5077dfa7de3549388c1acebeb8e5376e.xml#id-5077dfa7de3549388c1acebeb8e5376e"/>
   <target
-      xsi:type="archimate:ValueStream"
-      href="ValueStream_id-4f1c877a8dae454c83aa6d1d1f4142de.xml#id-4f1c877a8dae454c83aa6d1d1f4142de"/>
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-4edfa6395e964efaaae1f163edd1b441.xml#id-4edfa6395e964efaaae1f163edd1b441"/>
 </archimate:AssociationRelationship>
