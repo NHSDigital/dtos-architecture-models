@@ -259,7 +259,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f370edbcbee548d88119c3e7b6e4f3fd"
-      targetConnections="id-c4e51a2f8619433ba631ad82b5f6dc76 id-9db1c2deb09142d88fffaeedf77508d1 id-5703494892e749f7b12cce0739524734">
+      targetConnections="id-c4e51a2f8619433ba631ad82b5f6dc76 id-5703494892e749f7b12cce0739524734 id-9db1c2deb09142d88fffaeedf77508d1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3c3291a4cbf64ebb8f08f63b6e8ef2d8"
