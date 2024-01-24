@@ -53,9 +53,19 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-87517f70145b40c2ace497c7de0c882a.xml#id-87517f70145b40c2ace497c7de0c882a"/>
     </sourceConnections>
+    <sourceConnections
+        id="id-25f24cc075874c6985cd9e6ec9d23d18"
+        source="id-07e4fc60e7e14f7fb675d5fb72436cac"
+        target="id-a1be81deb9b541eb88f4ff6316d33bdb">
+      <bendpoints
+          startX="-247"
+          startY="447"
+          endX="-348"
+          endY="6"/>
+    </sourceConnections>
     <bounds
-        x="120"
-        y="129"
+        x="36"
+        y="108"
         width="301"
         height="169"/>
     <children
@@ -179,9 +189,9 @@
           href="FlowRelationship_id-eb212f49011b407798044dea576217c7.xml#id-eb212f49011b407798044dea576217c7"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="264"
-        width="1022"
+        x="467"
+        y="243"
+        width="662"
         height="277"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -215,17 +225,21 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-42df51cebe2e4ee1a80c59dc88ad0fc9.xml#id-42df51cebe2e4ee1a80c59dc88ad0fc9"/>
       </sourceConnections>
+      <sourceConnections
+          id="id-9697ca4ef9a447d685263875889e904b"
+          source="id-7b7eaec08aa543e3983bdf7fd9627dce"
+          target="id-379459a75d3c4e3eb1e7d589c0eef568"/>
       <bounds
-          x="24"
+          x="61"
           y="60"
-          width="669"
+          width="272"
           height="140"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-920ec488dd014d23823f33f9f5179fcf"
           targetConnections="id-d2092b525da9448da7b273f1dcfa3a3e">
         <bounds
-            x="440"
+            x="43"
             y="24"
             width="207"
             height="26"/>
@@ -238,7 +252,7 @@
           id="id-f67a4b4d5ad646b5848db4d98fb8016d"
           targetConnections="id-7218989dde8849b4a9b2864d773f0de0">
         <bounds
-            x="440"
+            x="43"
             y="60"
             width="207"
             height="26"/>
@@ -251,25 +265,13 @@
           id="id-adf10cd32d884803b57c2a13316a5fe2"
           targetConnections="id-82c48f645a24483481a3b7067487744c">
         <bounds
-            x="440"
+            x="43"
             y="96"
             width="207"
             height="26"/>
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
             href="ApplicationFunction_id-50b61b76bc07414898b58eac54e017b6.xml#id-50b61b76bc07414898b58eac54e017b6"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelNote"
-          id="id-379459a75d3c4e3eb1e7d589c0eef568"
-          textAlignment="1"
-          fillColor="#00f900"
-          content="Following options can be used in permutation and combination which will be driven by exact requirement of transformation, data quality etc, which can be defined during low level design&#xA;1. Azure Functions - To write transformation scripts in C#, can be used for both relational and NoSQL use cases&#xA;2. COSMOS DB procedures (in java script) for NoSQL&#xA;3. SQL Procedured for relational data store use cases.">
-        <bounds
-            x="24"
-            y="24"
-            width="385"
-            height="115"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"
@@ -316,8 +318,18 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-d57d93de791143d6baff011131af7856.xml#id-d57d93de791143d6baff011131af7856"/>
       </sourceConnections>
+      <sourceConnections
+          id="id-5e992c254ab1435294af5f3305e362bc"
+          source="id-b854c03c9f624ed5880cbd01e05952cd"
+          target="id-8933584b0c644b549c1d17a328c325a3">
+        <bendpoints
+            startX="-374"
+            startY="254"
+            endX="-240"
+            endY="2"/>
+      </sourceConnections>
       <bounds
-          x="704"
+          x="344"
           y="60"
           width="301"
           height="140"/>
@@ -353,7 +365,7 @@
           targetConnections="id-fe71e4424c8b48658ebfa58a99e8961f">
         <bounds
             x="144"
-            y="60"
+            y="84"
             width="120"
             height="37"/>
         <archimateElement
@@ -361,24 +373,12 @@
             href="DataObject_id-53a6d43d1d084d37a7047b3d4494cfda.xml#id-53a6d43d1d084d37a7047b3d4494cfda"/>
       </children>
       <children
-          xsi:type="archimate:DiagramModelNote"
-          id="id-c066541ea0e547749b7adfaa35505099"
-          textAlignment="1"
-          fillColor="#00f900"
-          content="Relational Data Store - Azure SQL DB">
-        <bounds
-            x="18"
-            y="60"
-            width="108"
-            height="63"/>
-      </children>
-      <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e34407a34a0746598293bd2fb23bfd4d"
           targetConnections="id-d9eaf16d616640d386565c45169d2ea2">
         <bounds
-            x="144"
-            y="96"
+            x="12"
+            y="84"
             width="120"
             height="37"/>
         <archimateElement
@@ -393,8 +393,12 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0c376c634bd64e52802fe75d27bcde5a"
         targetConnections="id-191b8f7dbb5d404aa2ae0b3203719eae">
+      <sourceConnections
+          id="id-f56d888d109a402dbb4065141c7745d3"
+          source="id-0c376c634bd64e52802fe75d27bcde5a"
+          target="id-84d1d786d2124fb8b826a86dcb31f653"/>
       <bounds
-          x="433"
+          x="73"
           y="24"
           width="553"
           height="25"/>
@@ -407,8 +411,8 @@
         id="id-27a25804aba1424b9da6d3a87bde6ea7"
         targetConnections="id-45ceb3379ede4a229e4790a3e4cfe37d">
       <bounds
-          x="421"
-          y="204"
+          x="61"
+          y="216"
           width="553"
           height="25"/>
       <archimateElement
@@ -419,26 +423,24 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ddcfe34d9bd447a3803d6d47e0747d3a"
         targetConnections="id-cbc306b6afe5407fb1858e4a129fb882">
+      <sourceConnections
+          id="id-c9e7e256dd6740069f713a23e7e3da44"
+          source="id-ddcfe34d9bd447a3803d6d47e0747d3a"
+          target="id-29842943fdd94d5a8e4e013000ffaa4c">
+        <bendpoints
+            startX="455"
+            startY="12"
+            endX="6"
+            endY="45"/>
+      </sourceConnections>
       <bounds
-          x="421"
+          x="61"
           y="240"
           width="553"
           height="25"/>
       <archimateElement
           xsi:type="archimate:TechnologyService"
           href="TechnologyService_id-75c1fca43e384f3287c9e7933849db19.xml#id-75c1fca43e384f3287c9e7933849db19"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-0dd389168f8647e989541455a98e8907"
-        textAlignment="1"
-        fillColor="#00f900"
-        content="Azure Purview ">
-      <bounds
-          x="269"
-          y="240"
-          width="179"
-          height="25"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -447,9 +449,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-560471ae9d2b4f4daa616868a23c0c37">
+    <sourceConnections
+        id="id-e94698a38470494b91c579a4675c8c0f"
+        source="id-560471ae9d2b4f4daa616868a23c0c37"
+        target="id-964c0b831081405ba026526b4e43695f"/>
     <bounds
-        x="577"
-        y="552"
+        x="192"
+        y="531"
         width="937"
         height="25"/>
     <archimateElement
@@ -459,9 +465,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9128284b78e74122b776c92df00f51d2">
+    <sourceConnections
+        id="id-6bde8e21b94d42969b9ca46e6686f39b"
+        source="id-9128284b78e74122b776c92df00f51d2"
+        target="id-3688e43d62e34a59915aab5e5bad39ed"/>
     <bounds
-        x="577"
-        y="588"
+        x="192"
+        y="567"
         width="937"
         height="25"/>
     <archimateElement
@@ -533,8 +543,8 @@
           href="CompositionRelationship_id-ab3c449e07e345ec8fca6cda517ab88c.xml#id-ab3c449e07e345ec8fca6cda517ab88c"/>
     </sourceConnections>
     <bounds
-        x="877"
-        y="36"
+        x="492"
+        y="15"
         width="637"
         height="205"/>
     <children
@@ -597,84 +607,288 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-95a2b587ecdf4a15be33dbea587ad30d"
       textAlignment="1"
-      fillColor="#00f900"
+      fillColor="#feffff"
       content="Data Integration Technology options driven by integration use cases and low level technical requirements:&#xA;API Based integration:&#xA;- API Management&#xA;- Logic Apps&#xA;- Azure functions&#xA;&#xA;Event based integration&#xA; - Event Grid&#xA; - Logic Apps&#xA; - Azure Functions&#xA; - Event Hub&#xA;&#xA;Message based integration&#xA; - Azure Service Bus&#xA;&#xA;Batch Integration&#xA; - Azure Data Factory - Data Flow -&#xA; - Azure Data Bricks if its high compute processing">
     <bounds
-        x="-180"
-        y="288"
-        width="542"
-        height="313"/>
+        x="47"
+        y="651"
+        width="494"
+        height="301"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-53a3f6fd29bf4f0ca1be50749a9b06ad"
+      targetConnections="id-17fd4daea28b49079cf7c931ce64b9a6"
       textAlignment="1"
-      fillColor="#00f900"
-      content="Non Relational Data Store - Cosmos DB">
+      fillColor="#fefb00"
+      content="&#xA;Relational Data Store - Azure SQL DB&#xA;&#xA;">
     <bounds
-        x="1453"
-        y="324"
-        width="120"
-        height="61"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-9034bc076bfd4851b198fac774d07325"
-      textAlignment="1"
-      fillColor="#00f900"
-      content="Paticipant 360 view can be acheived in following ways:&#xA;Option 1 - Create an integrated and aggregated view of the screening history and business events ( if required) in ADLS, we can use either Azure Functions, or Azure Data Flow or Azure Databricks depending on the volume and complexity of the data aggregation. Once the data is stored in ADLS we can connect the data with Power Apps to create a Canvas App with visuals&#xA;Option2 : We can also create a view with the screening history data stored in SQL DB by directly connnecting Power Apps to SQL DB&#xA;Option 3: Dynamics 365 insights - unify and enrich data from SQL DB and COSMOS DB (if require)&#xA;Image Data -  Blob Storage..">
-    <bounds
-        x="1584"
-        y="336"
-        width="517"
-        height="181"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-44920995b3614bfe923edb320b5a042d"
-      textAlignment="1"
-      fillColor="#00f900"
-      content="Azure DevOps, Teraform scripts">
-    <bounds
-        x="1513"
-        y="540"
-        width="108"
-        height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-c72f9a8ccf5948f696f157ba4a1f19a6"
-      textAlignment="1"
-      fillColor="#00f900"
-      content="Azure Native services">
-    <bounds
-        x="1513"
-        y="588"
-        width="108"
+        x="743"
+        y="711"
+        width="241"
         height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-84d1d786d2124fb8b826a86dcb31f653"
+      targetConnections="id-f56d888d109a402dbb4065141c7745d3"
       textAlignment="1"
-      fillColor="#00f900"
-      content="ADF&#xA;">
+      fillColor="#fefb00"
+      content="Azure Data Factory&#xA;">
     <bounds
-        x="1489"
-        y="264"
+        x="1175"
+        y="255"
         width="108"
-        height="34"/>
+        height="49"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-7984ff881efd445b8e9efa5cce265a38"
+      id="id-379459a75d3c4e3eb1e7d589c0eef568"
+      targetConnections="id-9697ca4ef9a447d685263875889e904b"
       textAlignment="1"
-      fillColor="#00f900"
-      content="Blob Storage">
+      fillColor="#feffff"
+      content="Following options can be used in permutation and combination which will be driven by exact requirement of transformation, data quality etc, which can be defined during low level design&#xA;1. Azure Functions - To write transformation scripts in C#, can be used for both relational and NoSQL use cases&#xA;2. COSMOS DB procedures (in java script) for NoSQL&#xA;3. SQL Procedured for relational data store use cases.">
     <bounds
-        x="1464"
-        y="426"
-        width="97"
+        x="59"
+        y="348"
+        width="397"
+        height="139"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a1be81deb9b541eb88f4ff6316d33bdb"
+      targetConnections="id-25f24cc075874c6985cd9e6ec9d23d18"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Data Integration">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="47"
+        y="618"
+        width="481"
         height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-24ce6fc1baa9448292de857fdc807183"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Data Normalisation">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="59"
+        y="318"
+        width="385"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8933584b0c644b549c1d17a328c325a3"
+      targetConnections="id-5e992c254ab1435294af5f3305e362bc"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Data Products">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <sourceConnections
+        id="id-3942687159b14c3b9ab3a7422e1fff9d"
+        source="id-8933584b0c644b549c1d17a328c325a3"
+        target="id-470eace555804cda921f0794fb73fc9d">
+      <bendpoints
+          startX="-132"
+          startY="62"
+          endX="-174"
+          endY="6"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-17fd4daea28b49079cf7c931ce64b9a6"
+        source="id-8933584b0c644b549c1d17a328c325a3"
+        target="id-53a3f6fd29bf4f0ca1be50749a9b06ad">
+      <bendpoints
+          startX="-120"
+          startY="98"
+          endX="-156"
+          endY="-6"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-c5b9d6b21d3042e8a923c86ab5a5ada4"
+        source="id-8933584b0c644b549c1d17a328c325a3"
+        target="id-d3a283cd60a346f5ad19117211b44f65">
+      <bendpoints
+          startX="-108"
+          startY="146"
+          endX="-150"
+          endY="-19"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-ee389e49d6d341e2ab4c8faa903ecf42"
+        source="id-8933584b0c644b549c1d17a328c325a3"
+        target="id-4b397fcf6d6049b586aad3d02152485f">
+      <bendpoints
+          startX="-143"
+          startY="239"
+          endX="-210"
+          endY="2"/>
+    </sourceConnections>
+    <bounds
+        x="683"
+        y="610"
+        width="289"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-70978546f263458e8014ba888d0340c2"
+      targetConnections="id-4a03d9e76d184330b7f6971cb7428918"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="&#xA;Option 1 - Create an integrated and aggregated view of the screening history and business events ( if required) in ADLS, we can use either Azure Functions, or Azure Data Flow or Azure Databricks depending on the volume and complexity of the data aggregation. Once the data is stored in ADLS we can connect the data with Power Apps to create a Canvas App with visuals&#xA;">
+    <bounds
+        x="828"
+        y="888"
+        width="553"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4b397fcf6d6049b586aad3d02152485f"
+      targetConnections="id-ee389e49d6d341e2ab4c8faa903ecf42"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Participant 360">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <sourceConnections
+        id="id-4a03d9e76d184330b7f6971cb7428918"
+        source="id-4b397fcf6d6049b586aad3d02152485f"
+        target="id-70978546f263458e8014ba888d0340c2">
+      <bendpoints
+          startX="-138"
+          startY="98"
+          endX="-348"
+          endY="18"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-eff36bae65e6456cb6742116315b20b0"
+        source="id-4b397fcf6d6049b586aad3d02152485f"
+        target="id-eb1b3e55c1264877b514642f33670f45">
+      <bendpoints
+          startX="-114"
+          startY="158"
+          endX="-324"
+          endY="-6"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-afc39073eff94145a3a8308ed0601a0e"
+        source="id-4b397fcf6d6049b586aad3d02152485f"
+        target="id-27c133882532421086e5031aa2c08d7f">
+      <bendpoints
+          startX="-90"
+          startY="230"
+          endX="-300"
+          endY="6"/>
+    </sourceConnections>
+    <bounds
+        x="750"
+        y="847"
+        width="289"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-29842943fdd94d5a8e4e013000ffaa4c"
+      targetConnections="id-c9e7e256dd6740069f713a23e7e3da44"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Azure Purview">
+    <bounds
+        x="1199"
+        y="438"
+        width="108"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-964c0b831081405ba026526b4e43695f"
+      targetConnections="id-e94698a38470494b91c579a4675c8c0f"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Azure DevOps">
+    <bounds
+        x="1206"
+        y="519"
+        width="108"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3688e43d62e34a59915aab5e5bad39ed"
+      targetConnections="id-6bde8e21b94d42969b9ca46e6686f39b"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Azure Native Services">
+    <bounds
+        x="1206"
+        y="567"
+        width="108"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-470eace555804cda921f0794fb73fc9d"
+      targetConnections="id-3942687159b14c3b9ab3a7422e1fff9d"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Non Relational Data Store - Cosmos DB&#xA;&#xA;">
+    <bounds
+        x="743"
+        y="663"
+        width="253"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d3a283cd60a346f5ad19117211b44f65"
+      targetConnections="id-c5b9d6b21d3042e8a923c86ab5a5ada4"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="&#xA;Unstructured Data Store for Images - Blob storage&#xA;">
+    <bounds
+        x="743"
+        y="760"
+        width="253"
+        height="60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-eb1b3e55c1264877b514642f33670f45"
+      targetConnections="id-eff36bae65e6456cb6742116315b20b0"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Option2 : We can also create a view with the screening history data stored in SQL DB by directly connnecting Power Apps to SQL DB">
+    <bounds
+        x="828"
+        y="1002"
+        width="553"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-27c133882532421086e5031aa2c08d7f"
+      targetConnections="id-afc39073eff94145a3a8308ed0601a0e"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="&#xA;Option 3: Dynamics 365 insights - unify and enrich data from SQL DB and COSMOS DB (if require)">
+    <bounds
+        x="828"
+        y="1056"
+        width="553"
+        height="60"/>
   </children>
 </archimate:ArchimateDiagramModel>
