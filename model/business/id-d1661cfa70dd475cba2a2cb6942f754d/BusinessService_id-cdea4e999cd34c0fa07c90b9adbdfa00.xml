@@ -1,8 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Manage Cohort"
-    id="id-3416ed975c6d46b29c857aa81dbc826f">
+    name="Population Based Cohort"
+    id="id-cdea4e999cd34c0fa07c90b9adbdfa00">
   <properties
       key="RefNum"
-      value="C1"/>
+      value="C1.1"/>
 </archimate:BusinessService>
