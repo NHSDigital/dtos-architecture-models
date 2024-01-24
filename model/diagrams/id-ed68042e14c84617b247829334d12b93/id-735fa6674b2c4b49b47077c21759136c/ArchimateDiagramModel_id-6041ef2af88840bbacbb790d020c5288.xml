@@ -61,9 +61,9 @@
           href="CompositionRelationship_id-4cbf1a8a7b644605af9ee7f14b62b595.xml#id-4cbf1a8a7b644605af9ee7f14b62b595"/>
     </sourceConnections>
     <bounds
-        x="408"
+        x="372"
         y="48"
-        width="1225"
+        width="1261"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -79,7 +79,7 @@
             href="FlowRelationship_id-f6e1151c0182414191a38bed35cd3213.xml#id-f6e1151c0182414191a38bed35cd3213"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="72"
           y="36"
           width="120"
           height="55"/>
@@ -101,7 +101,7 @@
             href="FlowRelationship_id-4cee127227fe410c88c1736372b12100.xml#id-4cee127227fe410c88c1736372b12100"/>
       </sourceConnections>
       <bounds
-          x="240"
+          x="276"
           y="36"
           width="120"
           height="55"/>
@@ -123,7 +123,7 @@
             href="FlowRelationship_id-59fd55bfca544e4894aa0f8912b6262e.xml#id-59fd55bfca544e4894aa0f8912b6262e"/>
       </sourceConnections>
       <bounds
-          x="588"
+          x="624"
           y="36"
           width="120"
           height="55"/>
@@ -136,7 +136,7 @@
         id="id-55fa567206af434794416e0ebf1c8c74"
         targetConnections="id-401fab15e2fe4aea892b63172f6bc890 id-b828b2f7e745448baf06b94b752e3b7c id-81e0c0285e634c45bd3253b5558cb727">
       <bounds
-          x="1080"
+          x="1116"
           y="36"
           width="120"
           height="55"/>
@@ -158,7 +158,7 @@
             href="FlowRelationship_id-7dd0f7f531fc4434aeb61f9a7613f739.xml#id-7dd0f7f531fc4434aeb61f9a7613f739"/>
       </sourceConnections>
       <bounds
-          x="792"
+          x="828"
           y="36"
           width="120"
           height="55"/>
@@ -180,7 +180,7 @@
             href="FlowRelationship_id-727149e13cbf490fa3df4c8f76cad430.xml#id-727149e13cbf490fa3df4c8f76cad430"/>
       </sourceConnections>
       <bounds
-          x="936"
+          x="972"
           y="36"
           width="120"
           height="55"/>
@@ -291,7 +291,7 @@
     </sourceConnections>
     <bounds
         x="612"
-        y="213"
+        y="204"
         width="181"
         height="253"/>
     <children
@@ -369,7 +369,7 @@
           href="AssociationRelationship_id-54e2fc42e8ce4d0787f3b79c10231d3f.xml#id-54e2fc42e8ce4d0787f3b79c10231d3f"/>
     </sourceConnections>
     <bounds
-        x="1368"
+        x="1416"
         y="204"
         width="181"
         height="254"/>
@@ -450,7 +450,7 @@
           href="ServingRelationship_id-82e8e0301eb847548db56e472bcf88d2.xml#id-82e8e0301eb847548db56e472bcf88d2"/>
     </sourceConnections>
     <bounds
-        x="1572"
+        x="1656"
         y="312"
         width="120"
         height="55"/>
@@ -566,6 +566,21 @@
           xsi:type="archimate:Product"
           href="Product_id-9555336de14e4d2a8b43b282057dca81.xml#id-9555336de14e4d2a8b43b282057dca81"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-1b372196752f4f3eb78e7e357829b95c">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <bounds
+          x="36"
+          y="108"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Product"
+          href="Product_id-4c75ca38ca0a4cd1abcbf3faa896b5d9.xml#id-4c75ca38ca0a4cd1abcbf3faa896b5d9"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-11c1e5d2ec254e36b2def50b163e4f88.xml#id-11c1e5d2ec254e36b2def50b163e4f88"/>
@@ -641,12 +656,14 @@
           href="ServingRelationship_id-565aeda5cd8f47499c7c283b3482d2dd.xml#id-565aeda5cd8f47499c7c283b3482d2dd"/>
     </sourceConnections>
     <bounds
-        x="408"
+        x="372"
         y="497"
-        width="1141"
+        width="1261"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_id-7a8f8e2327e44d22a7f2f4d007b4c90c.xml#id-7a8f8e2327e44d22a7f2f4d007b4c90c"/>
   </children>
+  <properties
+      key="Author"/>
 </archimate:ArchimateDiagramModel>
