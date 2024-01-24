@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publish Event"
-    id="id-a5e65dbd4513404d8a07c344ea5e4bb9">
+    name="Listen for Events"
+    id="id-531ff98681014907a1f93ccff3cb0cd3">
   <source
-      xsi:type="archimate:ApplicationProcess"
-      href="ApplicationProcess_id-6838fe0af622474f860ac103fb81c411.xml#id-6838fe0af622474f860ac103fb81c411"/>
-  <target
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_id-d38614a6fcff4a49bc3decabc5ee2db5.xml#id-d38614a6fcff4a49bc3decabc5ee2db5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-95e4885b1b1a41f28c0fe7a792fd8f60.xml#id-95e4885b1b1a41f28c0fe7a792fd8f60"/>
 </archimate:FlowRelationship>
