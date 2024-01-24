@@ -36,15 +36,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c364f408ba834526b045d03156fe65b1"
-        source="id-25650033eb254c2d837d363133665020"
-        target="id-580612622bf347b991ea27822ec6e2dd">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-4e450f5f1b614bcaa6d6d805780aa495.xml#id-4e450f5f1b614bcaa6d6d805780aa495"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b3c075fdbbf646adb152fd91b6b3b0f4"
         source="id-25650033eb254c2d837d363133665020"
         target="id-7e0499aa2fa541048f2e729d82808754">
@@ -61,11 +52,47 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-1395b6005dde412587c486580de0d170.xml#id-1395b6005dde412587c486580de0d170"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0d6aa2ef0a6a44a380543651e63cd86f"
+        source="id-25650033eb254c2d837d363133665020"
+        target="id-88aaa0f78175458a99c91c5ce400e3c6">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-710ef74ea8144da1bab23c5c7d607a23.xml#id-710ef74ea8144da1bab23c5c7d607a23"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-22f1bf0b1ee24af19813041ac6f4a643"
+        source="id-25650033eb254c2d837d363133665020"
+        target="id-272f54e7fa734d649e76d539f7121748">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-710ef74ea8144da1bab23c5c7d607a23.xml#id-710ef74ea8144da1bab23c5c7d607a23"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-64c656179d5e46be999f85a6648da7a1"
+        source="id-25650033eb254c2d837d363133665020"
+        target="id-7c6b9e5bafb84f52b6cf56d33ab96261">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-710ef74ea8144da1bab23c5c7d607a23.xml#id-710ef74ea8144da1bab23c5c7d607a23"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c364f408ba834526b045d03156fe65b1"
+        source="id-25650033eb254c2d837d363133665020"
+        target="id-580612622bf347b991ea27822ec6e2dd">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-4e450f5f1b614bcaa6d6d805780aa495.xml#id-4e450f5f1b614bcaa6d6d805780aa495"/>
+    </sourceConnections>
     <bounds
-        x="400"
-        y="157"
-        width="841"
-        height="208"/>
+        x="360"
+        y="72"
+        width="881"
+        height="293"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-580612622bf347b991ea27822ec6e2dd"
@@ -83,9 +110,13 @@
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-a16ac4c859df498b895bdbc16ce9e335.xml#id-a16ac4c859df498b895bdbc16ce9e335"/>
       </sourceConnections>
+      <sourceConnections
+          id="id-bbc2b7f046f347a8a019cd0b568748aa"
+          source="id-580612622bf347b991ea27822ec6e2dd"
+          target="id-3d3a6a69c3534430bc072cac74ab1cd0"/>
       <bounds
-          x="84"
-          y="120"
+          x="124"
+          y="205"
           width="120"
           height="67"/>
       <archimateElement
@@ -120,17 +151,12 @@
             href="FlowRelationship_id-37046a92c4a74f0bb72e082fadf3f534.xml#id-37046a92c4a74f0bb72e082fadf3f534"/>
       </sourceConnections>
       <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-e2d35a52e15941d69bce3908a830013a"
+          id="id-96746c24d140444bbd9eabd286101e78"
           source="id-4911c5a819284b398f7593b198290acc"
-          target="id-d10c0be14e8f46dda153f63a3afc1a21">
-        <archimateRelationship
-            xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_id-c7ba2c3699c14c6390fcdc2c8a89be1e.xml#id-c7ba2c3699c14c6390fcdc2c8a89be1e"/>
-      </sourceConnections>
+          target="id-ee4b3983a3c44228a754531df7616129"/>
       <bounds
-          x="636"
-          y="132"
+          x="708"
+          y="217"
           width="120"
           height="55"/>
       <archimateElement
@@ -150,10 +176,14 @@
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-f0f8ffa4bc48472d9483f660d6f642c4.xml#id-f0f8ffa4bc48472d9483f660d6f642c4"/>
       </sourceConnections>
+      <sourceConnections
+          id="id-ac411f8c9f344a13ba1ebef87d8a38f5"
+          source="id-e66b351bde67489e89a05073b595190b"
+          target="id-c499654dcda246a09ea975afe7c27b39"/>
       <bounds
-          x="324"
-          y="132"
-          width="120"
+          x="364"
+          y="217"
+          width="141"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -164,8 +194,8 @@
         id="id-6b6588a054e740b1b7517267e6be03d3"
         targetConnections="id-de8a4f845b3f442fa0988ea77d1df961">
       <bounds
-          x="24"
-          y="108"
+          x="64"
+          y="193"
           width="76"
           height="29"/>
       <archimateElement
@@ -173,22 +203,12 @@
           href="TechnologyService_id-35efcb4340f44e419154a00ae78088c5.xml#id-35efcb4340f44e419154a00ae78088c5"/>
     </children>
     <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-e38f9f2131da40ed92d4a61b80af7902"
-        textAlignment="1"
-        content="Update">
-      <bounds
-          x="696"
-          width="73"
-          height="37"/>
-    </children>
-    <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7e0499aa2fa541048f2e729d82808754"
         targetConnections="id-b3c075fdbbf646adb152fd91b6b3b0f4">
       <bounds
-          x="252"
-          y="114"
+          x="292"
+          y="199"
           width="73"
           height="28"/>
       <archimateElement
@@ -200,8 +220,8 @@
         id="id-6f1382ce6d2f4f07ba7d8a09b51faa46"
         targetConnections="id-bb5a161e117f44dc97b31c647be448f1">
       <bounds
-          x="588"
-          y="88"
+          x="628"
+          y="198"
           width="97"
           height="29"/>
       <archimateElement
@@ -209,40 +229,131 @@
           href="TechnologyService_id-35efcb4340f44e419154a00ae78088c5.xml#id-35efcb4340f44e419154a00ae78088c5"/>
     </children>
     <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-95b4c32968804691ad7013155850ddaf"
-        textAlignment="1"
-        fillColor="#00f900"
-        content="Azure Function/Logic Apps">
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-88aaa0f78175458a99c91c5ce400e3c6"
+        targetConnections="id-0d6aa2ef0a6a44a380543651e63cd86f">
+      <sourceConnections
+          id="id-30cf0b9a5fb24e2aa0ecf77ecda0bfc8"
+          source="id-88aaa0f78175458a99c91c5ce400e3c6"
+          target="id-32d56ab8463547a1994b857e44bfc503">
+        <bendpoints
+            startX="-86"
+            startY="269"
+            endX="-168"
+            endY="-11"/>
+      </sourceConnections>
       <bounds
-          x="6"
-          y="156"
-          width="109"
-          height="61"/>
+          x="36"
+          y="241"
+          width="125"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationProcess"
+          href="ApplicationProcess_id-8639a848cdc14c9198463d4a48935a20.xml#id-8639a848cdc14c9198463d4a48935a20"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-272f54e7fa734d649e76d539f7121748"
+        targetConnections="id-22f1bf0b1ee24af19813041ac6f4a643">
+      <bounds
+          x="300"
+          y="253"
+          width="108"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationProcess"
+          href="ApplicationProcess_id-8639a848cdc14c9198463d4a48935a20.xml#id-8639a848cdc14c9198463d4a48935a20"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7c6b9e5bafb84f52b6cf56d33ab96261"
+        targetConnections="id-64c656179d5e46be999f85a6648da7a1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-4808a3450e33479b96bd69e43d2f8fac"
+          source="id-7c6b9e5bafb84f52b6cf56d33ab96261"
+          target="id-96cab6485a8d4f6084239eb696346d08">
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_id-5151bc1c30a64b1f8596f6688299f3e7.xml#id-5151bc1c30a64b1f8596f6688299f3e7"/>
+      </sourceConnections>
+      <bounds
+          x="600"
+          y="247"
+          width="125"
+          height="43"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationProcess"
+          href="ApplicationProcess_id-8639a848cdc14c9198463d4a48935a20.xml#id-8639a848cdc14c9198463d4a48935a20"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
-        id="id-f0a19959861340febd640eaff747f0db"
+        id="id-3d3a6a69c3534430bc072cac74ab1cd0"
+        targetConnections="id-bbc2b7f046f347a8a019cd0b568748aa"
         textAlignment="1"
-        fillColor="#00f900"
-        content="Azure Function/Logic Apps">
+        content=" - Receive file from Cohort as service&#xA;-  Verify payload/file structure&#xA; - Basic data validation&#xA;- Publish for participant Management service&#xA;- Error Handling">
       <bounds
-          x="408"
-          y="76"
-          width="109"
-          height="61"/>
+          x="12"
+          y="108"
+          width="253"
+          height="73"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
-        id="id-665e69697fec4bfc992af4017dc9d9eb"
+        id="id-b350d047fbf647ccabdb631f1903a2cf"
         textAlignment="1"
-        fillColor="#00f900"
-        content="Azure Function/Logic Apps">
+        fillColor="#ffff80"
+        content="High Level Functions">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
       <bounds
-          x="720"
-          y="76"
-          width="109"
-          height="61"/>
+          x="12"
+          y="78"
+          width="189"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-c499654dcda246a09ea975afe7c27b39"
+        targetConnections="id-ac411f8c9f344a13ba1ebef87d8a38f5"
+        textAlignment="1"
+        content=" - Subscribe to the published event&#xA;-  Verify payload/file structure/data validation&#xA; - Determine type of events (e.g.new participant)&#xA;- Publish for Screenib Data service &#xA;- Error Handling">
+      <bounds
+          x="324"
+          y="102"
+          width="301"
+          height="91"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-6d3d7044f317423f8112cda9aa584f4f"
+        textAlignment="1"
+        fillColor="#ffff80"
+        content="High Level Functions">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <bounds
+          x="324"
+          y="72"
+          width="189"
+          height="31"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-82a4fbf9b65d49e095a2765ad9381ee1"
+        textAlignment="1"
+        fillColor="#ffff80"
+        content="High Level Functions">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <bounds
+          x="660"
+          y="12"
+          width="189"
+          height="31"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -251,7 +362,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f370edbcbee548d88119c3e7b6e4f3fd"
-      targetConnections="id-9db1c2deb09142d88fffaeedf77508d1 id-5703494892e749f7b12cce0739524734 id-58a3eb621cdd42baafc4d646fb268226">
+      targetConnections="id-58a3eb621cdd42baafc4d646fb268226 id-9db1c2deb09142d88fffaeedf77508d1 id-37167a6c2d8d459cae06ff9ed57e09ce">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3c3291a4cbf64ebb8f08f63b6e8ef2d8"
@@ -272,66 +383,43 @@
         source="id-f370edbcbee548d88119c3e7b6e4f3fd"
         target="id-e66b351bde67489e89a05073b595190b">
       <bendpoints
-          startX="-86"
+          startX="-108"
           startY="-156"
-          endX="-136"
+          endX="-158"
           endY="-4"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-2b733eeadbe94d38bd82ab9a3989710e.xml#id-2b733eeadbe94d38bd82ab9a3989710e"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="442"
-        width="361"
+        width="349"
         height="52"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_id-d38614a6fcff4a49bc3decabc5ee2db5.xml#id-d38614a6fcff4a49bc3decabc5ee2db5"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d10c0be14e8f46dda153f63a3afc1a21"
-      targetConnections="id-e2d35a52e15941d69bce3908a830013a">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5703494892e749f7b12cce0739524734"
-        source="id-d10c0be14e8f46dda153f63a3afc1a21"
-        target="id-f370edbcbee548d88119c3e7b6e4f3fd">
-      <bendpoints
-          startX="-318"
-          startY="6"
-          endX="-6"
-          endY="72"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-a5e65dbd4513404d8a07c344ea5e4bb9.xml#id-a5e65dbd4513404d8a07c344ea5e4bb9"/>
-    </sourceConnections>
-    <bounds
-        x="940"
-        y="529"
-        width="157"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationProcess"
-        href="ApplicationProcess_id-6838fe0af622474f860ac103fb81c411.xml#id-6838fe0af622474f860ac103fb81c411"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="id-9a6e77cb125b43028092db963f88ab58"
       textAlignment="1"
-      fillColor="#00f900"
-      content="Azure Function/Logic Apps">
+      fillColor="#feffff"
+      content="Azure Functions  to publish the transformed data payload to Event Grid">
     <bounds
-        x="840"
-        y="553"
-        width="109"
-        height="61"/>
+        x="684"
+        y="565"
+        width="145"
+        height="72"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ea114c50de67459686c956c0fd4754ed"
       targetConnections="id-a75c267f883f4735b8bf0c117626e04d">
+    <sourceConnections
+        id="id-9a7c137c4bea4e128d775f8c47e98ad0"
+        source="id-ea114c50de67459686c956c0fd4754ed"
+        target="id-a7f51563985742028fdc9826c3a9b1f8"/>
     <bounds
         x="1188"
         y="529"
@@ -343,177 +431,273 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-e2c72ccd86b147ef8561a4ffbc408369"
-      textAlignment="1"
-      content="Trigger">
-    <bounds
-        x="1032"
-        y="409"
-        width="73"
-        height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-9c6cb5ed963a4035b615d830ba8f8efc"
-      textAlignment="1"
-      content="Publish">
-    <bounds
-        x="712"
-        y="565"
-        width="73"
-        height="37"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-6de650dc97ba4c099afa46171be5f7c7"
-      textAlignment="1"
-      content="Azure Event Grid - Publish events to topics for other microservices to subscribe">
-    <bounds
-        x="1348"
-        y="439"
-        width="229"
-        height="73"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-dd7d70ace5004386bd93d18283397228"
+      id="id-7f6e7a30dfc44d378e3c699682faa25d"
       textAlignment="1"
       content="Azure API Management - Azure API Management to manage and expose the APIs from each microservice. It acts as a central gateway, handles security, and provides analytics.">
     <bounds
-        x="1348"
-        y="325"
-        width="229"
-        height="85"/>
+        x="132"
+        y="294"
+        width="217"
+        height="116"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-8a7f34329fb64435979903cf1dd0a6d3"
+      id="id-89785a79bd5d496fbfe7ff5c310cf386"
       textAlignment="1"
       content="Azure Functions - expose API end points to subscribe to the events published to Event Grid also can be used for writing rules and logics">
     <bounds
-        x="1348"
-        y="229"
-        width="229"
-        height="85"/>
+        x="132"
+        y="458"
+        width="216"
+        height="77"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-3f31e2b031314ac1845d8074e17d2296"
+      id="id-95706cc4387d4a61894c83fc0a1aea52"
       textAlignment="1"
-      fillColor="#00f900"
-      content="ADF">
+      fillColor="#ffff80"
+      content="APIs end point: APIs end points can be configured using either of the following technology options. API management and Azure Functions are widely used. Logic apps can be used if there are requirements of workflows. Can be decided duing low level design.">
+    <sourceConnections
+        id="id-413189d3b9f74457a8c025daba73fc0c"
+        source="id-95706cc4387d4a61894c83fc0a1aea52"
+        target="id-4bcc8acf2e9d4dc29fdb3330349ac596">
+      <bendpoints
+          startX="-108"
+          startY="251"
+          endX="-120"
+          endY="2"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-5f19d817f12241db8b2e272875e71084"
+        source="id-95706cc4387d4a61894c83fc0a1aea52"
+        target="id-f58d1f392a384b2aa2a093580490160b">
+      <bendpoints
+          startX="-108"
+          startY="47"
+          endX="-120"
+          endY="2"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-df59f1a3fb08431cab3028f3f89a2c19"
+        source="id-95706cc4387d4a61894c83fc0a1aea52"
+        target="id-6e2405cf4b3443afa76971885b74537e">
+      <bendpoints
+          startX="-108"
+          startY="203"
+          endX="-120"
+          endY="2"/>
+    </sourceConnections>
     <bounds
-        x="1056"
-        y="559"
-        width="85"
-        height="49"/>
+        x="72"
+        y="156"
+        width="265"
+        height="99"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-7773491bd6be4a0f9deef5fe9c38cfa2"
+      id="id-f58d1f392a384b2aa2a093580490160b"
+      targetConnections="id-5f19d817f12241db8b2e272875e71084"
       textAlignment="1"
-      fillColor="#00f900"
-      content="Event Grid Topics&#xA;Event Subscriptions&#xA;Publish Events&#xA;Event Grid Routing&#xA;Event Handler&#xA;&#xA;&#xA;&#xA;&#xA;">
+      fillColor="#ffff80"
+      content="Option 1 - API Mgmt">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
     <bounds
-        x="456"
-        y="481"
-        width="193"
-        height="85"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-430916b7153b4a01a8ecc5625fb3a188">
-    <bounds
-        x="456"
-        y="397"
-        width="85"
-        height="25"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationEvent"
-        href="ApplicationEvent_id-d1335558946f4954806937a3161a5d5c.xml#id-d1335558946f4954806937a3161a5d5c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6edf46ba7ad3450a914c1f7738a1e504">
-    <bounds
-        x="604"
-        y="373"
-        width="85"
-        height="25"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationEvent"
-        href="ApplicationEvent_id-1ebd8df64bcb46189ef6716a14104fc6.xml#id-1ebd8df64bcb46189ef6716a14104fc6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d135289b07894b79924262fe29ae1e5b">
-    <bounds
-        x="732"
-        y="373"
-        width="85"
-        height="25"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationEvent"
-        href="ApplicationEvent_id-9b6319c595944f27b603b11b2e40ea44.xml#id-9b6319c595944f27b603b11b2e40ea44"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-302a4b4fea204dbcaaf73fbc9e48b542">
-    <bounds
-        x="840"
-        y="373"
-        width="85"
-        height="25"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationEvent"
-        href="ApplicationEvent_id-63bce3b9d80a4c64a8dd1ebeb5e161f2.xml#id-63bce3b9d80a4c64a8dd1ebeb5e161f2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b50463378c9c4c568fc8235618896646">
-    <bounds
-        x="1224"
-        y="397"
-        width="85"
-        height="25"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationEvent"
-        href="ApplicationEvent_id-7217c6c053594841af46b2289e42cc03.xml#id-7217c6c053594841af46b2289e42cc03"/>
+        x="132"
+        y="264"
+        width="217"
+        height="31"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-df9d67d416264cec86af5a6d4548c540"
+      id="id-6e2405cf4b3443afa76971885b74537e"
+      targetConnections="id-df59f1a3fb08431cab3028f3f89a2c19"
       textAlignment="1"
-      fillColor="#00f900"
-      content="APIs end points can be configured using either of the following technology options. API management and Azure Functions are widely used. Logic apps can be used if there are requirement of workflows. Can be decided duing low level design.&#xA;Option 1 - API Management&#xA;Option 2 - Azure Function&#xA;Option 3 - Azure Logic Apps">
+      fillColor="#ffff80"
+      content="Option 2 Azure Function">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
     <bounds
-        x="432"
-        y="60"
-        width="409"
+        x="132"
+        y="428"
+        width="217"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4bcc8acf2e9d4dc29fdb3330349ac596"
+      targetConnections="id-413189d3b9f74457a8c025daba73fc0c"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Option 3 Azure Logic Apps">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="132"
+        y="553"
+        width="217"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-252561a1e27846cdb1339dac9463ad8e"
+      textAlignment="1"
+      content="Azure Event Grid - Publish events to topics for other microservices to subscribe">
+    <bounds
+        x="96"
+        y="732"
+        width="265"
         height="73"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-2edc9a4a62444bd99f09a6adaaea227f"
+      id="id-2c4ea0a73db440c7bdd12fd1772d2999"
       textAlignment="1"
-      fillColor="#00f900"
-      content="C# can be used to write scripts within the services which can be then processed using Azure Functions">
+      fillColor="#ffff80"
+      content="Azure Event Grid&#xD;&#xA;- Event Grid Topics&#xD;&#xA;- Event Subscriptions&#xD;&#xA;- Publish Events&#xD;&#xA;- Event Grid Routing&#xD;&#xA;- Event Handler&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="903"
-        y="66"
-        width="254"
-        height="61"/>
+        x="96"
+        y="624"
+        width="265"
+        height="109"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-16e26e6715be4239ae049ff9fe8b0daf"
+      id="id-566f89d6b04d4a70b96b0d62fafc6ee2"
       textAlignment="1"
-      fillColor="#00f900"
-      content="SQL DB">
+      fillColor="#ffff80"
+      content="Event Processing">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
     <bounds
-        x="1164"
-        y="565"
-        width="85"
+        x="432"
+        y="523"
+        width="217"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-32d56ab8463547a1994b857e44bfc503"
+      targetConnections="id-30cf0b9a5fb24e2aa0ecf77ecda0bfc8"
+      textAlignment="1"
+      content="Event processing in within a microservice can be done on Azure Functions or Azure Logic Apps written on C#.&#xA;Logic Apps can be used if there are any workflow requirements for orchestration.">
+    <bounds
+        x="432"
+        y="553"
+        width="217"
+        height="116"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2f8bb891306a4fcc939756660aeee5bd"
+      textAlignment="1"
+      content="ADF for Data pipeline orchestration to perform transformation, data quality , entity linking">
+    <bounds
+        x="909"
+        y="648"
+        width="189"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2781efa2615e40ddbc793b743206a3e2"
+      targetConnections="id-19094d374a9c446b8526baaeed475464"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Data Pipeline">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="909"
+        y="618"
+        width="189"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-96cab6485a8d4f6084239eb696346d08"
+      targetConnections="id-4808a3450e33479b96bd69e43d2f8fac">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-37167a6c2d8d459cae06ff9ed57e09ce"
+        source="id-96cab6485a8d4f6084239eb696346d08"
+        target="id-f370edbcbee548d88119c3e7b6e4f3fd">
+      <bendpoints
+          startX="-248"
+          startY="-1"
+          endX="6"
+          endY="84"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-6f06d77969524e0bbd47c4dcf01a489f.xml#id-6f06d77969524e0bbd47c4dcf01a489f"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-19094d374a9c446b8526baaeed475464"
+        source="id-96cab6485a8d4f6084239eb696346d08"
+        target="id-2781efa2615e40ddbc793b743206a3e2"/>
+    <bounds
+        x="888"
+        y="534"
+        width="232"
+        height="39"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationProcess"
+        href="ApplicationProcess_id-357f8aabf0e042989e1771868ebb0e3e.xml#id-357f8aabf0e042989e1771868ebb0e3e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1c9c0ed687a34023a4308cfe4aef8559"
+      textAlignment="1"
+      content="Relational Data Store - SQL DB&#xA;NonSQL Data Store - Cosmos db">
+    <bounds
+        x="1176"
+        y="648"
+        width="189"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a7f51563985742028fdc9826c3a9b1f8"
+      targetConnections="id-9a7c137c4bea4e128d775f8c47e98ad0"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Data Store">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="1176"
+        y="618"
+        width="189"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-48239246326547c6baddde921d0c2ca5"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="C# will be the programming language to write scripts for event processing">
+    <bounds
+        x="648"
+        y="36"
+        width="265"
         height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ee4b3983a3c44228a754531df7616129"
+      targetConnections="id-96746c24d140444bbd9eabd286101e78"
+      textAlignment="1"
+      content=" - Subscribe to the published event&#xA;-  Data validation checks&#xA;- Determine type of event&#xA; - Trigger appropiate data pipline&#xA;-  Write back to data store&#xA;-  Error Handling">
+    <bounds
+        x="1020"
+        y="108"
+        width="301"
+        height="127"/>
   </children>
 </archimate:ArchimateDiagramModel>

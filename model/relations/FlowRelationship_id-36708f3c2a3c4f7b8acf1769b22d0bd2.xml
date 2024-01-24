@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subscribe"
     id="id-36708f3c2a3c4f7b8acf1769b22d0bd2">
   <source
       xsi:type="archimate:TechnologyService"
