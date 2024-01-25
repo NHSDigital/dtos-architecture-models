@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Outbound Patient Assignment/Referral"
-    id="id-e4b6ddd67dcf48d3b21827560a7c26c0"/>
+    id="id-e4b6ddd67dcf48d3b21827560a7c26c0">
+  <properties
+      key="Level"
+      value="S1"/>
+</archimate:BusinessService>

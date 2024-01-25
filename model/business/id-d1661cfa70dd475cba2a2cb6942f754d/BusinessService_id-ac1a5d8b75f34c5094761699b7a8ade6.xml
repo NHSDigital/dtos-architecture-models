@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participant Pathway Mgmt"
+    id="id-ac1a5d8b75f34c5094761699b7a8ade6">
+  <properties
+      key="Level"
+      value="S1"/>
+</archimate:BusinessService>

@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Screenign Modality"
+    id="id-c64d48b1a95249118b9c86ee98c46470">
+  <properties
+      key="Level"
+      value="S1"/>
+</archimate:BusinessService>

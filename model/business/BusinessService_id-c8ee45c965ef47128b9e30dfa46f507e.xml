@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="End to End Capacity Mgmt "
-    id="id-c8ee45c965ef47128b9e30dfa46f507e"/>
+    id="id-c8ee45c965ef47128b9e30dfa46f507e">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

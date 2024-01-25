@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Send/Recieve Service Provider Slot Alloc"
-    id="id-4edfa6395e964efaaae1f163edd1b441"/>
+    id="id-4edfa6395e964efaaae1f163edd1b441">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

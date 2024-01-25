@@ -8,4 +8,7 @@
   <properties
       key="PBC SCOPE"
       value="OUT"/>
+  <properties
+      key="RefNum"
+      value="E31 "/>
 </archimate:Capability>

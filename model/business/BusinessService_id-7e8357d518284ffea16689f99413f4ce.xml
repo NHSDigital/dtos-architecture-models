@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Collect Local Events"
-    id="id-7e8357d518284ffea16689f99413f4ce"/>
+    id="id-7e8357d518284ffea16689f99413f4ce">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

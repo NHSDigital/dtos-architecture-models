@@ -9,4 +9,7 @@
   <properties
       key="PBC SCOPE"
       value="IN"/>
+  <properties
+      key="RefNum"
+      value="D12 "/>
 </archimate:Capability>

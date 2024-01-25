@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Experience Mgmt"
-    id="id-58a81f175d2b4f2c86fbc97ce18122a2"/>
+    id="id-58a81f175d2b4f2c86fbc97ce18122a2">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>
