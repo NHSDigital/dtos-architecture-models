@@ -90,7 +90,7 @@
     </sourceConnections>
     <bounds
         x="360"
-        y="72"
+        y="168"
         width="881"
         height="293"/>
     <children
@@ -393,7 +393,7 @@
     </sourceConnections>
     <bounds
         x="576"
-        y="442"
+        y="538"
         width="349"
         height="52"/>
     <archimateElement
@@ -408,7 +408,7 @@
       content="Azure Functions  to publish the transformed data payload to Event Grid">
     <bounds
         x="684"
-        y="565"
+        y="661"
         width="145"
         height="72"/>
   </children>
@@ -422,7 +422,7 @@
         target="id-a7f51563985742028fdc9826c3a9b1f8"/>
     <bounds
         x="1188"
-        y="529"
+        y="625"
         width="109"
         height="37"/>
     <archimateElement
@@ -436,7 +436,7 @@
       content="Azure API Management - Azure API Management to manage and expose the APIs from each microservice. It acts as a central gateway, handles security, and provides analytics.">
     <bounds
         x="132"
-        y="294"
+        y="390"
         width="217"
         height="116"/>
   </children>
@@ -447,7 +447,7 @@
       content="Azure Functions - expose API end points to subscribe to the events published to Event Grid also can be used for writing rules and logics">
     <bounds
         x="132"
-        y="458"
+        y="554"
         width="216"
         height="77"/>
   </children>
@@ -493,7 +493,7 @@
         target="id-f836916f419d4d4d822a33dce1f6fa1f"/>
     <bounds
         x="72"
-        y="156"
+        y="252"
         width="265"
         height="99"/>
   </children>
@@ -509,7 +509,7 @@
         value="false"/>
     <bounds
         x="132"
-        y="264"
+        y="360"
         width="217"
         height="31"/>
   </children>
@@ -525,7 +525,7 @@
         value="false"/>
     <bounds
         x="132"
-        y="428"
+        y="524"
         width="217"
         height="31"/>
   </children>
@@ -541,7 +541,7 @@
         value="false"/>
     <bounds
         x="132"
-        y="553"
+        y="649"
         width="217"
         height="31"/>
   </children>
@@ -552,7 +552,7 @@
       content="Azure Event Grid - Publish events to topics for other microservices to subscribe">
     <bounds
         x="96"
-        y="732"
+        y="828"
         width="265"
         height="73"/>
   </children>
@@ -564,7 +564,7 @@
       content="Azure Event Grid&#xD;&#xA;- Event Grid Topics&#xD;&#xA;- Event Subscriptions&#xD;&#xA;- Publish Events&#xD;&#xA;- Event Grid Routing&#xD;&#xA;- Event Handler&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="96"
-        y="624"
+        y="720"
         width="265"
         height="109"/>
   </children>
@@ -579,7 +579,7 @@
         value="false"/>
     <bounds
         x="432"
-        y="523"
+        y="619"
         width="217"
         height="31"/>
   </children>
@@ -591,7 +591,7 @@
       content="Event processing in within a microservice can be done on Azure Functions or Azure Logic Apps written on C#.&#xA;Logic Apps can be used if there are any workflow requirements for orchestration.">
     <bounds
         x="432"
-        y="553"
+        y="649"
         width="217"
         height="116"/>
   </children>
@@ -602,7 +602,7 @@
       content="ADF for Data pipeline orchestration to perform transformation, data quality , entity linking">
     <bounds
         x="909"
-        y="648"
+        y="744"
         width="189"
         height="85"/>
   </children>
@@ -618,7 +618,7 @@
         value="false"/>
     <bounds
         x="909"
-        y="618"
+        y="714"
         width="189"
         height="31"/>
   </children>
@@ -646,7 +646,7 @@
         target="id-2781efa2615e40ddbc793b743206a3e2"/>
     <bounds
         x="888"
-        y="534"
+        y="630"
         width="232"
         height="39"/>
     <archimateElement
@@ -660,7 +660,7 @@
       content="Relational Data Store - SQL DB&#xA;NonSQL Data Store - Cosmos db">
     <bounds
         x="1176"
-        y="648"
+        y="744"
         width="189"
         height="85"/>
   </children>
@@ -676,7 +676,7 @@
         value="false"/>
     <bounds
         x="1176"
-        y="618"
+        y="714"
         width="189"
         height="31"/>
   </children>
@@ -688,7 +688,7 @@
       content="C# will be the programming language to write scripts for event processing">
     <bounds
         x="648"
-        y="36"
+        y="132"
         width="265"
         height="49"/>
   </children>
@@ -700,7 +700,7 @@
       content=" - Subscribe to the published event&#xA;-  Data validation checks&#xA;- Determine type of event&#xA; - Trigger appropiate data pipline&#xA;-  Write back to data store&#xA;-  Error Handling">
     <bounds
         x="1020"
-        y="108"
+        y="204"
         width="301"
         height="127"/>
   </children>
@@ -712,8 +712,20 @@
       content="APIs can be used to fetch batch payload in CSV or Json format, it can also be used for API to API integration. Exposes an API endpoint to receive batch payloads in CSV format. But depending on the volume of the data traditional batch mode can be considered">
     <bounds
         x="12"
-        y="24"
+        y="120"
         width="325"
         height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d6e8ea9f411b482c8aed35f72443176a"
+      font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
+      textAlignment="1"
+      content="A view of how real time processing of files can be achieved using Azure Tech Options using the core services">
+    <bounds
+        x="168"
+        y="24"
+        width="745"
+        height="73"/>
   </children>
 </archimate:ArchimateDiagramModel>
