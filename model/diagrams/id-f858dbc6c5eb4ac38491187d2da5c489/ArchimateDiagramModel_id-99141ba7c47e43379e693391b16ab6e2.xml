@@ -487,6 +487,10 @@
           endX="-120"
           endY="2"/>
     </sourceConnections>
+    <sourceConnections
+        id="id-fea757466fb149aebd4dbd5430a73dba"
+        source="id-95706cc4387d4a61894c83fc0a1aea52"
+        target="id-f836916f419d4d4d822a33dce1f6fa1f"/>
     <bounds
         x="72"
         y="156"
@@ -699,5 +703,17 @@
         y="108"
         width="301"
         height="127"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f836916f419d4d4d822a33dce1f6fa1f"
+      targetConnections="id-fea757466fb149aebd4dbd5430a73dba"
+      textAlignment="1"
+      content="APIs can be used to fetch batch payload in CSV or Json format, it can also be used for API to API integration. Exposes an API endpoint to receive batch payloads in CSV format. But depending on the volume of the data traditional batch mode can be considered">
+    <bounds
+        x="12"
+        y="24"
+        width="325"
+        height="85"/>
   </children>
 </archimate:ArchimateDiagramModel>
