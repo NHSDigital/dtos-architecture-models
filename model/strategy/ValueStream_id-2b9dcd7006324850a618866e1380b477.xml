@@ -1,4 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Outcomes"
-    id="id-2b9dcd7006324850a618866e1380b477"/>
+    id="id-2b9dcd7006324850a618866e1380b477">
+  <properties
+      key="RefNum"
+      value="VS4"/>
+</archimate:ValueStream>
