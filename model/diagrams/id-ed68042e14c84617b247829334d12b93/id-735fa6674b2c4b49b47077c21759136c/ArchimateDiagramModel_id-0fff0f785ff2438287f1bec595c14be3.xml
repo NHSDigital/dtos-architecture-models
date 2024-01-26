@@ -1235,11 +1235,36 @@
       <features
           name="labelExpression"
           value="${name} (${property:RefNum})&#xD;&#xA;"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-f032448c76b442a3a313d4328b13a050"
+          source="id-bb91190be4ed4e869458f06c1faa6443"
+          target="id-0289d6573c454d57980562b7d0a09a2c">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-5b502c151d3d49f2a5426904b781f2fa.xml#id-5b502c151d3d49f2a5426904b781f2fa"/>
+      </sourceConnections>
       <bounds
           x="12"
           y="372"
           width="240"
-          height="73"/>
+          height="133"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-0289d6573c454d57980562b7d0a09a2c"
+          targetConnections="id-f032448c76b442a3a313d4328b13a050">
+        <features
+            name="deriveElementLineColor"
+            value="false"/>
+        <bounds
+            x="12"
+            y="60"
+            width="217"
+            height="49"/>
+        <archimateElement
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-828cf09475624c908896126f2424525d.xml#id-828cf09475624c908896126f2424525d"/>
+      </children>
       <archimateElement
           xsi:type="archimate:Product"
           href="Product_id-a0add14eef9f4386a9638997b8e1e83f.xml#id-a0add14eef9f4386a9638997b8e1e83f"/>
@@ -1263,7 +1288,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="456"
+          y="516"
           width="240"
           height="168"/>
       <children
@@ -1277,7 +1302,7 @@
             x="12"
             y="72"
             width="216"
-            height="36"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:BusinessService"
             href="BusinessService_id-bb847a92869f4a5ba27e2cb52f37d026.xml#id-bb847a92869f4a5ba27e2cb52f37d026"/>
