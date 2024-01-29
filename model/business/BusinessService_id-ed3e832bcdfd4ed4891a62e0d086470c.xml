@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Outbound Logistics Mgmt "
-    id="id-ed3e832bcdfd4ed4891a62e0d086470c"/>
+    id="id-ed3e832bcdfd4ed4891a62e0d086470c">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

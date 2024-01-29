@@ -1,4 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Planning"
-    id="id-6ceae044307a4cccb0a354ba62bd935b"/>
+    id="id-6ceae044307a4cccb0a354ba62bd935b">
+  <properties
+      key="RefNum"
+      value="VS1"/>
+</archimate:ValueStream>

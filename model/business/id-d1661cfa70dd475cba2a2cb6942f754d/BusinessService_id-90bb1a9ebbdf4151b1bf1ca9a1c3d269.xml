@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign Service Provider"
+    id="id-90bb1a9ebbdf4151b1bf1ca9a1c3d269">
+  <properties
+      key="Level"
+      value="S1"/>
+  <properties
+      key="RefNum"
+      value="SS4"/>
+</archimate:BusinessService>

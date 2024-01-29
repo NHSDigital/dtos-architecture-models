@@ -1,4 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Event Mgmt"
-    id="id-b18a9cd8a51f4e8e85783d602ff491e1"/>
+    id="id-b18a9cd8a51f4e8e85783d602ff491e1">
+  <properties
+      key="RefNum"
+      value="VS3"/>
+</archimate:ValueStream>

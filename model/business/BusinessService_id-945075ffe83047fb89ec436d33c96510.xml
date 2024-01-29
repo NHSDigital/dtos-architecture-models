@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Modality (Ultrasound)"
-    id="id-945075ffe83047fb89ec436d33c96510"/>
+    id="id-945075ffe83047fb89ec436d33c96510">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

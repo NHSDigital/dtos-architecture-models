@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="&quot;Actual&quot; Capacity Driven Matching"
-    id="id-1bfc2a71e3e44777a823e8a93860f1a0"/>
+    id="id-1bfc2a71e3e44777a823e8a93860f1a0">
+  <properties
+      key="Level"
+      value="S1"/>
+</archimate:BusinessService>

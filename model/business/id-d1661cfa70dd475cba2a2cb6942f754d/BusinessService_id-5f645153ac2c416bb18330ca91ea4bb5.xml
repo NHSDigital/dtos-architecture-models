@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Appointment Slot Mgmt"
-    id="id-5f645153ac2c416bb18330ca91ea4bb5"/>
+    id="id-5f645153ac2c416bb18330ca91ea4bb5">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

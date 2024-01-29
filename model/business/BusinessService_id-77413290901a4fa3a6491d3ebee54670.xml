@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open Appointment Alloc"
-    id="id-77413290901a4fa3a6491d3ebee54670"/>
+    id="id-77413290901a4fa3a6491d3ebee54670">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

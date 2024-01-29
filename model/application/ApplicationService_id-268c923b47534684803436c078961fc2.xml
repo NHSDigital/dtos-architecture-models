@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Caas - Get Eligible Breast Cohort"
+    name="Camas - Get Eligible Breast Cohort"
     id="id-268c923b47534684803436c078961fc2">
   <properties
       key="Created in Release"

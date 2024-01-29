@@ -1,8 +1,11 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="H3 - Business Conitinuity"
+    name="H3 - Business Continuity"
     id="EAID_37B9CB54_43A5_4a3b_8A61_45CE3CFDE3FE">
   <properties
       key="PBC SCOPE"
       value="IN"/>
+  <properties
+      key="RefNum"
+      value="H3 "/>
 </archimate:Capability>

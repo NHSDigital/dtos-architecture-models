@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="B3 - Supply Mananagement"
+    name="B3 - Supply Management"
     id="EAID_67BD4E4F_C6CB_4369_BD36_8F6307AEF43E">
   <properties
       key="Platform"
@@ -8,4 +8,7 @@
   <properties
       key="PBC SCOPE"
       value="IN"/>
+  <properties
+      key="RefNum"
+      value="B3 "/>
 </archimate:Capability>

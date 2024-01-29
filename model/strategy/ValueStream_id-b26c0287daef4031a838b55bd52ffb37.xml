@@ -1,4 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Performance"
-    id="id-b26c0287daef4031a838b55bd52ffb37"/>
+    id="id-b26c0287daef4031a838b55bd52ffb37">
+  <properties
+      key="RefNum"
+      value="VS5"/>
+</archimate:ValueStream>

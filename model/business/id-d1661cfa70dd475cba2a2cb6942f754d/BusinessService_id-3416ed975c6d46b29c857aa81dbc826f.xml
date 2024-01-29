@@ -4,5 +4,8 @@
     id="id-3416ed975c6d46b29c857aa81dbc826f">
   <properties
       key="RefNum"
-      value="C1"/>
+      value="SS1"/>
+  <properties
+      key="Level"
+      value="S1"/>
 </archimate:BusinessService>

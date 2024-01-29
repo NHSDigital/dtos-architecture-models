@@ -5,4 +5,7 @@
   <properties
       key="Platform"
       value="DPSE"/>
+  <properties
+      key="RefNum"
+      value="B43 "/>
 </archimate:Capability>

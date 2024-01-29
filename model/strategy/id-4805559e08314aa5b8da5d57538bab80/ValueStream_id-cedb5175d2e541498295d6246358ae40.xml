@@ -1,4 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Review"
-    id="id-cedb5175d2e541498295d6246358ae40"/>
+    id="id-cedb5175d2e541498295d6246358ae40">
+  <properties
+      key="RefNum"
+      value="VS6"/>
+</archimate:ValueStream>

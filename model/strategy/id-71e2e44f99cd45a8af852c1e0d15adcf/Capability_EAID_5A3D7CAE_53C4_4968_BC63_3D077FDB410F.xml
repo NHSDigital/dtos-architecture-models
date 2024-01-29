@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="G23 - Support Particpant into Treatment"
+    name="G23 - Support Participant into Treatment"
     id="EAID_5A3D7CAE_53C4_4968_BC63_3D077FDB410F">
   <properties
       key="Platform"
@@ -8,4 +8,7 @@
   <properties
       key="PBC SCOPE"
       value="In By Inference"/>
+  <properties
+      key="RefNum"
+      value="G23 "/>
 </archimate:Capability>

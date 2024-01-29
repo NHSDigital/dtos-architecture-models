@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BI and Data Analytics Product"
-    id="id-a0add14eef9f4386a9638997b8e1e83f"/>
+    id="id-a0add14eef9f4386a9638997b8e1e83f">
+  <properties
+      key="RefNum"
+      value="BS5.P2"/>
+</archimate:Product>

@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capacity Planning Product "
-    id="id-672d9b97b392403e97f5bf4294433064"/>
+    id="id-672d9b97b392403e97f5bf4294433064">
+  <properties
+      key="RefNum"
+      value="BS1.P2"/>
+</archimate:Product>

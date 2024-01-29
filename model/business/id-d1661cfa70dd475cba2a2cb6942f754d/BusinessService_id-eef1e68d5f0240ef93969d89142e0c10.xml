@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Results Distribution"
+    id="id-eef1e68d5f0240ef93969d89142e0c10">
+  <properties
+      key="Level"
+      value="S1"/>
+</archimate:BusinessService>
