@@ -58,6 +58,10 @@
         source="id-07e4fc60e7e14f7fb675d5fb72436cac"
         target="id-a1be81deb9b541eb88f4ff6316d33bdb">
       <bendpoints
+          startX="-246"
+          endX="-347"
+          endY="-449"/>
+      <bendpoints
           startX="-247"
           startY="447"
           endX="-348"
@@ -327,14 +331,14 @@
             href="CompositionRelationship_id-d57d93de791143d6baff011131af7856.xml#id-d57d93de791143d6baff011131af7856"/>
       </sourceConnections>
       <sourceConnections
-          id="id-5e992c254ab1435294af5f3305e362bc"
+          id="id-f838fddb55b44402b7c82fe23983f134"
           source="id-b854c03c9f624ed5880cbd01e05952cd"
           target="id-8933584b0c644b549c1d17a328c325a3">
         <bendpoints
-            startX="-374"
-            startY="254"
-            endX="-240"
-            endY="2"/>
+            startX="131"
+            startY="251"
+            endX="265"
+            endY="-1"/>
       </sourceConnections>
       <bounds
           x="344"
@@ -724,7 +728,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-8933584b0c644b549c1d17a328c325a3"
-      targetConnections="id-5e992c254ab1435294af5f3305e362bc"
+      targetConnections="id-f838fddb55b44402b7c82fe23983f134"
       textAlignment="1"
       fillColor="#ffff80"
       content="Data Products">
@@ -844,8 +848,8 @@
       fillColor="#fefb00"
       content="Azure Purview">
     <bounds
-        x="1199"
-        y="438"
+        x="1200"
+        y="417"
         width="108"
         height="49"/>
   </children>

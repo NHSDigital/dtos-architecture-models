@@ -258,6 +258,11 @@
           target="id-32d56ab8463547a1994b857e44bfc503">
         <bendpoints
             startX="-86"
+            startY="-7"
+            endX="-168"
+            endY="-287"/>
+        <bendpoints
+            startX="-86"
             startY="269"
             endX="-168"
             endY="-11"/>
@@ -442,8 +447,8 @@
       fillColor="#feffff"
       content="Azure Functions  to publish the transformed data payload to Event Grid">
     <bounds
-        x="678"
-        y="780"
+        x="744"
+        y="824"
         width="145"
         height="72"/>
   </children>
@@ -699,10 +704,15 @@
           source="id-37167a6c2d8d459cae06ff9ed57e09ce"
           target="id-ebd142acb0ee41fe84ea76137164b444">
         <bendpoints
-            startX="52"
-            startY="146"
-            endX="114"
-            endY="6"/>
+            startX="-140"
+            startY="194"
+            endX="-144"
+            endY="10"/>
+        <bendpoints
+            startX="-104"
+            startY="194"
+            endX="-108"
+            endY="10"/>
       </sourceConnections>
       <bendpoints
           startX="-248"
@@ -917,8 +927,8 @@
       fillColor="#ffff80"
       content="Azure Functions">
     <bounds
-        x="678"
-        y="744"
+        x="744"
+        y="788"
         width="145"
         height="37"/>
   </children>
