@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="A -Strategic Management"
+    name="A -Strategic Management TEST"
     id="EAID_23E35760_0B9F_4610_ACFB_A4FEB8D7F986">
   <properties
       key="Platform"
@@ -8,4 +8,7 @@
   <properties
       key="PBC SCOPE"
       value="In By Inference"/>
+  <properties
+      key="RefNum"
+      value="A "/>
 </archimate:Capability>

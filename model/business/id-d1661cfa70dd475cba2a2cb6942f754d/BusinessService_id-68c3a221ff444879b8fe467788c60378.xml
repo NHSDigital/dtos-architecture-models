@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Home/Logistics Appointment Alloc"
-    id="id-68c3a221ff444879b8fe467788c60378"/>
+    id="id-68c3a221ff444879b8fe467788c60378">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

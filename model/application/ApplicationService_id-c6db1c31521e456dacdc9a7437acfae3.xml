@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Recieve Completed Breast Episodes"
+    name="Receive Completed Breast Episodes"
     id="id-c6db1c31521e456dacdc9a7437acfae3">
   <properties
       key="Created in Release"

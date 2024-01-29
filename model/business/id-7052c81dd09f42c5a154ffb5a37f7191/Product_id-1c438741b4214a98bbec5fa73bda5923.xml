@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Modality Mgmt Product"
-    id="id-1c438741b4214a98bbec5fa73bda5923"/>
+    id="id-1c438741b4214a98bbec5fa73bda5923">
+  <properties
+      key="RefNum"
+      value="BS3.P1"/>
+</archimate:Product>

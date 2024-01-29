@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Modality (Biopsy)"
-    id="id-626fb941bbdf4a12a41569be2608740b"/>
+    id="id-626fb941bbdf4a12a41569be2608740b">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

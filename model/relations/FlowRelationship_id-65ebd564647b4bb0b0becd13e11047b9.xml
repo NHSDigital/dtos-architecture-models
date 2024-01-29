@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update HOW?"
+    id="id-65ebd564647b4bb0b0becd13e11047b9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-95e4885b1b1a41f28c0fe7a792fd8f60.xml#id-95e4885b1b1a41f28c0fe7a792fd8f60"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-61fd1bfa695a4a9bb3005ae64b1dbe4d.xml#id-61fd1bfa695a4a9bb3005ae64b1dbe4d"/>
+</archimate:FlowRelationship>

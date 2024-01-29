@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participant Preference Management"
+    id="id-3a53a7990a91421b8d0f47e90fda427b">
+  <properties
+      key="Level"
+      value="S1"/>
+</archimate:BusinessService>

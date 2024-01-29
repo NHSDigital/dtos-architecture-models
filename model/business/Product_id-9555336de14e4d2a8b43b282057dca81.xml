@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Outcome Management Product"
-    id="id-9555336de14e4d2a8b43b282057dca81"/>
+    id="id-9555336de14e4d2a8b43b282057dca81">
+  <properties
+      key="RefNum"
+      value="BS4.P1"/>
+</archimate:Product>

@@ -1,4 +1,11 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manage Cohort"
-    id="id-3416ed975c6d46b29c857aa81dbc826f"/>
+    id="id-3416ed975c6d46b29c857aa81dbc826f">
+  <properties
+      key="RefNum"
+      value="SS1"/>
+  <properties
+      key="Level"
+      value="S1"/>
+</archimate:BusinessService>

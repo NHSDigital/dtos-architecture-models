@@ -61,9 +61,9 @@
           href="CompositionRelationship_id-4cbf1a8a7b644605af9ee7f14b62b595.xml#id-4cbf1a8a7b644605af9ee7f14b62b595"/>
     </sourceConnections>
     <bounds
-        x="408"
+        x="359"
         y="48"
-        width="1225"
+        width="1274"
         height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -79,7 +79,7 @@
             href="FlowRelationship_id-f6e1151c0182414191a38bed35cd3213.xml#id-f6e1151c0182414191a38bed35cd3213"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="85"
           y="36"
           width="120"
           height="55"/>
@@ -101,7 +101,7 @@
             href="FlowRelationship_id-4cee127227fe410c88c1736372b12100.xml#id-4cee127227fe410c88c1736372b12100"/>
       </sourceConnections>
       <bounds
-          x="240"
+          x="289"
           y="36"
           width="120"
           height="55"/>
@@ -123,7 +123,7 @@
             href="FlowRelationship_id-59fd55bfca544e4894aa0f8912b6262e.xml#id-59fd55bfca544e4894aa0f8912b6262e"/>
       </sourceConnections>
       <bounds
-          x="588"
+          x="637"
           y="36"
           width="120"
           height="55"/>
@@ -136,7 +136,7 @@
         id="id-b0d061d943c14b8690fa5f58a4e46752"
         targetConnections="id-27c90e67fa6944cfbcfc16a398de4d5c id-3eaa6b80114e41ecbeffa4315d0ed8c2 id-2f6acc5694ac43f78a82da87a7741ae0">
       <bounds
-          x="1080"
+          x="1129"
           y="36"
           width="120"
           height="55"/>
@@ -158,7 +158,7 @@
             href="FlowRelationship_id-7dd0f7f531fc4434aeb61f9a7613f739.xml#id-7dd0f7f531fc4434aeb61f9a7613f739"/>
       </sourceConnections>
       <bounds
-          x="792"
+          x="841"
           y="36"
           width="120"
           height="55"/>
@@ -180,7 +180,7 @@
             href="FlowRelationship_id-727149e13cbf490fa3df4c8f76cad430.xml#id-727149e13cbf490fa3df4c8f76cad430"/>
       </sourceConnections>
       <bounds
-          x="936"
+          x="985"
           y="36"
           width="120"
           height="55"/>
@@ -222,7 +222,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2ada1be5854b4ab7a1ed2c4856a5467f"
-        targetConnections="id-e4f2fc489ff249068f36f9df512bc99e id-aea8abc7b5fa46c6a1cab5d6b010d73c">
+        targetConnections="id-e4f2fc489ff249068f36f9df512bc99e id-aea8abc7b5fa46c6a1cab5d6b010d73c id-60f1e3ae53a546ccb3c8a988c72e8691">
       <bounds
           x="36"
           y="108"
@@ -268,7 +268,7 @@
           href="AssociationRelationship_id-54e2fc42e8ce4d0787f3b79c10231d3f.xml#id-54e2fc42e8ce4d0787f3b79c10231d3f"/>
     </sourceConnections>
     <bounds
-        x="1368"
+        x="1416"
         y="204"
         width="181"
         height="254"/>
@@ -317,6 +317,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a74c388224724410a064cf844c627e1c"
       fillColor="#dddddd">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-60f1e3ae53a546ccb3c8a988c72e8691"
+        source="id-a74c388224724410a064cf844c627e1c"
+        target="id-2ada1be5854b4ab7a1ed2c4856a5467f">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-53b158596f3244e9be7327d6f385fbbe.xml#id-53b158596f3244e9be7327d6f385fbbe"/>
+    </sourceConnections>
     <bounds
         x="240"
         y="276"
@@ -340,7 +349,7 @@
           href="ServingRelationship_id-82e8e0301eb847548db56e472bcf88d2.xml#id-82e8e0301eb847548db56e472bcf88d2"/>
     </sourceConnections>
     <bounds
-        x="1572"
+        x="1632"
         y="312"
         width="120"
         height="55"/>
@@ -392,9 +401,9 @@
           href="ServingRelationship_id-565aeda5cd8f47499c7c283b3482d2dd.xml#id-565aeda5cd8f47499c7c283b3482d2dd"/>
     </sourceConnections>
     <bounds
-        x="408"
+        x="359"
         y="497"
-        width="1141"
+        width="1274"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"

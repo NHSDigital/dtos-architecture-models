@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Service A"
-    id="id-2f32291de28f45d8bd42d18f8388106c"/>
+    id="id-2f32291de28f45d8bd42d18f8388106c">
+  <properties
+      key="RefNum"
+      value="Not Used"/>
+</archimate:BusinessService>

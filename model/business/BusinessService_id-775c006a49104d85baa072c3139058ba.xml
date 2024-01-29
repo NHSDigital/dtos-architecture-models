@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Self Referral"
-    id="id-775c006a49104d85baa072c3139058ba"/>
+    id="id-775c006a49104d85baa072c3139058ba">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

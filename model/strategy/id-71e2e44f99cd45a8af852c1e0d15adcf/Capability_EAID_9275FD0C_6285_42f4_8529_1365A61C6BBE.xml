@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="F11 - Allocate Particiapnt to a Pathway"
+    name="F11 - Allocate Participant to a Pathway"
     id="EAID_9275FD0C_6285_42f4_8529_1365A61C6BBE">
   <properties
       key="Platform"
@@ -8,4 +8,7 @@
   <properties
       key="PBC SCOPE"
       value="IN"/>
+  <properties
+      key="RefNum"
+      value="F11 "/>
 </archimate:Capability>

@@ -8,4 +8,7 @@
   <properties
       key="PBC SCOPE"
       value="In by Inference"/>
+  <properties
+      key="RefNum"
+      value="E4 "/>
 </archimate:Capability>

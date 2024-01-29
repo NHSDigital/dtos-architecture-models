@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Audit Product"
-    id="id-accc7c7199af40ec869ff55d7a1c2ddd"/>
+    id="id-accc7c7199af40ec869ff55d7a1c2ddd">
+  <properties
+      key="RefNum"
+      value="BS5.P1"/>
+</archimate:Product>

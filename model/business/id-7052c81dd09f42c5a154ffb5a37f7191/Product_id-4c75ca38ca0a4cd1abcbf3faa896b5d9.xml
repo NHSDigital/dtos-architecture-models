@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Referral Mgmt Product"
-    id="id-4c75ca38ca0a4cd1abcbf3faa896b5d9"/>
+    id="id-4c75ca38ca0a4cd1abcbf3faa896b5d9">
+  <properties
+      key="RefNum"
+      value="BS4.P2"/>
+</archimate:Product>

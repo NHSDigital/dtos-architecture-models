@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publish Event"
+    id="id-a5e65dbd4513404d8a07c344ea5e4bb9">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-6838fe0af622474f860ac103fb81c411.xml#id-6838fe0af622474f860ac103fb81c411"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-d38614a6fcff4a49bc3decabc5ee2db5.xml#id-d38614a6fcff4a49bc3decabc5ee2db5"/>
+</archimate:FlowRelationship>

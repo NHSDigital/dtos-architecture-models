@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Physical Sample Testing Management"
-    id="id-660775644ac64726a28bc169d5ae6b28"/>
+    id="id-660775644ac64726a28bc169d5ae6b28">
+  <properties
+      key="Level"
+      value="S2"/>
+</archimate:BusinessService>

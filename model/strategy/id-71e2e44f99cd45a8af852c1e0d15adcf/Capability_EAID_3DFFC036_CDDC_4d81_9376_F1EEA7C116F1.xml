@@ -8,4 +8,7 @@
   <properties
       key="PBC SCOPE"
       value="Moderate Risk"/>
+  <properties
+      key="RefNum"
+      value="F23 "/>
 </archimate:Capability>

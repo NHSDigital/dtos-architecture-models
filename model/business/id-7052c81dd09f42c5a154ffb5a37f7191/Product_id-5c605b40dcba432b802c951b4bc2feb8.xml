@@ -3,4 +3,7 @@
     name="Cohort Management Product"
     id="id-5c605b40dcba432b802c951b4bc2feb8">
   <properties/>
+  <properties
+      key="RefNum"
+      value="BS1.P1"/>
 </archimate:Product>

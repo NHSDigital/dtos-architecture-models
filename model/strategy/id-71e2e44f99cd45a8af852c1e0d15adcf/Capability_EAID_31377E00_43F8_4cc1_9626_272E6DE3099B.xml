@@ -11,4 +11,7 @@
   <properties
       key="PBC SCOPE"
       value="OUT"/>
+  <properties
+      key="RefNum"
+      value="G "/>
 </archimate:Capability>

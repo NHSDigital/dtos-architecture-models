@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Outcome Data Tracking"
+    id="id-cf2bbe441c184a238ccdc539c6472e20">
+  <properties
+      key="Level"
+      value="S1"/>
+</archimate:BusinessService>
