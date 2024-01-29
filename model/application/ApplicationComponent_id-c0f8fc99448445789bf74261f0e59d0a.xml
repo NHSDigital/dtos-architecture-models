@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CanRisk API"
+    id="id-c0f8fc99448445789bf74261f0e59d0a">
+  <profiles
+      href="folder.xml#id-55e64b0da11a47c5b4609fb0be7e850a"/>
+</archimate:ApplicationComponent>
