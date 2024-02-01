@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2. National Screening Platform - Full (L0-2)"
-    id="id-0fff0f785ff2438287f1bec595c14be3">
+    id="id-0fff0f785ff2438287f1bec595c14be3"
+    documentation="Version &#xD;&#xA;0.1 - 23/1/2024 - Charlie Hooper - First Draft for discussion">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f4fe9e8148f94a8ab953e02a9540a5c2"
@@ -2040,25 +2041,30 @@
     <features
         name="deriveElementLineColor"
         value="false"/>
+    <features
+        name="labelExpression"
+        value="End to End Value Chain and Product View (Draft)&#xD;&#xA;View: &quot;$view{name}&quot; (in Folder: $vfolder{name})"/>
     <bounds
         x="-15"
         y="1511"
         width="1999"
-        height="86"/>
+        height="122"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-99286e119c4d45b28834cf3f802d03d0"
       font="1|Segoe UI|18.0|0|WINDOWS|1|-24|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="Version &#xD;&#xA;0.1 - 23/1/2024 - Charlie Hooper - First Draft for discussion"
       borderType="1">
     <features
         name="deriveElementLineColor"
         value="false"/>
+    <features
+        name="labelExpression"
+        value="$view{documentation}"/>
     <bounds
-        x="-15"
-        y="1596"
+        x="-12"
+        y="1632"
         width="1999"
         height="120"/>
   </children>
