@@ -88,6 +88,16 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-4e450f5f1b614bcaa6d6d805780aa495.xml#id-4e450f5f1b614bcaa6d6d805780aa495"/>
     </sourceConnections>
+    <sourceConnections
+        id="id-822d1e0908ea45e98a928ecc436ee682"
+        source="id-25650033eb254c2d837d363133665020"
+        target="id-2cab20b2e841431ea70949efb1afbfb0">
+      <bendpoints
+          startX="-416"
+          startY="-422"
+          endX="-192"
+          endY="-6"/>
+    </sourceConnections>
     <bounds
         x="360"
         y="168"
@@ -193,6 +203,16 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6b6588a054e740b1b7517267e6be03d3"
         targetConnections="id-de8a4f845b3f442fa0988ea77d1df961">
+      <sourceConnections
+          id="id-27293de429dd4a0d88ed777874828ba5"
+          source="id-6b6588a054e740b1b7517267e6be03d3"
+          target="id-95706cc4387d4a61894c83fc0a1aea52">
+        <bendpoints
+            startX="-102"
+            startY="-75"
+            endX="156"
+            endY="-1"/>
+      </sourceConnections>
       <bounds
           x="64"
           y="193"
@@ -236,6 +256,11 @@
           id="id-30cf0b9a5fb24e2aa0ecf77ecda0bfc8"
           source="id-88aaa0f78175458a99c91c5ce400e3c6"
           target="id-32d56ab8463547a1994b857e44bfc503">
+        <bendpoints
+            startX="-86"
+            startY="-7"
+            endX="-168"
+            endY="-287"/>
         <bendpoints
             startX="-86"
             startY="269"
@@ -293,10 +318,10 @@
         textAlignment="1"
         content=" - Receive file from Cohort as service&#xA;-  Verify payload/file structure&#xA; - Basic data validation&#xA;- Publish for participant Management service&#xA;- Error Handling">
       <bounds
-          x="12"
-          y="108"
+          x="57"
+          y="69"
           width="253"
-          height="73"/>
+          height="109"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
@@ -308,8 +333,8 @@
           name="deriveElementLineColor"
           value="false"/>
       <bounds
-          x="12"
-          y="78"
+          x="57"
+          y="42"
           width="189"
           height="31"/>
     </children>
@@ -318,12 +343,12 @@
         id="id-c499654dcda246a09ea975afe7c27b39"
         targetConnections="id-ac411f8c9f344a13ba1ebef87d8a38f5"
         textAlignment="1"
-        content=" - Subscribe to the published event&#xA;-  Verify payload/file structure/data validation&#xA; - Determine type of events (e.g.new participant)&#xA;- Publish for Screenib Data service &#xA;- Error Handling">
+        content=" - Subscribe to the published event&#xA;-  Verify payload/file structure/data validation&#xA; - Determine type of events (e.g. add new participant)&#xA;- Orchestrate for portal and participant allocation &#xA;- Publish for Screenib Data service &#xA;- Error Handling">
       <bounds
-          x="324"
-          y="102"
-          width="301"
-          height="91"/>
+          x="316"
+          y="54"
+          width="309"
+          height="139"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"
@@ -335,8 +360,8 @@
           name="deriveElementLineColor"
           value="false"/>
       <bounds
-          x="324"
-          y="72"
+          x="316"
+          y="24"
           width="189"
           height="31"/>
     </children>
@@ -391,6 +416,21 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-2b733eeadbe94d38bd82ab9a3989710e.xml#id-2b733eeadbe94d38bd82ab9a3989710e"/>
     </sourceConnections>
+    <sourceConnections
+        id="id-ec144d5a8abe4cc58387c28f04ee4748"
+        source="id-f370edbcbee548d88119c3e7b6e4f3fd"
+        target="id-2c4ea0a73db440c7bdd12fd1772d2999">
+      <bendpoints
+          startX="-90"
+          startY="264"
+          endX="216"
+          endY="-114"/>
+      <bendpoints
+          startX="-90"
+          startY="372"
+          endX="216"
+          endY="-6"/>
+    </sourceConnections>
     <bounds
         x="576"
         y="538"
@@ -407,8 +447,8 @@
       fillColor="#feffff"
       content="Azure Functions  to publish the transformed data payload to Event Grid">
     <bounds
-        x="684"
-        y="661"
+        x="744"
+        y="824"
         width="145"
         height="72"/>
   </children>
@@ -417,9 +457,35 @@
       id="id-ea114c50de67459686c956c0fd4754ed"
       targetConnections="id-a75c267f883f4735b8bf0c117626e04d">
     <sourceConnections
-        id="id-9a7c137c4bea4e128d775f8c47e98ad0"
+        id="id-411e5c058e364c30858fcb01536497c2"
         source="id-ea114c50de67459686c956c0fd4754ed"
-        target="id-a7f51563985742028fdc9826c3a9b1f8"/>
+        target="id-1363240402714d34bf26bb8ce8145e39">
+      <bendpoints
+          startX="-18"
+          startY="113"
+          endX="-168"
+          endY="11"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-8b9cc0bd57cf4ffa84ded972ac9337d4"
+        source="id-ea114c50de67459686c956c0fd4754ed"
+        target="id-f1b7739e28b04223967c3ca2445239c0">
+      <bendpoints
+          startX="-30"
+          startY="161"
+          endX="-174"
+          endY="11"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-4ed34ea125c943a5a1a6062e22cf8c6e"
+        source="id-ea114c50de67459686c956c0fd4754ed"
+        target="id-b1589ccfc52645e4a613af6f28e6d4f6">
+      <bendpoints
+          startX="-54"
+          startY="221"
+          endX="-204"
+          endY="10"/>
+    </sourceConnections>
     <bounds
         x="1188"
         y="625"
@@ -444,16 +510,17 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-89785a79bd5d496fbfe7ff5c310cf386"
       textAlignment="1"
-      content="Azure Functions - expose API end points to subscribe to the events published to Event Grid also can be used for writing rules and logics">
+      content="Azure Functions - &#xA;Can be used to create a tightly coupled, synchronous and stateless processing. This can also be used to publish event to Event Grid&#xA;">
     <bounds
         x="132"
         y="554"
         width="216"
-        height="77"/>
+        height="108"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-95706cc4387d4a61894c83fc0a1aea52"
+      targetConnections="id-27293de429dd4a0d88ed777874828ba5"
       textAlignment="1"
       fillColor="#ffff80"
       content="APIs end point: APIs end points can be configured using either of the following technology options. API management and Azure Functions are widely used. Logic apps can be used if there are requirements of workflows. Can be decided duing low level design.">
@@ -540,8 +607,8 @@
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="132"
-        y="649"
+        x="82"
+        y="714"
         width="217"
         height="31"/>
   </children>
@@ -549,24 +616,25 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-252561a1e27846cdb1339dac9463ad8e"
       textAlignment="1"
-      content="Azure Event Grid - Publish events to topics for other microservices to subscribe">
+      content="Azure Event Grid - Publish events to topics for other microservices to subscribe&#xA;- Event Grid Topics&#xA;- Event Subscriptions&#xA;- Publish Events&#xA;- Event Grid Routing&#xA;- Event Handler&#xA;">
     <bounds
-        x="96"
-        y="828"
-        width="265"
-        height="73"/>
+        x="312"
+        y="960"
+        width="433"
+        height="121"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-2c4ea0a73db440c7bdd12fd1772d2999"
+      targetConnections="id-ec144d5a8abe4cc58387c28f04ee4748"
       textAlignment="1"
       fillColor="#ffff80"
-      content="Azure Event Grid&#xD;&#xA;- Event Grid Topics&#xD;&#xA;- Event Subscriptions&#xD;&#xA;- Publish Events&#xD;&#xA;- Event Grid Routing&#xD;&#xA;- Event Handler&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+      content="Azure Event Grid&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="96"
-        y="720"
+        x="312"
+        y="924"
         width="265"
-        height="109"/>
+        height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -612,7 +680,7 @@
       targetConnections="id-19094d374a9c446b8526baaeed475464"
       textAlignment="1"
       fillColor="#ffff80"
-      content="Data Pipeline">
+      content="ADF">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -631,6 +699,21 @@
         id="id-37167a6c2d8d459cae06ff9ed57e09ce"
         source="id-96cab6485a8d4f6084239eb696346d08"
         target="id-f370edbcbee548d88119c3e7b6e4f3fd">
+      <sourceConnections
+          id="id-ebbdf5998f8f4712980493920f7e3993"
+          source="id-37167a6c2d8d459cae06ff9ed57e09ce"
+          target="id-ebd142acb0ee41fe84ea76137164b444">
+        <bendpoints
+            startX="-140"
+            startY="194"
+            endX="-144"
+            endY="10"/>
+        <bendpoints
+            startX="-104"
+            startY="194"
+            endX="-108"
+            endY="10"/>
+      </sourceConnections>
       <bendpoints
           startX="-248"
           startY="-1"
@@ -655,40 +738,13 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-1c9c0ed687a34023a4308cfe4aef8559"
-      textAlignment="1"
-      content="Relational Data Store - SQL DB&#xA;NonSQL Data Store - Cosmos db">
-    <bounds
-        x="1176"
-        y="744"
-        width="189"
-        height="85"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-a7f51563985742028fdc9826c3a9b1f8"
-      targetConnections="id-9a7c137c4bea4e128d775f8c47e98ad0"
-      textAlignment="1"
-      fillColor="#ffff80"
-      content="Data Store">
-    <features
-        name="deriveElementLineColor"
-        value="false"/>
-    <bounds
-        x="1176"
-        y="714"
-        width="189"
-        height="31"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-48239246326547c6baddde921d0c2ca5"
       textAlignment="1"
       fillColor="#fefb00"
       content="C# will be the programming language to write scripts for event processing">
     <bounds
-        x="648"
-        y="132"
+        x="516"
+        y="144"
         width="265"
         height="49"/>
   </children>
@@ -697,7 +753,7 @@
       id="id-ee4b3983a3c44228a754531df7616129"
       targetConnections="id-96746c24d140444bbd9eabd286101e78"
       textAlignment="1"
-      content=" - Subscribe to the published event&#xA;-  Data validation checks&#xA;- Determine type of event&#xA; - Trigger appropiate data pipline&#xA;-  Write back to data store&#xA;-  Error Handling">
+      content=" - Subscribe to the published event&#xA;-  Data validation checks&#xA;- Determine type of event&#xA; - Trigger appropiate data pipline&#xA;-  Write back to data store (e.g. to create new participant)&#xA;-  Error Handling">
     <bounds
         x="1020"
         y="204"
@@ -718,14 +774,162 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-d6e8ea9f411b482c8aed35f72443176a"
-      font="1|Lucida Grande|24.0|0|COCOA|1|LucidaGrande"
+      id="id-4feb93c62b83473293439e17a7d7d4c7"
       textAlignment="1"
-      content="A view of how real time processing of files can be achieved using Azure Tech Options using the core services">
+      content="Event grid is recommended to use if the aim is to create decoupled architecture where microservices are loosely coupled, and changes in one microservice do not directly impact others. Allows future scalability vs point to point tightly coupled microservices. It also allows event filtering capabilities &#xA;&#xA;Event grid also ensures microservices are subscribing to events, and can track the status of event processing and can handle errors through various mechanisms.">
     <bounds
-        x="168"
-        y="24"
-        width="745"
-        height="73"/>
+        x="907"
+        y="-12"
+        width="453"
+        height="169"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d8404fb921064c90b1046c79aa18ce96"
+      targetConnections="id-1f7f0bc3258a4173bd9f88aee20713fb"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Option 2: Azure Event Grid">
+    <bounds
+        x="907"
+        y="-48"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6a171a54692842e1a995ff7755c3a12c"
+      textAlignment="1"
+      content="API based integration between microservices , for a tightly coupled and synchronous integration between microservices with well defined API contacts and request - response mode of communication. &#xA;The tight coupling can lead to scalability and maintenance challenge&#xA;">
+    <bounds
+        x="480"
+        y="-12"
+        width="385"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2cab20b2e841431ea70949efb1afbfb0"
+      targetConnections="id-822d1e0908ea45e98a928ecc436ee682"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Microservice integration options">
+    <sourceConnections
+        id="id-cd1d778202b948bda55dd7e93a3b4372"
+        source="id-2cab20b2e841431ea70949efb1afbfb0"
+        target="id-a06a9ea25c4d46c8914a4a97bd5f8646"/>
+    <sourceConnections
+        id="id-1f7f0bc3258a4173bd9f88aee20713fb"
+        source="id-2cab20b2e841431ea70949efb1afbfb0"
+        target="id-d8404fb921064c90b1046c79aa18ce96"/>
+    <sourceConnections
+        id="id-0fded3e755fc4d68bd7b721ea56ad00d"
+        source="id-2cab20b2e841431ea70949efb1afbfb0"
+        target="id-39102c47d84e4f62b1d166043dbc83d6"/>
+    <bounds
+        x="480"
+        y="-216"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a06a9ea25c4d46c8914a4a97bd5f8646"
+      targetConnections="id-cd1d778202b948bda55dd7e93a3b4372"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Option 1: API Based integration by hosting APIs on Azure API management ( API Gateway)">
+    <bounds
+        x="480"
+        y="-48"
+        width="361"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a1ca32d1d1384b10831284c568d3481d"
+      textAlignment="1"
+      content="Logic Apps are used to perform orchestration either across different microservices or within microservices. Logic Apps can be used for creating tightly coupled synchronous integration within microservices. &#xA;Logic apps can also be restricted within a microservice depending on the complexity of the microservice and then can be used to publish event to Event Grid for asynchronous integration or loosely coupled architecture.">
+    <bounds
+        x="87"
+        y="744"
+        width="298"
+        height="169"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-39102c47d84e4f62b1d166043dbc83d6"
+      targetConnections="id-0fded3e755fc4d68bd7b721ea56ad00d"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Option 3: Hybrid - API based + Azure Event Grid">
+    <bounds
+        x="864"
+        y="-204"
+        width="193"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f3839c6569e04800acf4fef060f49e72"
+      textAlignment="1"
+      content="API based integration for tightly coupled microservices&#xA;and Event grid based integration for loosely coupled use cases.&#xA;Will be driven by low level requirements for each microservices.">
+    <bounds
+        x="864"
+        y="-168"
+        width="421"
+        height="61"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f1b7739e28b04223967c3ca2445239c0"
+      targetConnections="id-8b9cc0bd57cf4ffa84ded972ac9337d4"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="&#xA;Relational Data Store - Azure SQL DB&#xA;&#xA;">
+    <bounds
+        x="1266"
+        y="775"
+        width="241"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1363240402714d34bf26bb8ce8145e39"
+      targetConnections="id-411e5c058e364c30858fcb01536497c2"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Non Relational Data Store - Cosmos DB&#xA;&#xA;">
+    <bounds
+        x="1266"
+        y="727"
+        width="253"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b1589ccfc52645e4a613af6f28e6d4f6"
+      targetConnections="id-4ed34ea125c943a5a1a6062e22cf8c6e"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="&#xA;Unstructured Data Store for Images - Blob storage&#xA;">
+    <bounds
+        x="1266"
+        y="824"
+        width="253"
+        height="60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ebd142acb0ee41fe84ea76137164b444"
+      targetConnections="id-ebbdf5998f8f4712980493920f7e3993"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Azure Functions">
+    <bounds
+        x="744"
+        y="788"
+        width="145"
+        height="37"/>
   </children>
 </archimate:ArchimateDiagramModel>

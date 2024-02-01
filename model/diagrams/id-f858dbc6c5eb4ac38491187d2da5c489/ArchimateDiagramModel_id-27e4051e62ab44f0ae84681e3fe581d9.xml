@@ -58,6 +58,10 @@
         source="id-07e4fc60e7e14f7fb675d5fb72436cac"
         target="id-a1be81deb9b541eb88f4ff6316d33bdb">
       <bendpoints
+          startX="-246"
+          endX="-347"
+          endY="-449"/>
+      <bendpoints
           startX="-247"
           startY="447"
           endX="-348"
@@ -226,9 +230,17 @@
             href="CompositionRelationship_id-42df51cebe2e4ee1a80c59dc88ad0fc9.xml#id-42df51cebe2e4ee1a80c59dc88ad0fc9"/>
       </sourceConnections>
       <sourceConnections
-          id="id-9697ca4ef9a447d685263875889e904b"
+          id="id-bd2b6c95ffb6414480ed2e91b5b0ef9d"
           source="id-7b7eaec08aa543e3983bdf7fd9627dce"
-          target="id-379459a75d3c4e3eb1e7d589c0eef568"/>
+          target="id-24ce6fc1baa9448292de857fdc807183"/>
+      <sourceConnections
+          id="id-ba08f24eb21d4b198594d864163baec7"
+          source="id-7b7eaec08aa543e3983bdf7fd9627dce"
+          target="id-5368eb69b5264372808f58046016766f"/>
+      <sourceConnections
+          id="id-13adb8d1934c4750b4cf10317737d37f"
+          source="id-7b7eaec08aa543e3983bdf7fd9627dce"
+          target="id-39f350e5e5da42e697ea35b86e232633"/>
       <bounds
           x="61"
           y="60"
@@ -319,14 +331,14 @@
             href="CompositionRelationship_id-d57d93de791143d6baff011131af7856.xml#id-d57d93de791143d6baff011131af7856"/>
       </sourceConnections>
       <sourceConnections
-          id="id-5e992c254ab1435294af5f3305e362bc"
+          id="id-f838fddb55b44402b7c82fe23983f134"
           source="id-b854c03c9f624ed5880cbd01e05952cd"
           target="id-8933584b0c644b549c1d17a328c325a3">
         <bendpoints
-            startX="-374"
-            startY="254"
-            endX="-240"
-            endY="2"/>
+            startX="131"
+            startY="251"
+            endX="265"
+            endY="-1"/>
       </sourceConnections>
       <bounds
           x="344"
@@ -606,14 +618,15 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-95a2b587ecdf4a15be33dbea587ad30d"
+      targetConnections="id-1a0b48e720a347498d875267791333c5"
       textAlignment="1"
-      fillColor="#feffff"
-      content="Data Integration Technology options driven by integration use cases and low level technical requirements:&#xA;API Based integration:&#xA;- API Management&#xA;- Logic Apps&#xA;- Azure functions&#xA;&#xA;Event based integration&#xA; - Event Grid&#xA; - Logic Apps&#xA; - Azure Functions&#xA; - Event Hub&#xA;&#xA;Message based integration&#xA; - Azure Service Bus&#xA;&#xA;Batch Integration&#xA; - Azure Data Factory - Data Flow -&#xA; - Azure Data Bricks if its high compute processing">
+      fillColor="#fefb00"
+      content="Option 2:&#xA;Event based integration&#xA; - Event Grid&#xA; - Logic Apps&#xA; - Azure Functions&#xA; - Event Hub&#xA;&#xA;">
     <bounds
-        x="47"
-        y="651"
+        x="96"
+        y="760"
         width="494"
-        height="301"/>
+        height="109"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -643,39 +656,66 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-379459a75d3c4e3eb1e7d589c0eef568"
-      targetConnections="id-9697ca4ef9a447d685263875889e904b"
-      textAlignment="1"
-      fillColor="#feffff"
-      content="Following options can be used in permutation and combination which will be driven by exact requirement of transformation, data quality etc, which can be defined during low level design&#xA;1. Azure Functions - To write transformation scripts in C#, can be used for both relational and NoSQL use cases&#xA;2. COSMOS DB procedures (in java script) for NoSQL&#xA;3. SQL Procedured for relational data store use cases.">
-    <bounds
-        x="59"
-        y="348"
-        width="397"
-        height="139"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-a1be81deb9b541eb88f4ff6316d33bdb"
       targetConnections="id-25f24cc075874c6985cd9e6ec9d23d18"
       textAlignment="1"
       fillColor="#ffff80"
-      content="Data Integration">
+      content="Data Integration - Data Integration Technology options driven by integration use cases and low level technical requirements:">
     <features
         name="deriveElementLineColor"
         value="false"/>
+    <sourceConnections
+        id="id-b6e6b10f0c2144e0ae0129d14c1eab40"
+        source="id-a1be81deb9b541eb88f4ff6316d33bdb"
+        target="id-567209e945a24697b359da2f9a600ad2">
+      <bendpoints
+          startX="-239"
+          startY="79"
+          endX="-295"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-1a0b48e720a347498d875267791333c5"
+        source="id-a1be81deb9b541eb88f4ff6316d33bdb"
+        target="id-95a2b587ecdf4a15be33dbea587ad30d">
+      <bendpoints
+          startX="-239"
+          startY="187"
+          endX="-295"
+          endY="14"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-b08b6a63902547eba3a82a00515777e4"
+        source="id-a1be81deb9b541eb88f4ff6316d33bdb"
+        target="id-48c3854d636843e7ab346bcd08945c2f">
+      <bendpoints
+          startX="-239"
+          startY="283"
+          endX="-295"
+          endY="17"/>
+    </sourceConnections>
+    <sourceConnections
+        id="id-e5199275762c451894849613baa8c1bb"
+        source="id-a1be81deb9b541eb88f4ff6316d33bdb"
+        target="id-f74ac0a0f3b24ce38775c04872c1659d">
+      <bendpoints
+          startX="-239"
+          startY="355"
+          endX="-295"
+          endY="6"/>
+    </sourceConnections>
     <bounds
         x="47"
         y="618"
         width="481"
-        height="31"/>
+        height="46"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-24ce6fc1baa9448292de857fdc807183"
+      targetConnections="id-bd2b6c95ffb6414480ed2e91b5b0ef9d"
       textAlignment="1"
       fillColor="#ffff80"
-      content="Data Normalisation">
+      content="Option 1 - Azure Functions - To write transformation scripts in C#, can be used for both relational and NoSQL use cases&#xA;">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -683,12 +723,12 @@
         x="59"
         y="318"
         width="385"
-        height="31"/>
+        height="43"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-8933584b0c644b549c1d17a328c325a3"
-      targetConnections="id-5e992c254ab1435294af5f3305e362bc"
+      targetConnections="id-f838fddb55b44402b7c82fe23983f134"
       textAlignment="1"
       fillColor="#ffff80"
       content="Data Products">
@@ -808,8 +848,8 @@
       fillColor="#fefb00"
       content="Azure Purview">
     <bounds
-        x="1199"
-        y="438"
+        x="1200"
+        y="417"
         width="108"
         height="49"/>
   </children>
@@ -890,5 +930,76 @@
         y="1056"
         width="553"
         height="60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5368eb69b5264372808f58046016766f"
+      targetConnections="id-ba08f24eb21d4b198594d864163baec7"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Option 2 - COSMOS DB procedures (in java script) for NoSQL&#xA;">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="59"
+        y="372"
+        width="385"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-39f350e5e5da42e697ea35b86e232633"
+      targetConnections="id-13adb8d1934c4750b4cf10317737d37f"
+      textAlignment="1"
+      fillColor="#ffff80"
+      content="Option 3 - SQL Procedured for relational data store use cases.">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <bounds
+        x="59"
+        y="420"
+        width="385"
+        height="43"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-567209e945a24697b359da2f9a600ad2"
+      targetConnections="id-b6e6b10f0c2144e0ae0129d14c1eab40"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Option 1:&#xA;API Based integration:&#xA;- API Management&#xA;- Logic Apps&#xA;- Azure functions&#xA;">
+    <bounds
+        x="96"
+        y="693"
+        width="494"
+        height="55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f74ac0a0f3b24ce38775c04872c1659d"
+      targetConnections="id-e5199275762c451894849613baa8c1bb"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Option 4: &#xA;Batch Integration&#xA; - Azure Data Factory - Data Flow -&#xA; - Azure Data Bricks if its high compute processing">
+    <bounds
+        x="96"
+        y="948"
+        width="494"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-48c3854d636843e7ab346bcd08945c2f"
+      targetConnections="id-b08b6a63902547eba3a82a00515777e4"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Option 3:&#xA;Message based integration&#xA; - Azure Service Bus&#xA;">
+    <bounds
+        x="96"
+        y="877"
+        width="494"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>
