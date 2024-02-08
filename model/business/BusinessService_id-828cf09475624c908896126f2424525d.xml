@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DPSe Integration Service"
-    id="id-828cf09475624c908896126f2424525d"/>
+    id="id-828cf09475624c908896126f2424525d">
+  <properties
+      key="RefNum"
+      value="C23 "/>
+</archimate:BusinessService>

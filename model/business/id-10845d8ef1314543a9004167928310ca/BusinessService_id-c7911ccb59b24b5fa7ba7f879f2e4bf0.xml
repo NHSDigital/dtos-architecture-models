@@ -1,8 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Insights Business Service"
+    name="Service Insights Stage"
     id="id-c7911ccb59b24b5fa7ba7f879f2e4bf0">
   <properties
       key="RefNum"
-      value="BS5"/>
+      value="St5"/>
 </archimate:BusinessService>

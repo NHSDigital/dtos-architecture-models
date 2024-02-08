@@ -5,4 +5,7 @@
   <properties
       key="Level"
       value="S2"/>
+  <properties
+      key="RefNum"
+      value="C15.02"/>
 </archimate:BusinessService>

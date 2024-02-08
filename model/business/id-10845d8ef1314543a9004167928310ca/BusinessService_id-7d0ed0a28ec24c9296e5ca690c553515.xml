@@ -1,8 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Planning Business Service"
+    name="Service Planning Stage"
     id="id-7d0ed0a28ec24c9296e5ca690c553515">
   <properties
       key="RefNum"
-      value="BS1"/>
+      value="St1"/>
 </archimate:BusinessService>
