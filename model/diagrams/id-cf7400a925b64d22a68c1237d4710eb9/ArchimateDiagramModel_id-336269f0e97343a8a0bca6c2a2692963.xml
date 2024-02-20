@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2. Screening Event Collaboration"
+    name="2. Screening Event Collaboration (St Georges)"
     id="id-336269f0e97343a8a0bca6c2a2692963">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -3368,4 +3368,24 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-d663461fa090430da1872291626d04e3.xml#id-d663461fa090430da1872291626d04e3"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cfdc6464b84e4295a64e7b142e5425d2"
+      font="1|Segoe UI|21.75|0|WINDOWS|1|-29|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#f7f29b"
+      borderType="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="View: &quot;$view{name}&quot; (in Folder: $vfolder{name})"/>
+    <bounds
+        x="-132"
+        y="120"
+        width="3049"
+        height="132"/>
+  </children>
+  <properties/>
 </archimate:ArchimateDiagramModel>

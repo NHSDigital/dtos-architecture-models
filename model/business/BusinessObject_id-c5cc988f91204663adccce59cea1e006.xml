@@ -1,5 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Patient Demographics"
-    id="id-c5cc988f91204663adccce59cea1e006"
-    documentation="=&quot; &#xD;&#xA;Represents a concept used within a particular business domain.&quot;"/>
+    id="id-c5cc988f91204663adccce59cea1e006"/>

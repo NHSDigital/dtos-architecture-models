@@ -1,8 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Screening Outcomes Business Service"
+    name="Screening Outcomes Stage"
     id="id-11c1e5d2ec254e36b2def50b163e4f88">
   <properties
       key="RefNum"
-      value="BS4"/>
+      value="St4"/>
 </archimate:BusinessService>
