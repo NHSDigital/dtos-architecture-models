@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referral Service"
+    id="id-7f4504b99af5467c95bcb57f8b9dc60b">
+  <profiles
+      href="folder.xml#id-0181b9672a7b426bb6dedd000d956114"/>
+</archimate:ApplicationComponent>
