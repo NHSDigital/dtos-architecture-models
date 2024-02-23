@@ -8,7 +8,7 @@
       id="id-1ad8f4e08c5d4167b1ffc59e4ae6dbc0"
       name="Drop 1"
       textAlignment="1"
-      fillColor="#ff80ff">
+      fillColor="#d1d1d1">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -34,7 +34,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-98924dfed91941879af13064a7e735f2">
+      id="id-98924dfed91941879af13064a7e735f2"
+      fillColor="#c8feb6">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -124,7 +125,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d0fd72b2e5a149189bace35b4d9f3b00">
+      id="id-d0fd72b2e5a149189bace35b4d9f3b00"
+      fillColor="#c8feb6">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -235,7 +237,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fa7c31354fb1446b8be9686a97dead31">
+      id="id-fa7c31354fb1446b8be9686a97dead31"
+      fillColor="#c8feb6">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -274,7 +277,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a4cc4a35d5c545ae841476544250604e">
+      id="id-a4cc4a35d5c545ae841476544250604e"
+      fillColor="#c8feb6">
     <features
         name="deriveElementLineColor"
         value="false"/>
@@ -369,9 +373,9 @@
         name="deriveElementLineColor"
         value="false"/>
     <bounds
-        x="-336"
+        x="-516"
         y="-96"
-        width="1237"
+        width="1393"
         height="80"/>
   </children>
   <children
