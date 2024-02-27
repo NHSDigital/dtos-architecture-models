@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Data Services"
-    id="id-95e4885b1b1a41f28c0fe7a792fd8f60"/>
+    id="id-95e4885b1b1a41f28c0fe7a792fd8f60">
+  <properties
+      key="RefNum"
+      value="A02.02"/>
+</archimate:ApplicationComponent>

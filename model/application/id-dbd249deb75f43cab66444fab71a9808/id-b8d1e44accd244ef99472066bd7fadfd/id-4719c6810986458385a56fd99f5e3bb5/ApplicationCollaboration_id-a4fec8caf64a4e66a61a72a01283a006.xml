@@ -1,4 +1,8 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Data Technical Services"
-    id="id-a4fec8caf64a4e66a61a72a01283a006"/>
+    id="id-a4fec8caf64a4e66a61a72a01283a006">
+  <properties
+      key="RefNum"
+      value="A02"/>
+</archimate:ApplicationCollaboration>

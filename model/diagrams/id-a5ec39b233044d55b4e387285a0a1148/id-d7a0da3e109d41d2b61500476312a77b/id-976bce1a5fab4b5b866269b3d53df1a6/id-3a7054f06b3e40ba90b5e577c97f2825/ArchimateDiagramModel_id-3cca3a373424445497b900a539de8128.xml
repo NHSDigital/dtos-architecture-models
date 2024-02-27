@@ -340,6 +340,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a6aa504080d34798840ab3a73c4cd1b7"
       fillColor="#dddddd">
+    <features
+        name="labelExpression"
+        value="${name} (${property:RefNum})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-942167f54a79416d86a1f7eaf5780bef"
