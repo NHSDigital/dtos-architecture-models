@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CaaS Integration Service"
-    id="id-524e5494592948098a1abc54ad4ec623"/>
+    id="id-524e5494592948098a1abc54ad4ec623">
+  <properties
+      key="RefNum"
+      value="A01.01"/>
+</archimate:ApplicationComponent>

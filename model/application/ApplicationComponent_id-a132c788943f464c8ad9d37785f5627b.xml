@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gp System"
-    id="id-a132c788943f464c8ad9d37785f5627b"/>
+    id="id-a132c788943f464c8ad9d37785f5627b">
+  <properties
+      key="RefNum"
+      value="Gp "/>
+</archimate:ApplicationComponent>
