@@ -3,6 +3,5 @@
     name="eRS Integartion Service"
     id="id-11630c1d73bb43b0b589b8b31c9b5a29">
   <properties
-      key="RefNum"
-      value="eRS "/>
+      key="RefNum"/>
 </archimate:ApplicationComponent>

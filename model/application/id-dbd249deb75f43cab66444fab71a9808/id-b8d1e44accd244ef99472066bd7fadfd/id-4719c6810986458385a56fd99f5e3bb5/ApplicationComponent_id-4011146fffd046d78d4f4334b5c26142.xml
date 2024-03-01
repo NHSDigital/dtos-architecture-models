@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reference Data Service"
-    id="id-4011146fffd046d78d4f4334b5c26142"/>
+    id="id-4011146fffd046d78d4f4334b5c26142">
+  <properties
+      key="RefNum"
+      value="A02.01"/>
+</archimate:ApplicationComponent>

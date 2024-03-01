@@ -1,4 +1,8 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GP2DRS"
-    id="id-287b17160b704d0883abe3cb3f5d3c28"/>
+    id="id-287b17160b704d0883abe3cb3f5d3c28">
+  <properties
+      key="RefNum"
+      value="Ax04"/>
+</archimate:ApplicationCollaboration>

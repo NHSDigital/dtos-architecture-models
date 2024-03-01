@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Database"
-    id="id-fb7dad8c9af84707b490b64c4716e626"/>
+    id="id-fb7dad8c9af84707b490b64c4716e626">
+  <properties
+      key="RefNum"
+      value="A02.03"/>
+</archimate:ApplicationComponent>
