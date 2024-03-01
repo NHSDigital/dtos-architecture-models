@@ -1283,7 +1283,7 @@
             x="24"
             y="108"
             width="120"
-            height="55"/>
+            height="73"/>
         <archimateElement
             xsi:type="archimate:BusinessService"
             href="BusinessService_id-e4812a463cef44d4a9e9d9e804d9fcec.xml#id-e4812a463cef44d4a9e9d9e804d9fcec"/>
@@ -1599,14 +1599,14 @@
           source="id-734032fbd19745c6be3aabd4ee60a7f4"
           target="id-02fbfc5b589c45299489768e96912a76">
         <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-a7bb4dfe19064d9b9e04625a397d0ba4.xml#id-a7bb4dfe19064d9b9e04625a397d0ba4"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-1387192fceb64bebbb431852102caa3e.xml#id-1387192fceb64bebbb431852102caa3e"/>
       </sourceConnections>
       <bounds
           x="204"
           y="36"
           width="193"
-          height="169"/>
+          height="205"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d8f27cc03bea40a6a9e10b0cc2e0cb08"
@@ -1616,7 +1616,7 @@
             value="${name} (${property:RefNum})"/>
         <bounds
             x="36"
-            y="24"
+            y="60"
             width="120"
             height="55"/>
         <archimateElement
@@ -1642,7 +1642,7 @@
         </sourceConnections>
         <bounds
             x="36"
-            y="96"
+            y="132"
             width="120"
             height="55"/>
         <archimateElement
@@ -1650,8 +1650,8 @@
             href="ApplicationComponent_id-dffdf7eed72742ff8a6e817e8752476d.xml#id-dffdf7eed72742ff8a6e817e8752476d"/>
       </children>
       <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-03f39ae47d4942c2bae018bc471a8bcf.xml#id-03f39ae47d4942c2bae018bc471a8bcf"/>
+          xsi:type="archimate:ApplicationCollaboration"
+          href="ApplicationCollaboration_id-e34313e80f594dfe9bb1cee51cf82057.xml#id-e34313e80f594dfe9bb1cee51cf82057"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"

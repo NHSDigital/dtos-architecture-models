@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Participant Management Service"
-    id="id-e2f7431eeef34afa9cf338598a2bbd80"/>
+    id="id-e2f7431eeef34afa9cf338598a2bbd80">
+  <properties
+      key="RefNum"
+      value="A01.03"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manage BI Platform"
-    id="id-1273cdcf2731427ca28538ede89d5c5e"/>
+    id="id-1273cdcf2731427ca28538ede89d5c5e">
+  <properties
+      key="RefNum"
+      value="C32 "/>
+</archimate:BusinessService>

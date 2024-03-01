@@ -114,8 +114,8 @@
           source="id-30235a940e1543df869aad59bb534883"
           target="id-f661a57fb2034429b87defdff3fb0c11">
         <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-a7bb4dfe19064d9b9e04625a397d0ba4.xml#id-a7bb4dfe19064d9b9e04625a397d0ba4"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-1387192fceb64bebbb431852102caa3e.xml#id-1387192fceb64bebbb431852102caa3e"/>
       </sourceConnections>
       <bounds
           x="168"
@@ -159,8 +159,8 @@
             href="ApplicationComponent_id-dffdf7eed72742ff8a6e817e8752476d.xml#id-dffdf7eed72742ff8a6e817e8752476d"/>
       </children>
       <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-03f39ae47d4942c2bae018bc471a8bcf.xml#id-03f39ae47d4942c2bae018bc471a8bcf"/>
+          xsi:type="archimate:ApplicationCollaboration"
+          href="ApplicationCollaboration_id-e34313e80f594dfe9bb1cee51cf82057.xml#id-e34313e80f594dfe9bb1cee51cf82057"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"

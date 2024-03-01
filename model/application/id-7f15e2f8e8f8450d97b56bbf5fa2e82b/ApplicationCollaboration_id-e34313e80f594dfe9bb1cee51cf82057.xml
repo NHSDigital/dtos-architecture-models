@@ -1,8 +1,8 @@
-<archimate:ApplicationComponent
+<archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Processing Service"
-    id="id-03f39ae47d4942c2bae018bc471a8bcf">
+    id="id-e34313e80f594dfe9bb1cee51cf82057">
   <properties
       key="RefNum"
       value="AX01"/>
-</archimate:ApplicationComponent>
+</archimate:ApplicationCollaboration>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Rules Engine"
-    id="id-603a63e740a14b51a49be4171ea9195f"/>
+    id="id-603a63e740a14b51a49be4171ea9195f">
+  <properties
+      key="RefNum"
+      value="A05.01"/>
+</archimate:ApplicationComponent>
