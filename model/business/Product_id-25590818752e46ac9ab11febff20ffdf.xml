@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Products"
-    id="id-25590818752e46ac9ab11febff20ffdf"/>
+    id="id-25590818752e46ac9ab11febff20ffdf"
+    documentation="A Key to Illustrate Products"/>

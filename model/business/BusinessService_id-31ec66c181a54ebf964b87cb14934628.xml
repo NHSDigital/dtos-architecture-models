@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Distribute Cohort"
-    id="id-31ec66c181a54ebf964b87cb14934628"/>
+    id="id-31ec66c181a54ebf964b87cb14934628">
+  <properties
+      key="RefNum"
+      value="C04.03"/>
+</archimate:BusinessService>

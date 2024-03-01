@@ -3,6 +3,5 @@
     name="Business Service B"
     id="id-d850945f15b24626b3468767d1f81bff">
   <properties
-      key="RefNum"
-      value="Not Used"/>
+      key="RefNum"/>
 </archimate:BusinessService>

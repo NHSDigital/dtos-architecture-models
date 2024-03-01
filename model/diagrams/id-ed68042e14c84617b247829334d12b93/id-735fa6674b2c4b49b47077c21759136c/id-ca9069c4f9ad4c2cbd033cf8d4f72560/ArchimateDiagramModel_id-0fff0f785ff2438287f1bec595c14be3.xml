@@ -611,7 +611,7 @@
           x="12"
           y="516"
           width="253"
-          height="373"/>
+          height="409"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c1e2d38a2fb3411f8bd6c11c4ded8db6"
@@ -726,7 +726,7 @@
             x="12"
             y="240"
             width="229"
-            height="121"/>
+            height="133"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-bea58c6437ee44a1a1e417b987ad38e1">
@@ -738,7 +738,7 @@
               value="${name} (${property:RefNum})&#xD;&#xA;"/>
           <bounds
               x="12"
-              y="24"
+              y="36"
               width="205"
               height="37"/>
           <archimateElement
@@ -756,7 +756,7 @@
               value="${name} (${property:RefNum})&#xD;&#xA;"/>
           <bounds
               x="12"
-              y="72"
+              y="84"
               width="205"
               height="37"/>
           <archimateElement
@@ -947,7 +947,7 @@
           x="12"
           y="288"
           width="253"
-          height="312"/>
+          height="300"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-dc1e10f94854474396c76fe3fb5892a9"
@@ -1121,9 +1121,9 @@
       </sourceConnections>
       <bounds
           x="13"
-          y="612"
+          y="588"
           width="252"
-          height="385"/>
+          height="397"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0d80d8618c7c4edd91110a1035c9d207"
@@ -1133,7 +1133,7 @@
             value="${name} (${property:RefNum})"/>
         <bounds
             x="12"
-            y="300"
+            y="312"
             width="228"
             height="73"/>
         <children
@@ -1172,7 +1172,7 @@
             x="12"
             y="60"
             width="228"
-            height="145"/>
+            height="157"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-f9b22afa7a9146aeb6fd9391e2525376">
@@ -1243,7 +1243,7 @@
             value="${name} (${property:RefNum})"/>
         <bounds
             x="12"
-            y="216"
+            y="228"
             width="228"
             height="73"/>
         <children
@@ -2299,4 +2299,5 @@
         width="541"
         height="84"/>
   </children>
+  <properties/>
 </archimate:ArchimateDiagramModel>

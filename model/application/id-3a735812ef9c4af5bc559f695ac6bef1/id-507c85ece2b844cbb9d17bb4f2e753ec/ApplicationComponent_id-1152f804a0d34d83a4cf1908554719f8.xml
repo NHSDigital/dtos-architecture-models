@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BS-Select"
-    id="id-1152f804a0d34d83a4cf1908554719f8"/>
+    id="id-1152f804a0d34d83a4cf1908554719f8">
+  <properties
+      key="RefNum"
+      value="AX03"/>
+</archimate:ApplicationComponent>

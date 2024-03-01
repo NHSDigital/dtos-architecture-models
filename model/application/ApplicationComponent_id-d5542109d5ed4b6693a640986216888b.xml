@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Historic Event Ingestion Service"
-    id="id-d5542109d5ed4b6693a640986216888b"/>
+    id="id-d5542109d5ed4b6693a640986216888b">
+  <properties
+      key="RefNum"
+      value="A02.05"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DPS Integration Service"
-    id="id-45edaed546e247a0a2acf1796059a599"/>
+    id="id-45edaed546e247a0a2acf1796059a599">
+  <properties
+      key="RefNum"
+      value="A04.01"/>
+</archimate:ApplicationComponent>

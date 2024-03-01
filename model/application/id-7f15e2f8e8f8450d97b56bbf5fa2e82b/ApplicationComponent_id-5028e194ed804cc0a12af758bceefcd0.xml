@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cohort as a Service"
-    id="id-5028e194ed804cc0a12af758bceefcd0"/>
+    id="id-5028e194ed804cc0a12af758bceefcd0">
+  <properties
+      key="RefNum"
+      value="AX02.01"/>
+</archimate:ApplicationComponent>

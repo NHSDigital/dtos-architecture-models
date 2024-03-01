@@ -10,5 +10,5 @@
       value="In By Inference"/>
   <properties
       key="RefNum"
-      value="F32 "/>
+      value="Cap-F32 "/>
 </archimate:Capability>

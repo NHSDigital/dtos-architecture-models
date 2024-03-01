@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Participant Allocation Service"
-    id="id-fa842e946b264d87aa5d4345d5a506d4"/>
+    id="id-fa842e946b264d87aa5d4345d5a506d4">
+  <properties
+      key="RefNum"
+      value="A01.02"/>
+</archimate:ApplicationComponent>

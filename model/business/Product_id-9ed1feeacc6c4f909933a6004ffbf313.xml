@@ -3,6 +3,5 @@
     name="Product B"
     id="id-9ed1feeacc6c4f909933a6004ffbf313">
   <properties
-      key="RefNum"
-      value="Not Used"/>
+      key="RefNum"/>
 </archimate:Product>

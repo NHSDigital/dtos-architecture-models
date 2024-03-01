@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Breast Cohort"
-    id="id-3d02648e491f411fb5ef258a72080f76"/>
+    id="id-3d02648e491f411fb5ef258a72080f76">
+  <properties
+      key="RefNum"
+      value="D02"/>
+</archimate:DataObject>

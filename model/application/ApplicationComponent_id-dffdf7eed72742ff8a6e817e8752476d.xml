@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Analytics Tools"
-    id="id-dffdf7eed72742ff8a6e817e8752476d"/>
+    id="id-dffdf7eed72742ff8a6e817e8752476d">
+  <properties
+      key="RefNum"
+      value="AX01.01"/>
+</archimate:ApplicationComponent>

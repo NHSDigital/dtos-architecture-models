@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. CaaS Integration Collaboration"
+    name="1. CaaS Integration Collaboration (Drop 1)"
     id="id-3cca3a373424445497b900a539de8128">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -340,6 +340,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a6aa504080d34798840ab3a73c4cd1b7"
       fillColor="#dddddd">
+    <features
+        name="labelExpression"
+        value="${name} (${property:RefNum})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-942167f54a79416d86a1f7eaf5780bef"
