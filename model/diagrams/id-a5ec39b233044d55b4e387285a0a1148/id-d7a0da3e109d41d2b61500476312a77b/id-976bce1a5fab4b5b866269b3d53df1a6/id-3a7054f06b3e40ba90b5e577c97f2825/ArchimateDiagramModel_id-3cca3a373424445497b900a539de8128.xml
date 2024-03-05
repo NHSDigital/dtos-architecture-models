@@ -7,6 +7,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6579d53218764f9686b104b9570b074b"
       fillColor="#dddddd">
+    <features
+        name="labelExpression"
+        value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-97f3c935b59d49e4a104010fe421e42b"
@@ -25,11 +28,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-177a8be6a4b445e1ac68e8fb87c91dc5"
         targetConnections="id-97f3c935b59d49e4a104010fe421e42b id-5f88fbe9fdc7482ca5fc5df2ebb95eab">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-52b2e6bb5efa4d5f8c76ad550fa9549a"
           source="id-177a8be6a4b445e1ac68e8fb87c91dc5"
           target="id-ad6747a7c3cd4c5bab9e18e93a75a16c">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-91f745eece21403c801ecaf1ed69791e.xml#id-91f745eece21403c801ecaf1ed69791e"/>
@@ -54,6 +63,9 @@
     <features
         name="deriveElementLineColor"
         value="false"/>
+    <features
+        name="labelExpression"
+        value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a15478ebbf224ddd96a1ec23f3073be9"
@@ -81,11 +93,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ad6747a7c3cd4c5bab9e18e93a75a16c"
         targetConnections="id-a15478ebbf224ddd96a1ec23f3073be9 id-52b2e6bb5efa4d5f8c76ad550fa9549a">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-99085daee7a94e52b390e5f98310a99a"
           source="id-ad6747a7c3cd4c5bab9e18e93a75a16c"
           target="id-827f44f6719d4c709015c5bf4a53805e">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-7bd49c7ef6d047df8d9e83f0e471851f.xml#id-7bd49c7ef6d047df8d9e83f0e471851f"/>
@@ -103,11 +121,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-827f44f6719d4c709015c5bf4a53805e"
         targetConnections="id-1d446d96ce9c4a8b82514cba4641901a id-99085daee7a94e52b390e5f98310a99a">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ea1cea407e63428ca76eb7e430f8bc60"
           source="id-827f44f6719d4c709015c5bf4a53805e"
           target="id-5bbb45a000594bd3adba6986d1cf5493">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-824018c6ebaf41dd82a31cc6c5e2d14d.xml#id-824018c6ebaf41dd82a31cc6c5e2d14d"/>
@@ -117,6 +141,9 @@
           id="id-44fcc362c4864709a7f2ea557d3eaac8"
           source="id-827f44f6719d4c709015c5bf4a53805e"
           target="id-beeb816ef0af4b0da813447683008fc8">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-bfdce73d59dc4ac6b643b26f52276d47.xml#id-bfdce73d59dc4ac6b643b26f52276d47"/>
@@ -141,6 +168,9 @@
     <features
         name="deriveElementLineColor"
         value="false"/>
+    <features
+        name="labelExpression"
+        value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4ae1fdc105ac4221bc41d27cb08b5cf4"
@@ -168,11 +198,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5bbb45a000594bd3adba6986d1cf5493"
         targetConnections="id-4ae1fdc105ac4221bc41d27cb08b5cf4 id-ea1cea407e63428ca76eb7e430f8bc60">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f56f799df52a4bafbf472cde2a9b7227"
           source="id-5bbb45a000594bd3adba6986d1cf5493"
           target="id-7be945fab7e4434b9c7dd28fb03819ba">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-bc32b27b13a3459ea5ac6dc74b51fe29.xml#id-bc32b27b13a3459ea5ac6dc74b51fe29"/>
@@ -182,6 +218,9 @@
           id="id-3304ad30a52945f5b82b80c3f68614d7"
           source="id-5bbb45a000594bd3adba6986d1cf5493"
           target="id-705b4b80b79e4016aa412022aea790ce">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-20c498ca07cd428b8ab0b22e5343ddb4.xml#id-20c498ca07cd428b8ab0b22e5343ddb4"/>
@@ -191,6 +230,9 @@
           id="id-820b1a6cb43b44fd9a002f3fb5e476be"
           source="id-5bbb45a000594bd3adba6986d1cf5493"
           target="id-33b057faa1564a229408e3aca8e65ae5">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-8f527376e24f4556b6d20e1926e60c37.xml#id-8f527376e24f4556b6d20e1926e60c37"/>
@@ -200,6 +242,9 @@
           id="id-6ac5491b5bdb428292882bad99d43526"
           source="id-5bbb45a000594bd3adba6986d1cf5493"
           target="id-bb4fcafc7a3e4ed69efe7b5f1c3ab469">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-167313b689f2482a92c7bdb99d32f4b6.xml#id-167313b689f2482a92c7bdb99d32f4b6"/>
@@ -217,11 +262,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-beeb816ef0af4b0da813447683008fc8"
         targetConnections="id-a30ef69789f24f7f8f315b42db223df2 id-44fcc362c4864709a7f2ea557d3eaac8">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c6f242018b4848268230f8cff087aec7"
           source="id-beeb816ef0af4b0da813447683008fc8"
           target="id-007fa5e7dea24ef1a536c83ff0ee2eee">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-2555db6866c54be9a2271d0d95cd30b7.xml#id-2555db6866c54be9a2271d0d95cd30b7"/>
@@ -231,6 +282,9 @@
           id="id-19f42347dda84c5c9f8b003e708654e6"
           source="id-beeb816ef0af4b0da813447683008fc8"
           target="id-e64080523468428a9f26e4f6d29bd192">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-8f9608cd95214adeba7cd11bc6038dbc.xml#id-8f9608cd95214adeba7cd11bc6038dbc"/>
@@ -252,6 +306,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-27dd14bc493b4f0db7feced074512bd8"
       fillColor="#dddddd">
+    <features
+        name="labelExpression"
+        value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d97a369f120b4fd9af29f1c5c2b89c3f"
@@ -288,6 +345,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-33b057faa1564a229408e3aca8e65ae5"
         targetConnections="id-d97a369f120b4fd9af29f1c5c2b89c3f id-820b1a6cb43b44fd9a002f3fb5e476be id-6e55abbbb07b4461962e802223bbcfec">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <bounds
           x="12"
           y="276"
@@ -301,11 +361,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7be945fab7e4434b9c7dd28fb03819ba"
         targetConnections="id-f56f799df52a4bafbf472cde2a9b7227 id-7cc4032ff4bb41aeb686ce928d80e0ab">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6e55abbbb07b4461962e802223bbcfec"
           source="id-7be945fab7e4434b9c7dd28fb03819ba"
           target="id-33b057faa1564a229408e3aca8e65ae5">
+        <features
+            name="labelExpression"
+            value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-fb645f8fdbaa455a8377a437f000eb63.xml#id-fb645f8fdbaa455a8377a437f000eb63"/>
@@ -323,6 +389,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-007fa5e7dea24ef1a536c83ff0ee2eee"
         targetConnections="id-c6f242018b4848268230f8cff087aec7 id-7cb3a184151443608fcc7de1fd9f61b9">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <bounds
           x="12"
           y="396"
@@ -342,7 +411,7 @@
       fillColor="#dddddd">
     <features
         name="labelExpression"
-        value="${name} (${property:RefNum})"/>
+        value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-942167f54a79416d86a1f7eaf5780bef"
@@ -379,6 +448,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-705b4b80b79e4016aa412022aea790ce"
         targetConnections="id-942167f54a79416d86a1f7eaf5780bef id-3304ad30a52945f5b82b80c3f68614d7">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <bounds
           x="12"
           y="120"
@@ -392,6 +464,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e64080523468428a9f26e4f6d29bd192"
         targetConnections="id-3485d21738b2477fa9153864c7655ad2 id-19f42347dda84c5c9f8b003e708654e6">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <bounds
           x="12"
           y="348"
@@ -405,6 +480,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bb4fcafc7a3e4ed69efe7b5f1c3ab469"
         targetConnections="id-c810b2cb508b474f864f28a34461edcd id-6ac5491b5bdb428292882bad99d43526">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <bounds
           x="12"
           y="228"
@@ -421,11 +499,17 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c62d47617c904148ad48054bb31d1de1">
+    <features
+        name="labelExpression"
+        value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-5f88fbe9fdc7482ca5fc5df2ebb95eab"
         source="id-c62d47617c904148ad48054bb31d1de1"
         target="id-177a8be6a4b445e1ac68e8fb87c91dc5">
+      <features
+          name="labelExpression"
+          value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-fa050c1499bb49d99bb518685d1b0020.xml#id-fa050c1499bb49d99bb518685d1b0020"/>
@@ -444,6 +528,9 @@
       id="id-dfb8bbaf3c044a708044a47a00ea0b62"
       textAlignment="1"
       content="Change of GP???&#xD;&#xA;&#xD;&#xA;How do these messages get passed between each Service? Are they Events or something at a lower level?">
+    <features
+        name="labelExpression"
+        value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
     <bounds
         x="72"
         y="228"

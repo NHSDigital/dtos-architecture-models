@@ -7,6 +7,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1c072a80890f489b84ecbc800122d082"
       fillColor="#dddddd">
+    <features
+        name="labelExpression"
+        value="${name} (${property:RefNum})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3d5ec50557c54323988b29922d7ad5cf"
@@ -43,11 +46,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-aac5e123769c4713b017d619ec75b115"
         targetConnections="id-c07d57385fae43f58223640c39febfeb">
+      <features
+          name="labelExpression"
+          value="${name} (${property:RefNum})"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-3309cd574d7d4d50878b3316e80d827d"
           source="id-aac5e123769c4713b017d619ec75b115"
           target="id-8d94570d13c44069889ff5cdc1a5c74b">
+        <features
+            name="labelExpression"
+            value="${name} (${property:RefNum})"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-54b1848517294213a652f8af2f925790.xml#id-54b1848517294213a652f8af2f925790"/>
@@ -65,6 +74,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d9bdae7dead24baf8e77bb0ed13f60c3"
         targetConnections="id-3d5ec50557c54323988b29922d7ad5cf">
+      <features
+          name="labelExpression"
+          value="${name} (${property:RefNum})"/>
       <bounds
           x="12"
           y="396"
@@ -78,11 +90,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f0a8b9da3ef846778f1e2d37c8b6fb48"
         targetConnections="id-bdbd778e1bae49d49e6e4735b32efe41 id-36ff70e0f39d41239e38bbc0aeaafb62">
+      <features
+          name="labelExpression"
+          value="${name} (${property:RefNum})"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-105aa048755842a8a3a738446127aa09"
           source="id-f0a8b9da3ef846778f1e2d37c8b6fb48"
           target="id-688e35c2a7c345d79039904f9b4a580b">
+        <features
+            name="labelExpression"
+            value="${name} (${property:RefNum})"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-ed03fb0fcc364d1081f271e9c29e18a6.xml#id-ed03fb0fcc364d1081f271e9c29e18a6"/>
@@ -107,6 +125,9 @@
     <features
         name="deriveElementLineColor"
         value="false"/>
+    <features
+        name="labelExpression"
+        value="${name} (${property:RefNum})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-47d5a99ab9fe495a9f1a8f3bc220aaad"
@@ -125,11 +146,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8d94570d13c44069889ff5cdc1a5c74b"
         targetConnections="id-47d5a99ab9fe495a9f1a8f3bc220aaad id-3309cd574d7d4d50878b3316e80d827d id-82848ccc568748019e0ff59b4dcc4f27">
+      <features
+          name="labelExpression"
+          value="${name} (${property:RefNum})"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-36ff70e0f39d41239e38bbc0aeaafb62"
           source="id-8d94570d13c44069889ff5cdc1a5c74b"
           target="id-f0a8b9da3ef846778f1e2d37c8b6fb48">
+        <features
+            name="labelExpression"
+            value="${name} (${property:RefNum})"/>
         <bendpoints
             startX="-192"
             startY="18"
@@ -144,6 +171,9 @@
           id="id-ec86c00ea98c460783b0552346a88b4e"
           source="id-8d94570d13c44069889ff5cdc1a5c74b"
           target="id-70b10cd428544d69bccfd9037f00d774">
+        <features
+            name="labelExpression"
+            value="${name} (${property:RefNum})"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-7f8a0cc4ae4443dc9a2798f0964a66db.xml#id-7f8a0cc4ae4443dc9a2798f0964a66db"/>
@@ -165,6 +195,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d2675702d2f6417bb2d35440822488e0"
       fillColor="#dddddd">
+    <features
+        name="labelExpression"
+        value="${name} (${property:RefNum})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-63e00f5dee0c41b89efcbc55261ac3a1"
@@ -183,11 +216,17 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-70b10cd428544d69bccfd9037f00d774"
         targetConnections="id-63e00f5dee0c41b89efcbc55261ac3a1 id-ec86c00ea98c460783b0552346a88b4e">
+      <features
+          name="labelExpression"
+          value="${name} (${property:RefNum})"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-82848ccc568748019e0ff59b4dcc4f27"
           source="id-70b10cd428544d69bccfd9037f00d774"
           target="id-8d94570d13c44069889ff5cdc1a5c74b">
+        <features
+            name="labelExpression"
+            value="${name} (${property:RefNum})"/>
         <bendpoints
             startX="-96"
             startY="18"
@@ -217,6 +256,9 @@
     <features
         name="deriveElementLineColor"
         value="false"/>
+    <features
+        name="labelExpression"
+        value="${name} (${property:RefNum})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-06c5eeba16dc41718b0566ba2a0b20c8"
@@ -235,6 +277,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-688e35c2a7c345d79039904f9b4a580b"
         targetConnections="id-06c5eeba16dc41718b0566ba2a0b20c8 id-105aa048755842a8a3a738446127aa09">
+      <features
+          name="labelExpression"
+          value="${name} (${property:RefNum})"/>
       <bounds
           x="12"
           y="192"

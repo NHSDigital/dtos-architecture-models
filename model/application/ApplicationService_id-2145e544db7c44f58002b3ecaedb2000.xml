@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Screening Data Platform Service"
-    id="id-2145e544db7c44f58002b3ecaedb2000">
-  <properties
-      key="Created in Release"
-      value="Release 0"/>
-</archimate:ApplicationService>
