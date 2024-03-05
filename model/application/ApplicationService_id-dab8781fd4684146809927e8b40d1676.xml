@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Send Breast Cohort"
-    id="id-dab8781fd4684146809927e8b40d1676">
-  <properties
-      key="Created in Release"
-      value="Release 0"/>
-</archimate:ApplicationService>
