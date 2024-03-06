@@ -225,21 +225,21 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7f2a14c526ff49a8b1eae95e1d541543"
-        source="id-9faf5eb5d20e4da6a33a842a87663ac4"
-        target="id-d80e75b890cf4be4991d6b63de31161c">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-cc7f81bbff3b4723aa134b93052b30ed.xml#id-cc7f81bbff3b4723aa134b93052b30ed"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-689f48c006284627b024fece42425c29"
         source="id-9faf5eb5d20e4da6a33a842a87663ac4"
         target="id-bab4dc62de744c429fd3d65359cd7bbc">
       <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-ef4fbfac70bb46c2897471945c345e07.xml#id-ef4fbfac70bb46c2897471945c345e07"/>
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-522bdfdb99e84c43baa4691512ae634c.xml#id-522bdfdb99e84c43baa4691512ae634c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7f2a14c526ff49a8b1eae95e1d541543"
+        source="id-9faf5eb5d20e4da6a33a842a87663ac4"
+        target="id-d80e75b890cf4be4991d6b63de31161c">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-27999437321e4b91b06e7a5d27d9e1ad.xml#id-27999437321e4b91b06e7a5d27d9e1ad"/>
     </sourceConnections>
     <bounds
         x="408"
@@ -273,13 +273,13 @@
           href="Product_id-672d9b97b392403e97f5bf4294433064.xml#id-672d9b97b392403e97f5bf4294433064"/>
     </children>
     <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-7d0ed0a28ec24c9296e5ca690c553515.xml#id-7d0ed0a28ec24c9296e5ca690c553515"/>
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-62e39a30152648619de3c1f09065a5d8.xml#id-62e39a30152648619de3c1f09065a5d8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bab4dc62de744c429fd3d65359cd7bbc"
-      targetConnections="id-689f48c006284627b024fece42425c29 id-d0ec78866ecb4370b9d52b2818867e01">
+      targetConnections="id-d0ec78866ecb4370b9d52b2818867e01 id-689f48c006284627b024fece42425c29">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0b0a9e0cdacc472c88065d53040c2b4e"
@@ -334,8 +334,8 @@
           href="Product_id-6710d85814644727a3f8a3b2d4af8680.xml#id-6710d85814644727a3f8a3b2d4af8680"/>
     </children>
     <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-f77ee8bbf3a842aba67520afbd036e0f.xml#id-f77ee8bbf3a842aba67520afbd036e0f"/>
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-6b1c04c539cb4749b53203a03f30bd9f.xml#id-6b1c04c539cb4749b53203a03f30bd9f"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -411,8 +411,8 @@
           href="Product_id-ef8391226c554dbd9f63a090b739ec9c.xml#id-ef8391226c554dbd9f63a090b739ec9c"/>
     </children>
     <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-c7911ccb59b24b5fa7ba7f879f2e4bf0.xml#id-c7911ccb59b24b5fa7ba7f879f2e4bf0"/>
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-584cf4e535cd481e8e0ccdbb6ae88f7a.xml#id-584cf4e535cd481e8e0ccdbb6ae88f7a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -533,8 +533,8 @@
           href="Product_id-1c438741b4214a98bbec5fa73bda5923.xml#id-1c438741b4214a98bbec5fa73bda5923"/>
     </children>
     <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-540264a3e47a4bcc9af7c35a8d9b6a90.xml#id-540264a3e47a4bcc9af7c35a8d9b6a90"/>
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-251ec5bbd3864c94a39157e94a266979.xml#id-251ec5bbd3864c94a39157e94a266979"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -582,8 +582,8 @@
           href="Product_id-4c75ca38ca0a4cd1abcbf3faa896b5d9.xml#id-4c75ca38ca0a4cd1abcbf3faa896b5d9"/>
     </children>
     <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-11c1e5d2ec254e36b2def50b163e4f88.xml#id-11c1e5d2ec254e36b2def50b163e4f88"/>
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_id-2effd8178cda45e7a90763be95382f79.xml#id-2effd8178cda45e7a90763be95382f79"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -610,15 +610,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fa90a9d5a08a41749aa30f2a4f6be7e9">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7527de990c294b369f1c3ce8b3ec7759"
-        source="id-fa90a9d5a08a41749aa30f2a4f6be7e9"
-        target="id-9faf5eb5d20e4da6a33a842a87663ac4">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-a01cea973d8648fcb744c8c7358d3589.xml#id-a01cea973d8648fcb744c8c7358d3589"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d0ec78866ecb4370b9d52b2818867e01"
@@ -654,6 +645,15 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-565aeda5cd8f47499c7c283b3482d2dd.xml#id-565aeda5cd8f47499c7c283b3482d2dd"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7527de990c294b369f1c3ce8b3ec7759"
+        source="id-fa90a9d5a08a41749aa30f2a4f6be7e9"
+        target="id-9faf5eb5d20e4da6a33a842a87663ac4">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-d1a7101048324bf4a557f1a8d2206776.xml#id-d1a7101048324bf4a557f1a8d2206776"/>
     </sourceConnections>
     <bounds
         x="372"

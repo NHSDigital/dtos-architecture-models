@@ -5,4 +5,10 @@
   <properties
       key="RefNum"
       value="A01.01"/>
+  <properties
+      key="Parent"
+      value="Pr01"/>
+  <properties
+      key="UserStory"
+      value="Drop 1"/>
 </archimate:ApplicationComponent>

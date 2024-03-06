@@ -8,4 +8,7 @@
   <properties
       key="Level"
       value="S2"/>
+  <properties
+      key="Parent"
+      value="Pr01"/>
 </archimate:BusinessService>

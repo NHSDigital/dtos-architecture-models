@@ -8,4 +8,7 @@
   <properties
       key="RefNum"
       value="C03.01"/>
+  <properties
+      key="Parent"
+      value="Pr02"/>
 </archimate:BusinessService>

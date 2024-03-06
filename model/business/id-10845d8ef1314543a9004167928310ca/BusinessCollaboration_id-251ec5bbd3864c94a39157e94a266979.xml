@@ -1,8 +1,8 @@
-<archimate:BusinessService
+<archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Screening Event Stage"
-    id="id-540264a3e47a4bcc9af7c35a8d9b6a90">
+    id="id-251ec5bbd3864c94a39157e94a266979">
   <properties
       key="RefNum"
       value="St3"/>
-</archimate:BusinessService>
+</archimate:BusinessCollaboration>

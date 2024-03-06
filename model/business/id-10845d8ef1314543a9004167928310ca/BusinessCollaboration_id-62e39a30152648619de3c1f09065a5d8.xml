@@ -1,8 +1,8 @@
-<archimate:BusinessService
+<archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Planning Stage"
-    id="id-7d0ed0a28ec24c9296e5ca690c553515">
+    id="id-62e39a30152648619de3c1f09065a5d8">
   <properties
       key="RefNum"
       value="St1"/>
-</archimate:BusinessService>
+</archimate:BusinessCollaboration>

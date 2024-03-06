@@ -6,6 +6,6 @@
       xsi:type="archimate:ApplicationCollaboration"
       href="ApplicationCollaboration_id-7a8f8e2327e44d22a7f2f4d007b4c90c.xml#id-7a8f8e2327e44d22a7f2f4d007b4c90c"/>
   <target
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_id-540264a3e47a4bcc9af7c35a8d9b6a90.xml#id-540264a3e47a4bcc9af7c35a8d9b6a90"/>
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-251ec5bbd3864c94a39157e94a266979.xml#id-251ec5bbd3864c94a39157e94a266979"/>
 </archimate:ServingRelationship>

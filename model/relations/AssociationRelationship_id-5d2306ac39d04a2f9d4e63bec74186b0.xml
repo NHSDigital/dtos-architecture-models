@@ -1,12 +1,12 @@
-<archimate:TriggeringRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="End of Episode"
-    id="id-9f255fbdc76b4636961dc78495dfbe3b">
+    id="id-5d2306ac39d04a2f9d4e63bec74186b0">
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_id-0c572a3442e947f7822ec58388aaff42.xml#id-0c572a3442e947f7822ec58388aaff42"/>
   <target
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_id-7d0ed0a28ec24c9296e5ca690c553515.xml#id-7d0ed0a28ec24c9296e5ca690c553515"/>
-</archimate:TriggeringRelationship>
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-62e39a30152648619de3c1f09065a5d8.xml#id-62e39a30152648619de3c1f09065a5d8"/>
+</archimate:AssociationRelationship>

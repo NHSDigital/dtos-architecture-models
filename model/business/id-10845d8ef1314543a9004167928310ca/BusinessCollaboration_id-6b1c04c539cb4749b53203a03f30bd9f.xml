@@ -1,8 +1,8 @@
-<archimate:BusinessService
+<archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Participant Enrolment Stage"
-    id="id-f77ee8bbf3a842aba67520afbd036e0f">
+    id="id-6b1c04c539cb4749b53203a03f30bd9f">
   <properties
       key="RefNum"
       value="St2"/>
-</archimate:BusinessService>
+</archimate:BusinessCollaboration>

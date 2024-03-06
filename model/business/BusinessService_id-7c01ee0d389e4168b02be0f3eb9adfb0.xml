@@ -8,4 +8,7 @@
   <properties
       key="RefNum"
       value="C23 "/>
+  <properties
+      key="Parent"
+      value="z Not Allocated"/>
 </archimate:BusinessService>

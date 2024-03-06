@@ -5,4 +5,7 @@
   <properties
       key="RefNum"
       value="Pr09"/>
+  <properties
+      key="Parent"
+      value="St5"/>
 </archimate:Product>
