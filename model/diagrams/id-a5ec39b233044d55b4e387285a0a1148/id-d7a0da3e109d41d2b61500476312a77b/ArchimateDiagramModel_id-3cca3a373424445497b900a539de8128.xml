@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. CaaS Integration Collaboration (Drop 1)"
+    name="1. CaaS Integration Collaboration User Story: Drop 1"
     id="id-3cca3a373424445497b900a539de8128">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -528,13 +528,27 @@
       id="id-dfb8bbaf3c044a708044a47a00ea0b62"
       textAlignment="1"
       content="Change of GP???&#xD;&#xA;&#xD;&#xA;How do these messages get passed between each Service? Are they Events or something at a lower level?">
-    <features
-        name="labelExpression"
-        value="&#xD;&#xA;${name} (${property:RefNum})&#xD;&#xA;"/>
     <bounds
         x="72"
         y="228"
         width="276"
         height="181"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3a7338d45bac411d9e1b369982b1b997"
+      textAlignment="1"
+      content="XXX">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="View Name: $view{name}&#xD;&#xA;VFolder: $vfolder{name}"/>
+    <bounds
+        x="96"
+        y="576"
+        width="440"
+        height="50"/>
   </children>
 </archimate:ArchimateDiagramModel>

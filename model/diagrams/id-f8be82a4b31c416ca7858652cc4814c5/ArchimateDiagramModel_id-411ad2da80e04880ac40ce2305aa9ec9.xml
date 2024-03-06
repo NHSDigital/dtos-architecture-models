@@ -845,4 +845,21 @@
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_id-e34313e80f594dfe9bb1cee51cf82057.xml#id-e34313e80f594dfe9bb1cee51cf82057"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-644232e3371a48fc8c893e7e15674a0e"
+      textAlignment="1"
+      content="XXX">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="View Name: $view{name}&#xD;&#xA;VFolder: $vfolder{name}&#xD;&#xA;"/>
+    <bounds
+        x="132"
+        y="1032"
+        width="480"
+        height="132"/>
+  </children>
 </archimate:ArchimateDiagramModel>

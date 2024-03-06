@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technical Service 3"
-    id="id-0535c07ade8f4ac8b7240855f5f2f96e"/>
+    id="id-0535c07ade8f4ac8b7240855f5f2f96e">
+  <properties
+      key="RefNum"
+      value="Helper"/>
+</archimate:ApplicationComponent>

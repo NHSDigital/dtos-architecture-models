@@ -436,4 +436,21 @@
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-216acfd60ec748d6a53b82ff9399deea.xml#id-216acfd60ec748d6a53b82ff9399deea"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e4ab52bf968d4e259974399da25ca60e"
+      textAlignment="1"
+      content="XXX">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="View Name: $view{name}&#xD;&#xA;VFolder: $vfolder{name}"/>
+    <bounds
+        x="100"
+        y="829"
+        width="440"
+        height="50"/>
+  </children>
 </archimate:ArchimateDiagramModel>

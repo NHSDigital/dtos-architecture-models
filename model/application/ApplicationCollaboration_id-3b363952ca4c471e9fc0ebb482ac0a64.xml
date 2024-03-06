@@ -1,4 +1,13 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NHS Dynamics Implementation"
-    id="id-3b363952ca4c471e9fc0ebb482ac0a64"/>
+    id="id-3b363952ca4c471e9fc0ebb482ac0a64">
+  <properties/>
+  <properties/>
+  <properties/>
+  <properties/>
+  <properties/>
+  <properties
+      key="RefNum"
+      value="AX07"/>
+</archimate:ApplicationCollaboration>

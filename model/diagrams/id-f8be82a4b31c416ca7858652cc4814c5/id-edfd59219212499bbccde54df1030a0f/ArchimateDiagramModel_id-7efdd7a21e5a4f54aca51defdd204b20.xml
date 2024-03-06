@@ -1,4 +1,25 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Audit Collaboration Full View"
-    id="id-7efdd7a21e5a4f54aca51defdd204b20"/>
+    name="Business Audit Collaboration User Story XXX"
+    id="id-7efdd7a21e5a4f54aca51defdd204b20">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-dbb314a87d764e438b325cd5aca3beb4"
+      textAlignment="1"
+      content="XXX">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="View Name: $view{name}&#xD;&#xA;VFolder: $vfolder{name}"/>
+    <bounds
+        x="120"
+        y="849"
+        width="440"
+        height="50"/>
+  </children>
+  <properties
+      key="Status"/>
+</archimate:ArchimateDiagramModel>

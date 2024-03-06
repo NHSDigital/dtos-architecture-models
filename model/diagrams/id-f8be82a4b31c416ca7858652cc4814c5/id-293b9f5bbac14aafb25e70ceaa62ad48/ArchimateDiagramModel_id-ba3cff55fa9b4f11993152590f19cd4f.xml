@@ -1,4 +1,23 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BI and Data Analytics Collaboration Full View "
-    id="id-ba3cff55fa9b4f11993152590f19cd4f"/>
+    name="BI and Data Analytics Collaboration User Story XXX"
+    id="id-ba3cff55fa9b4f11993152590f19cd4f">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-86aa09efc80a41689c1ddf98ca7da1b9"
+      textAlignment="1"
+      content="XXX">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="View Name: $view{name}&#xD;&#xA;VFolder: $vfolder{name}"/>
+    <bounds
+        x="110"
+        y="839"
+        width="440"
+        height="50"/>
+  </children>
+</archimate:ArchimateDiagramModel>

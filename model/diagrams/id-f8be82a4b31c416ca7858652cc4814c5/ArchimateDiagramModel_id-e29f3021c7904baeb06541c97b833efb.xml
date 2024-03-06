@@ -1,4 +1,23 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1. Service Insights Contextual View"
-    id="id-e29f3021c7904baeb06541c97b833efb"/>
+    id="id-e29f3021c7904baeb06541c97b833efb">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e10ea941b06b410dba68bd91bb6a2bf8"
+      textAlignment="1"
+      content="XXX">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="View Name: $view{name}&#xD;&#xA;VFolder: $vfolder{name}"/>
+    <bounds
+        x="130"
+        y="859"
+        width="440"
+        height="50"/>
+  </children>
+</archimate:ArchimateDiagramModel>

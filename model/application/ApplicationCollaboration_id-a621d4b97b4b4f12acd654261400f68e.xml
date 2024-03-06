@@ -1,4 +1,13 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NHS Salesforce Implementation"
-    id="id-a621d4b97b4b4f12acd654261400f68e"/>
+    id="id-a621d4b97b4b4f12acd654261400f68e">
+  <properties/>
+  <properties/>
+  <properties/>
+  <properties/>
+  <properties/>
+  <properties
+      key="RefNum"
+      value="AX06"/>
+</archimate:ApplicationCollaboration>
