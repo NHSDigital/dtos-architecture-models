@@ -7,8 +7,8 @@
       value="S2"/>
   <properties
       key="RefNum"
-      value="C05.02"/>
+      value="P05.C01.02"/>
   <properties
       key="Parent"
-      value="Pr05"/>
+      value="St2 Participant Enrolment"/>
 </archimate:BusinessService>

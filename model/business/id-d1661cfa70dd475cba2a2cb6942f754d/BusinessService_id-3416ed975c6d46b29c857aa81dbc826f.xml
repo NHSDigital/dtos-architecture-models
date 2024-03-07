@@ -4,11 +4,11 @@
     id="id-3416ed975c6d46b29c857aa81dbc826f">
   <properties
       key="RefNum"
-      value="C01"/>
+      value="P01.C01"/>
   <properties
       key="Level"
       value="S1"/>
   <properties
       key="Parent"
-      value="Pr01"/>
+      value="St1 Service Planning"/>
 </archimate:BusinessService>

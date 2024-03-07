@@ -7,8 +7,8 @@
       value="S1"/>
   <properties
       key="RefNum"
-      value="C27"/>
+      value="P11.C01"/>
   <properties
       key="Parent"
-      value="z Not Allocated"/>
+      value="St5 Service Insights"/>
 </archimate:BusinessService>

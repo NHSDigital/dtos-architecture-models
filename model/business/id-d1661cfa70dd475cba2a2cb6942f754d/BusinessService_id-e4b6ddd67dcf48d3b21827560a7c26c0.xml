@@ -7,8 +7,8 @@
       value="S1"/>
   <properties
       key="RefNum"
-      value="C21 "/>
+      value="P08.C01 "/>
   <properties
       key="Parent"
-      value="Pr08"/>
+      value="St4 Screening Outcomes"/>
 </archimate:BusinessService>

@@ -7,8 +7,8 @@
       value="S1"/>
   <properties
       key="RefNum"
-      value="C28"/>
+      value="P02.C03"/>
   <properties
       key="Parent"
-      value="Pr02"/>
+      value="St1 Service Planning"/>
 </archimate:BusinessService>
