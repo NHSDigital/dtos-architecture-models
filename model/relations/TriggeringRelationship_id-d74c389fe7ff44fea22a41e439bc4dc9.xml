@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BARS"
+    id="id-d74c389fe7ff44fea22a41e439bc4dc9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-57f3dca5b771490c88b269c82a0fbe62.xml#id-57f3dca5b771490c88b269c82a0fbe62"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-4e5a61804b3f46e9bb114c427189cab8.xml#id-4e5a61804b3f46e9bb114c427189cab8"/>
+</archimate:TriggeringRelationship>

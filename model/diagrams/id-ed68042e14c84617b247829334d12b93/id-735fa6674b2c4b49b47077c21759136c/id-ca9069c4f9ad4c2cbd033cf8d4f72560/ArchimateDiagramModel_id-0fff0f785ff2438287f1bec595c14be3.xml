@@ -1285,7 +1285,7 @@
               value="${name} (${property:RefNum})"/>
           <bounds
               x="12"
-              y="24"
+              y="36"
               width="205"
               height="37"/>
           <archimateElement
@@ -1922,7 +1922,7 @@
               href="CompositionRelationship_id-32c3f1ac8198453fb251af046450a6bb.xml#id-32c3f1ac8198453fb251af046450a6bb"/>
         </sourceConnections>
         <bounds
-            x="13"
+            x="12"
             y="276"
             width="216"
             height="168"/>

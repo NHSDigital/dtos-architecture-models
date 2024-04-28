@@ -594,8 +594,8 @@
         source="id-789859e2140f497e9fbf7b69fba0d38f"
         target="id-7dcb06c919334525b0c0b7507b5124c7">
       <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-522bdfdb99e84c43baa4691512ae634c.xml#id-522bdfdb99e84c43baa4691512ae634c"/>
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-5e83441f81f14a928a75c14846b914a7.xml#id-5e83441f81f14a928a75c14846b914a7"/>
     </sourceConnections>
     <bounds
         x="120"
