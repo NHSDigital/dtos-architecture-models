@@ -5,6 +5,25 @@
     id="id-0b79e5b3ba604ac9a7f704c07d71519d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e0d2d1347b5143128da5492c2468c156"
+      targetConnections="id-e8279235be30471db5deebbc2d50844c"
+      textAlignment="4"
+      alpha="0"
+      textPosition="2">
+    <features
+        name="labelExpression"
+        value="Data&#xD;&#xA;Architecture&#xD;&#xA;Practice"/>
+    <bounds
+        x="636"
+        y="288"
+        width="733"
+        height="78"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-2e1d0a3c2ad947a782ca6a19692b6bba.xml#id-2e1d0a3c2ad947a782ca6a19692b6bba"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d85dc847c1dd4165b9f834a23b6a75ee"
       targetConnections="id-8ecd930e9bba410dba2549377be676b5 id-7e58bd50228043d8b052b2827619238b id-0fa81f5c94684d8ca6dff37843353969 id-efa4f37af41c423fa39b60c660bf2864 id-1aae619ee7964cb88b256518968c4974">
     <features
@@ -695,30 +714,6 @@
         height="529"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-324b1f9da94541acabeac6e1f475544b">
-      <features
-          name="labelExpression"
-          value="Data&#xD;&#xA;Architect"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-2d15795af0ee4a75820fab8d4e8c3b85"
-          source="id-324b1f9da94541acabeac6e1f475544b"
-          target="id-1960a4ce81af477ea4620dfaacbdaf26">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-fea68d2f9eaf4b6fbbb7027353a70492.xml#id-fea68d2f9eaf4b6fbbb7027353a70492"/>
-      </sourceConnections>
-      <bounds
-          x="12"
-          y="48"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessRole"
-          href="BusinessRole_id-391bce0d22154ff3857c0e6b1495c50b.xml#id-391bce0d22154ff3857c0e6b1495c50b"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-02f6ff6543a342f6805799bd931859fa">
       <features
           name="labelExpression"
@@ -860,6 +855,30 @@
       <archimateElement
           xsi:type="archimate:BusinessRole"
           href="BusinessRole_id-01eafc0496394fe0a1a77ed92f62dc2e.xml#id-01eafc0496394fe0a1a77ed92f62dc2e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-324b1f9da94541acabeac6e1f475544b">
+      <features
+          name="labelExpression"
+          value="Data&#xD;&#xA;Architect"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-2d15795af0ee4a75820fab8d4e8c3b85"
+          source="id-324b1f9da94541acabeac6e1f475544b"
+          target="id-1960a4ce81af477ea4620dfaacbdaf26">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-fea68d2f9eaf4b6fbbb7027353a70492.xml#id-fea68d2f9eaf4b6fbbb7027353a70492"/>
+      </sourceConnections>
+      <bounds
+          x="12"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_id-391bce0d22154ff3857c0e6b1495c50b.xml#id-391bce0d22154ff3857c0e6b1495c50b"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessInteraction"
@@ -1497,25 +1516,6 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-23c0bc82c0fa46128ea3b308db788c76.xml#id-23c0bc82c0fa46128ea3b308db788c76"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e0d2d1347b5143128da5492c2468c156"
-      targetConnections="id-e8279235be30471db5deebbc2d50844c"
-      textAlignment="4"
-      alpha="0"
-      textPosition="2">
-    <features
-        name="labelExpression"
-        value="Data&#xD;&#xA;Architecture&#xD;&#xA;Practice"/>
-    <bounds
-        x="636"
-        y="288"
-        width="733"
-        height="78"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-2e1d0a3c2ad947a782ca6a19692b6bba.xml#id-2e1d0a3c2ad947a782ca6a19692b6bba"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
