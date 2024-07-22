@@ -1,0 +1,126 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DToS Architecture - conceptual"
+    id="id-64c579882ea34e3b981016766afdbf9f">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-2a0884120ddf48858205dc84b4615e11"
+      name="conceptual - cohort management group"
+      textAlignment="1"
+      borderType="1">
+    <features
+        name="labelExpression"
+        value="cohort management&#xD;&#xA;[NHSE shared screening capability]"/>
+    <bounds
+        x="324"
+        y="264"
+        width="217"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-3f819ca916ef4d0e818e4e168586763d"
+      name="conceptual - campaign management group"
+      textAlignment="1"
+      borderType="1">
+    <features
+        name="labelExpression"
+        value="campaign management&#xD;&#xA;[NHSE shared platform capability]"/>
+    <bounds
+        x="324"
+        y="456"
+        width="217"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-20de71e7b32d48f699f131cf8b35ae52"
+      name="conceptual - result processing and tracking group"
+      textAlignment="1"
+      borderType="1">
+    <features
+        name="labelExpression"
+        value="result processing and tracking&#xD;&#xA;[NHSE shared platform capability]"/>
+    <bounds
+        x="816"
+        y="264"
+        width="217"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-b47012192dac431fa65767ac6cc1590c"
+      name="conceptual - call / recall group"
+      textAlignment="1"
+      borderType="1">
+    <features
+        name="labelExpression"
+        value="call / recall&#xD;&#xA;[NHSE shared platform capability]"/>
+    <bounds
+        x="540"
+        y="36"
+        width="217"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-30b3b9439bad4cf69da3855b761e2b97"
+      name="conceptual - demand forecasting and management"
+      textAlignment="1"
+      borderType="1">
+    <features
+        name="labelExpression"
+        value="demand forcasting&#xD;&#xA;[NHSE shared platform capability]"/>
+    <bounds
+        x="324"
+        y="36"
+        width="217"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-4b3dc78a89d3442b94ec706fae5dea36"
+      name="conceptual - communication"
+      textAlignment="1"
+      borderType="1">
+    <features
+        name="labelExpression"
+        value="communication&#xD;&#xA;[NHSE shared platform capability]"/>
+    <bounds
+        x="816"
+        y="36"
+        width="217"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-25649854dc8c4d499a9c9a0b968e2325">
+    <features
+        name="labelExpression"
+        value="call / recall"/>
+    <bounds
+        x="674"
+        y="522"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-34a0a5c0af0d46dbbf50cd92a2f2f7bf.xml#id-34a0a5c0af0d46dbbf50cd92a2f2f7bf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4d4c2646a9f04edaabb437a9bb9b6c7f">
+    <features
+        name="labelExpression"
+        value="demand forecasting"/>
+    <bounds
+        x="555"
+        y="522"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-0d4b631322be4ee6abb035e8ceef3559.xml#id-0d4b631322be4ee6abb035e8ceef3559"/>
+  </children>
+</archimate:ArchimateDiagramModel>
