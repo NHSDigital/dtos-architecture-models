@@ -299,7 +299,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-329c8e260429431f887b8ae40ba107a9"
-      targetConnections="id-dc0ad4102e39477aa0da0000e57470f4 id-012ffe5601404502b5f6b54e6b5597aa id-dd8c6edfbb20447ea05ef3933fe48792">
+      targetConnections="id-012ffe5601404502b5f6b54e6b5597aa id-dd8c6edfbb20447ea05ef3933fe48792">
     <features
         name="labelExpression"
         value="Delivery&#xD;&#xA;Team"/>
@@ -314,15 +314,6 @@
       <features
           name="labelExpression"
           value="Business Architect&#xD;&#xA;(SEM)"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-dc0ad4102e39477aa0da0000e57470f4"
-          source="id-881e676fc8714c44bb207da65d9af4b5"
-          target="id-329c8e260429431f887b8ae40ba107a9">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-e2c74f82da724e8f9f92d8cd7459be6a.xml#id-e2c74f82da724e8f9f92d8cd7459be6a"/>
-      </sourceConnections>
       <bounds
           x="13"
           y="48"

@@ -703,7 +703,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1960a4ce81af477ea4620dfaacbdaf26"
-      targetConnections="id-759f17e90c034ec48ac4ad122d0e9758 id-935f628d5cf145a89adb9a724e260be6 id-2d15795af0ee4a75820fab8d4e8c3b85 id-4e00d19fd3094d7bb1ae532d9ad9f25e id-b44f13d14951448db3f207abfe7d2678 id-8f29071f055f4fb686f7982d11ee474e id-c94d8d9dce134746a2d0d01d977cd75c id-c25f76198caa4f3f99885a0b19943c0f">
+      targetConnections="id-759f17e90c034ec48ac4ad122d0e9758 id-935f628d5cf145a89adb9a724e260be6 id-2d15795af0ee4a75820fab8d4e8c3b85 id-4e00d19fd3094d7bb1ae532d9ad9f25e id-b44f13d14951448db3f207abfe7d2678 id-8f29071f055f4fb686f7982d11ee474e id-c94d8d9dce134746a2d0d01d977cd75c">
     <features
         name="labelExpression"
         value="Delivery&#xD;&#xA;Team"/>
@@ -826,15 +826,6 @@
       <features
           name="labelExpression"
           value="Business Architect"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-c25f76198caa4f3f99885a0b19943c0f"
-          source="id-a7c9016dea304334b4eed757dd7f751e"
-          target="id-1960a4ce81af477ea4620dfaacbdaf26">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-e2c74f82da724e8f9f92d8cd7459be6a.xml#id-e2c74f82da724e8f9f92d8cd7459be6a"/>
-      </sourceConnections>
       <bounds
           x="12"
           y="456"
