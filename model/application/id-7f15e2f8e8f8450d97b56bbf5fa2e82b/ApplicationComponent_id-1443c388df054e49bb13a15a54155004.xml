@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Now"
+    id="id-1443c388df054e49bb13a15a54155004">
+  <profiles
+      href="folder.xml#id-55e64b0da11a47c5b4609fb0be7e850a"/>
+</archimate:ApplicationComponent>
