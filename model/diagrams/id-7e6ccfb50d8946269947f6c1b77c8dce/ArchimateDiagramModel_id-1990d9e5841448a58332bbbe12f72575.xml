@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Release 0 - BI&amp;Analytics"
+    id="id-1990d9e5841448a58332bbbe12f72575">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-85ef7cd76dae4718b4545413f9f4e870">
+    <bounds
+        x="72"
+        y="180"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-1152f804a0d34d83a4cf1908554719f8.xml#id-1152f804a0d34d83a4cf1908554719f8"/>
+  </children>
+</archimate:ArchimateDiagramModel>
