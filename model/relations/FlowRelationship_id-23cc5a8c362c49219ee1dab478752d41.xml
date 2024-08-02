@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invitation Communication standardised for Notify"
+    id="id-23cc5a8c362c49219ee1dab478752d41">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-7a8f8e2327e44d22a7f2f4d007b4c90c.xml#id-7a8f8e2327e44d22a7f2f4d007b4c90c"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-66e65eb0e17f455dbd227a21e22e6805.xml#id-66e65eb0e17f455dbd227a21e22e6805"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Appointment Booking Data"
+    id="id-4511fb8e63d140bda6325467fcb6d81f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-26de1ecddd5f49829633c3a9e57b166c.xml#id-26de1ecddd5f49829633c3a9e57b166c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-723ce90324ca405f9c3c2816a450acf3.xml#id-723ce90324ca405f9c3c2816a450acf3"/>
+</archimate:FlowRelationship>
