@@ -21,10 +21,22 @@
     <bounds
         x="149"
         y="191"
-        width="120"
+        width="176"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-b28dd9d426d047539f862f79ec31dae9.xml#id-b28dd9d426d047539f862f79ec31dae9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-15129e8cdccf4170adf5f3e381f9b652">
+    <bounds
+        x="395"
+        y="229"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-40b934e2e8d6494aaa2f7f0d30daeb77.xml#id-40b934e2e8d6494aaa2f7f0d30daeb77"/>
   </children>
 </archimate:ArchimateDiagramModel>
