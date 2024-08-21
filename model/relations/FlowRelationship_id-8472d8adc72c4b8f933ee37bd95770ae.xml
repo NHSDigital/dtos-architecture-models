@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Episode events (e.g. appointment)"
+    id="id-8472d8adc72c4b8f933ee37bd95770ae">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-60139420c8214a7eaf79e75c2eff6f4c.xml#id-60139420c8214a7eaf79e75c2eff6f4c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07e3a47c7e3f4d2896228ffea7202de4.xml#id-07e3a47c7e3f4d2896228ffea7202de4"/>
+</archimate:FlowRelationship>

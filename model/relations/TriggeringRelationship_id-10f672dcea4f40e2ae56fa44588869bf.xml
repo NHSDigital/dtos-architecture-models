@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GetNotificationEvents"
+    id="id-10f672dcea4f40e2ae56fa44588869bf">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4867c8aa96c54c79aff4efd4279438f6.xml#id-4867c8aa96c54c79aff4efd4279438f6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-74bbfdd67df14172bfeea10513fb03e2.xml#id-74bbfdd67df14172bfeea10513fb03e2"/>
+</archimate:TriggeringRelationship>

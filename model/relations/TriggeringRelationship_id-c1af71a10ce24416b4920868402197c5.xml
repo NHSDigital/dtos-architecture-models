@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Add/Update Participant"
+    id="id-c1af71a10ce24416b4920868402197c5">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-b10b04a5a1cc4261a6f1f9a1853dee83.xml#id-b10b04a5a1cc4261a6f1f9a1853dee83"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e2f7431eeef34afa9cf338598a2bbd80.xml#id-e2f7431eeef34afa9cf338598a2bbd80"/>
+</archimate:TriggeringRelationship>

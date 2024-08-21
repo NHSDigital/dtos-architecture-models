@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Post"
+    name="Post 'add new closed episode'"
     id="id-d1aabe8abbac4a2cab475dd94f6c77e0">
   <source
       xsi:type="archimate:ApplicationService"

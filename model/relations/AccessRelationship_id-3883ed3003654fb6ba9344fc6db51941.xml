@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Screening Updates"
+    id="id-3883ed3003654fb6ba9344fc6db51941">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b617e10b0f024b04982f732c08d273b8.xml#id-b617e10b0f024b04982f732c08d273b8"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a7b47cae67804e45bfb506325df6ce04.xml#id-a7b47cae67804e45bfb506325df6ce04"/>
+</archimate:AccessRelationship>

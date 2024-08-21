@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participant Record Updated"
+    id="id-16a85ec1e54d42b696000d037c04f571">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fb7dad8c9af84707b490b64c4716e626.xml#id-fb7dad8c9af84707b490b64c4716e626"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-969e0f9cacd94776bd79cd3f18031bd8.xml#id-969e0f9cacd94776bd79cd3f18031bd8"/>
+</archimate:AccessRelationship>

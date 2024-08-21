@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Screening Comms"
+    id="id-10f7299cab544a0a9f06a713c5b1198f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07e3a47c7e3f4d2896228ffea7202de4.xml#id-07e3a47c7e3f4d2896228ffea7202de4"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-2a59e88a125d447eabe6e275c113e509.xml#id-2a59e88a125d447eabe6e275c113e509"/>
+</archimate:FlowRelationship>

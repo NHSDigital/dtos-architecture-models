@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pass NHS ID GetUpdate"
     id="id-2fe8f5efc79041bf812ee81b9f5d88ed">
   <source
       xsi:type="archimate:ApplicationComponent"

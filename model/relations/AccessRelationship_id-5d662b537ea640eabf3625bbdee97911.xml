@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Participant Data (Synchronous)"
+    id="id-5d662b537ea640eabf3625bbdee97911">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-45fceb2892214e34bc4af00b5905b5ba.xml#id-45fceb2892214e34bc4af00b5905b5ba"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-969e0f9cacd94776bd79cd3f18031bd8.xml#id-969e0f9cacd94776bd79cd3f18031bd8"/>
+</archimate:AccessRelationship>

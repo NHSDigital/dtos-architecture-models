@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Post"
+    name="Post Update Participant"
     id="id-93aa486c27044b3aa8bd9ddad55d5b06">
   <source
       xsi:type="archimate:ApplicationService"

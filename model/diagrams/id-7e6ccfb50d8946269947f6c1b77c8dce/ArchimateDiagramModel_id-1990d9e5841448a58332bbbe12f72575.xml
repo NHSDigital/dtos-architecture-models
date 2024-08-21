@@ -56,9 +56,10 @@
           endX="-198"
           endY="54"/>
       <bendpoints
-          startY="-147"
-          endX="-198"
-          endY="-6"/>
+          startX="18"
+          startY="-159"
+          endX="-234"
+          endY="-18"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-93aa486c27044b3aa8bd9ddad55d5b06.xml#id-93aa486c27044b3aa8bd9ddad55d5b06"/>
@@ -304,10 +305,10 @@
             endX="534"
             endY="-144"/>
         <bendpoints
-            startX="84"
-            startY="198"
-            endX="534"
-            endY="60"/>
+            startX="96"
+            startY="210"
+            endX="504"
+            endY="66"/>
         <bendpoints
             startY="198"
             endX="450"

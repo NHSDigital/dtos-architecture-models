@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raise Exception Ticket"
+    id="id-46e215b2cd0741a6ace29c97d467bcea">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d717e1c438c44c6787af3d3b5786ea75.xml#id-d717e1c438c44c6787af3d3b5786ea75"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-da524a474e174a99bc0e8883630a5666.xml#id-da524a474e174a99bc0e8883630a5666"/>
+</archimate:FlowRelationship>

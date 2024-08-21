@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Screening History"
+    id="id-e097fc760a774bf3b54d8d4883a6cd84">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-abb724df34904f898695ebf52f858904.xml#id-abb724df34904f898695ebf52f858904"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-2a59e88a125d447eabe6e275c113e509.xml#id-2a59e88a125d447eabe6e275c113e509"/>
+</archimate:FlowRelationship>

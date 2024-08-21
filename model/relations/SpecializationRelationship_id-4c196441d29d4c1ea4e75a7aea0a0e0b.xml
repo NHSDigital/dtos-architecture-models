@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Episode (Synchronous)"
+    id="id-4c196441d29d4c1ea4e75a7aea0a0e0b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-abb724df34904f898695ebf52f858904.xml#id-abb724df34904f898695ebf52f858904"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2cd79ce7a42c4e389c840898193dc81c.xml#id-2cd79ce7a42c4e389c840898193dc81c"/>
+</archimate:SpecializationRelationship>

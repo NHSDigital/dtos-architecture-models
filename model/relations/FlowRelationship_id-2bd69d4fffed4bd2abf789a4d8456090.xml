@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update Participant"
     id="id-2bd69d4fffed4bd2abf789a4d8456090">
   <source
       xsi:type="archimate:ApplicationComponent"
